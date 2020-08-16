@@ -1,0 +1,4 @@
+#youthere{
+	display:none;
+	/*visibility: hidden; this creates a blank space on the page in addition to hiding the tag from view*/
+}

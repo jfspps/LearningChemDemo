@@ -1,0 +1,188 @@
+<%- include("partials/header") %>
+<title>Thermodynamics 1: Enthalpy changes and entropy changes</title>
+<meta name="description" content="Understanding more about what enthalpy change and entropy change mean">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Thermodynamics 1: Enthalpy changes and entropy changes</h1>
+	<p><i>28th Jul 2020</i></p>
+
+	<p>
+		This article is a continuation of a <a href="2_DescribingEntropy">previous article</a> which describes entropy. Here, I will focus on the background to entropy and entropy change, and leave out all of the calculation based problems. You can ask your teacher to provide you with calculation based problems appropriate to a pre-university standard course.
+	</p>
+	<p>
+		In addition to entropy change we will also go deeper into the meaning of enthalpy change. All students will learn about enthalpy change and receive plenty of practice problems, applying Hess' law and enthalpy cycles. I will not repeat that material here. Along the way I will mention a few, hopefully familiar topics from Physics, which no doubt overlap with this topic. If you are comfortable with enthalpy change calculations and the material presented in my article about entropy then you should be ready to follow the content below.
+	</p>
+
+	<p>
+		Thermodynamics is a field which investigates the different forms of energy and how they are converted. I will not enter into a discussion about whether heat and work <i>are</i> energy or a type of energy transfer, so my application of the terms will vary a little. The next article (<a href="14_GibbsFreeEnergy">Thermodynamics 2</a>) explains how to predict whether a reaction is favourable or not. I personally find the study of thermodynamics answers quite a few questions but then almost immediately raises more of them! This article and the next are by no means all that can be discussed at this level, and my main aim is to highlight what I consider are the main concepts.
+	</p>
+
+	<h3>Enthalpy change</h3>
+
+	<p>
+		Chemists are interested in knowing the <i>enthalpy change</i> &Delta;H of a reaction and less interested in the absolute enthalpy H of a species. The magnitude and sign of enthalpy change reveals the characteristics and uses of a given system:
+	</p>
+
+	<ul>
+		<li>The sign of enthalpy change indicates the direction to which heat is transferred between the system and its surroundings. This has fairly obvious industrial and commercial applications. Heat packs and refrigerators are just a few examples.</li>
+		<li>More academically, enthalpy change gives us some indication about how likely or how favourable a reaction or process is.</li>
+	</ul>
+
+	<p>
+		The last point, while quite important, is not as general as one might hope. Let us first understand what <i>enthalpy change</i> is before we address the utility of enthalpy change.
+	</p>
+	
+	<p>
+		The mathematical background to enthalpy change (and indeed entropy change) is quite substantial. Summarising the key findings, one can state that the <b>enthalpy change of a reaction is the amount of heat transferred between the system and the surroundings at constant pressure</b>. Be very clear here that we are not referring to <i>absolute</i> enthalpy.
+	</p>
+
+	<p>
+		This 'definition' still needs some refinement since we do not know the direction of heat transfer. Does heat transfer from the system or to the system? To continue, scientists have to agree to follow a few conventions (in no particular order):
+	</p>
+
+	<ul>
+		<li>Heat is transferred <i>from</i> the hot source <i>to</i> the cold sink (Figure 13.1). (These ideas are central to the Zeroth Law of Thermodynamics.)</li>
+		<li>If the system was the hot source (and the surroundings functioned as the cold sink) then the process or reaction which proceeded is classed as <i>exothermic</i>. Conversely, a process or reaction is <i>endothermic</i> if the system was the cold sink.</li>
+		<li>The sign of enthalpy change can be deduced from the general formula, enthalpy change &Delta;H = (absolute) enthalpy of the products - (absolute) enthalpy of the reactants</li>
+	</ul>
+
+	<p>
+		Finally, when comparing enthalpy changes, it is useful to note that the energy quantity applies only if the reaction goes to completion. In other words, all the reactants are converted into products. If fewer reactant molecules convert then the magnitude of enthalpy change would be lower. In the next article, we will see why reactions do not go to completion.
+	</p>
+
+	<figure>
+		<img img alt="Hot sources and cold sinks" src="images/Fig13_1_HotCold.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 13.1 Hot sources and cold sinks</figurecaption>
+	</figure>
+
+	<p>
+		If we convert enthalpy change into <i>molar enthalpy change</i>, then we can compare the values with different chemical and/or physical systems. The number of moles is always in direct relation to the chemical or physical change taking place. The (molar) enthalpy change of neutralisation, for example, is determined by the number of moles of water produced and not the number of moles of water initially present.
+	</p>
+	<p>
+		At the pre-university level, molar enthalpy changes are normally quoted under standard conditions of 298 K and 101 kPa, as <i>standard enthalpy changes</i>. This apparently shows that enthalpy change is dependent on the temperature and pressure of the surroundings. The handling and explanation of 'multi-variable' quantities, including enthalpy change and entropy change, are more clearly presented at university level.
+	</p>
+	<p>
+		It may seem strange to quote a standard enthalpy change for reactions which take place at temperatures much higher or lower than 298 K. The reason this approach is adopted is because it allows chemists to compare data while focusing on the differences of the chemical reactions or processes taking place, while ignoring other factors. Otherwise there would be an almost unimaginable number of non-standard enthalpy changes to list, each with different temperatures and pressures, as well as different reaction pathways. Using an arbitrary standard attempts to address this complication. At this stage, you can view standard enthalpy changes as idealised or hypothetical values. In this case, we are stating what the amount of heat transferred would be if the temperature <i>was</i> 298 K. It is possible, although well beyond the scope here, to convert standard to non-standard enthalpy changes. The symbol for standard conditions is given by the degree symbol &#176 or the plimsoll symbol <sup>⦵</sup> (looks somewhat similar to the Greek lowercase theta <sup>&theta;</sup>). Remember not to confuse standard conditions with standard temperature and pressure (STP).
+	</p>
+
+	<h3>Heat and work</h3>
+	<p>
+		In chemical thermodynamics, work and heat are different forms of energy transfer between two bodies. The combustion engine is one example which we can use to visualise how energy is distributed (Figure 13.2). Suppose a chemical reaction occurs, increasing the temperature of the surroundings and the total number of gaseous molecules in the cylinder. The matter and energy which was once held together in a large organic molecule is now used to drive a piston and heat up the surroundings. The system is at constant pressure because the volume of the cylinder is allowed to change.
+	</p>
+
+	<figure>
+		<img img alt="Heat and work of a combustion engine" src="images/Fig13_2_heatAndWork.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 13.2 The relationship between heat and work</figurecaption>
+	</figure>
+
+	<p>
+		Notice here the different forms of energy transfer. As applied to a combustion engine:
+	</p>
+
+	<ol>
+		<li>some of the energy eventually drives the piston outwards <i>i.e.</i> in a uniform, ordered direction</li>
+		<li>some of the energy is transferred to nearby atoms and molecules which play no part in the motion of the piston, causing the molecules to move with more disordered motion</li>
+	</ol>
+
+	<p>
+		The first point is an ordered form of energy transfer and referred to as <b>work</b>. The second point is a disordered form of energy transfer and is referred to as <b>heat</b>. (These connections become more apparent when one studies the principles behind the First Law of Thermodynamics.)
+	</p>
+	
+	<p>
+		The increase in gaseous volume results in the intended or 'useful' motion (expansion, Figure 13.3) of the piston in a combustion engine. The system does work <i>on</i> the surroundings. At the same time, energy is transferred to the surroundings as heat and is considered 'wasted' or 'not useful' in the context of a combustion engine. The energy transferred as heat is equivalent to the enthalpy change. Note that the entropy of the surroundings increases as energy is transferred from the system. We will revisit this idea in the next article.
+	</p>
+	
+	<p>
+		Overall, enthalpy change is a measure of heat transferred at constant pressure, and does not include work done due to expansion or contraction. We will apply the terms heat, work and 'useful' to other contexts, in the next article.
+	</p>
+
+	<figure>
+		<img img alt="Energy redistributed into heat and work, at constant pressure" src="images/Fig13_3_heatToHeatAndWork.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 13.3 Energy redistributed into heat and work, at constant pressure</figurecaption>
+	</figure>
+
+	<p>
+		Chemists tend to focus on enthalpy changes (or heat transferred at constant pressure) because most chemical systems studied take place at constant, atmospheric pressure. Any chemical reaction which results in a net increase in gaseous volume is very much like a piston pushing against the atmosphere. The gas produced is classed as 'doing work'. Conversely, a reaction which involves the net consumption of gas results in the surroundings doing work on the system. You can probably come up with other possibilities regarding work and heat.
+	</p>
+
+	<h3>Predicting the likelihood of a process</h3>
+
+	<p>
+		Let us return to the discussion about favourable processes and reactions. In this article, I will roughly define <b>a favourable process or reaction as one which, once 'started', continues to proceed without external influence</b>. In the next article, I will present a more precise definition.
+	</p>
+
+	<p>
+		The phrase 'external influence' generally refers to something or someone that changes the conditions (quite often temperature and pressure) of the surroundings. For example, liquid water solidifies when the temperature of the surroundings is 260 K and the pressure is 101 kPa. Melting is favourable at higher temperatures (assume the pressure remains at 101 kPa). That is, ice continues to melt as long as the temperature of the surroundings stays above 273 K and does not decrease again. Liquid water at around 300 K is less likely to vaporise if the external pressure is higher than 101 kPa. If we intervene and reduce the pressure then vaporisation becomes more favourable.
+	</p>
+	
+	<p>
+		If you visualise a ball rolling up and down a hill, then you can appreciate the ball is more likely to <i>continue</i> to roll down a hill to point B (Figure 13.4(i)) without external influence than it would trying to continue to roll up to point A. As long as there is a downward slope ahead of the ball, it will continue to roll towards point B. The ball would need an external agent or body to keep it rolling up the hill to point A, either through a much greater input of energy, or, smaller but continuous input of energy. The external body can also change the conditions of the surroundings by effectively inverting the slope (Figure 13.4(ii)).
+	</p>
+
+
+	<figure>
+		<img img alt="Favourable and unfavourable processes" src="images/Fig13_4_favourable.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 13.4 Favourable and unfavourable processes</figurecaption>
+	</figure>
+
+	<p>
+		The situation is very much the same for chemical reactions. Atoms with an excess amount of energy do not need any more external influence to lose energy, assuming they have passed some sort of energy barrier.
+	</p>
+
+	<p>
+		It might be tempting to conclude that exothermic reactions are more favourable than endothermic reactions. However, there are quite a few cases where endothermic reactions and processes continue to operate without external influence. It is well known that the aqueous dissolution of ammonium chloride NH<sub>4</sub>Cl takes place just as readily as the dissolution of sodium hydroxide NaOH in water. The former is an endothermic process and the latter is exothermic. The melting of ice and vaporisation of water is endothermic and is favourable at higher temperatures; freezing and condensation processes are exothermic and favourable at lower temperatures. Clearly, determining if a process is exothermic or endothermic is not enough to predict if the process is favourable or not.
+	</p>
+
+	<p>
+		The complications regarding the role of temperature and pressure, as well as the limited predictive nature of enthalpy change demonstrates that more thought is needed if we are to compare different systems. In the next section, we will look at entropy change in preparation for the next article, which explains how to make predictions. We will also consider the role of temperature in the next article, and bring all the ideas discussed in one place. As already mentioned, chemists tend to study systems at constant pressure so we will not be investigating the role of pressure.
+	</p>
+
+	<h3>Entropy change</h3> 
+	
+	<p>
+		The symbol for absolute entropy is S and unsurprisingly, entropy change is given the symbol &Delta;S. By convention:
+	</p>
+
+	<p id="example"><b>entropy change &Delta;S = S<sub>final</sub> - S<sub>initial</sub></b></p>
+
+	<p>
+		From the above equation, we can see that an increase in entropy is indicated by a positive &Delta;S value. Pause for a moment and think of examples of processes and/or reactions where the amount of entropy increases or decreases. You can use any of the three descriptions that were outlined in my <a href="2_DescribingEntropy">previous article</a>.
+	</p>
+
+	<p>
+		There is a lot of evidence which suggests that processes accompanied by an increase in entropy are favourable. (This relates to the Second Law of Thermodynamics.) At this stage, we should be a little cautious however when making such assertions because we also need to state the entropy change of the surroundings. This will be clarified in the next article. For the remainder of this article, we will look at entropy and entropy change in a bit more depth in preparation for the next.
+	</p>
+
+	<p>
+		The value of absolute entropy can be calculated from the formula (an important part of the ideas behind the Third Law of Thermodynamics):
+	</p>
+	
+	<p id="example"><b>S = k<sub>B</sub> ln W</b></p>
+	
+	<p>
+		The coefficient k<sub>B</sub> is referred to as Boltzmann's constant and is approximately 1.38 x 10<sup>-23</sup> J K<sup>-1</sup>. The value W (this is sometimes symbolised with omega &Omega; instead of W) is a measure of the number of configurations of the given system, and is explained in my previous article. Since k<sub>B</sub> > 0 and ln W &#8805 0, you can see that entropy S &#8805 0. 
+	</p>
+
+	<p>
+		Absolute entropy can be estimated by experiment, though this is quite an advanced endeavour. For instance, if you wanted to determine the entropy of a gaseous diatomic molecule then you would need to first determine the enthalpies of fusion (solid to liquid) and vaporisation (liquid to gas), and molar heat capacities of each state with their respective temperatures (heat capacity is temperature dependent) before using all of this information to find the absolute entropy. The work required does however reveal some connection between absolute entropy and heat capacity. For example, you will notice that the units of molar entropy and molar heat capacity are the same: J K<sup>-1</sup> mol<sup>-1</sup>. As always, more details can be found in university-level textbooks.
+	</p>
+
+	<p>
+		If entropy change is part of your course, then you will only be are expected to calculate entropy change from absolute changes without worrying about how absolute entropies were determined (Figure 13.5).
+	</p>
+
+	<figure>
+		<img img alt="Hess' law approach to calculating entropy change" src="images/Fig13_5_CalcEntropyChange.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 13.5 Hess' law type approach to calculating entropy change; A = products and B = reactants (n is the mole ratio coefficients in the stoichiometric equation)</figurecaption>
+	</figure>
+
+	<p>
+		Entropy changes, like enthalpy changes, are often quoted and compared as <i>standard</i> entropy changes. Standard (absolute) entropies are usually listed in an accompanying data booklet or supplied with the problem. 
+	</p>
+	
+	<p>
+		To conclude, the factors which affect enthalpy change and entropy change are complex. Enthalpy change is a measure of heat transferred at constant pressure and can affect the entropy of the surroundings. In the <a href="14_GibbsFreeEnergy">next article</a>, we will use the concepts of enthalpy, entropy and temperature to provide a general method which can predict if a process is favourable or not. We will also explore the meaning to the predictions, in terms of the chemical composition of the resultant mixture.
+	</p>
+
+    <%- include("partials/footer") %>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="350"
+   viewBox="0 0 264.58333 92.604172"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Fig11_1_thermodynamicsKinetics.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5420"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4523"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="377.59848"
+     inkscape:cy="136.61781"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1135"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-204.39582)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2964415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 53.861608,289.384 V 211.57737"
+       id="path3713"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.989587,269.97469 H 113.01488"
+       id="path4802"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.54465,238.22468 h 30.04911"
+       id="path4804"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.985123"
+       y="225.94048"
+       id="text4808"><tspan
+         sodipodi:role="line"
+         id="tspan4806"
+         x="13.985123"
+         y="225.94048"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332">enthalpy H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="85.42263"
+       y="265.81693"
+       id="text5394"><tspan
+         sodipodi:role="line"
+         id="tspan5392"
+         x="85.42263"
+         y="265.81693"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332">reactant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="150.10793"
+       y="234.36142"
+       id="text5394-3"><tspan
+         sodipodi:role="line"
+         x="150.10793"
+         y="234.36142"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332"
+         id="tspan5414">product</tspan></text>
+    <path
+       style="fill:none;stroke:#800000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.01488,269.97469 c 5.22877,-16.56827 10.45745,-33.13623 16.37897,-38.42779 5.92152,-5.29156 12.53623,0.69317 19.1508,6.67778"
+       id="path5418"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect5420"
+       inkscape:original-d="m 113.01488,269.97469 c 5.22894,-16.56822 10.45761,-33.13618 15.68602,-49.70387 6.61472,5.98424 13.22943,11.96897 19.84375,17.95386" />
+    <rect
+       style="opacity:0.38000039;fill:#8b1729;fill-opacity:1;stroke:none;stroke-width:0.46750662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5426"
+       width="35.340775"
+       height="58.586308"
+       x="112.8259"
+       y="220.08183" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="104.51042"
+       y="215.9241"
+       id="text5430"><tspan
+         sodipodi:role="line"
+         x="104.51042"
+         y="215.9241"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#800000;stroke:none;stroke-width:0.26458332;"
+         id="tspan5476">Chemical kinetics</tspan></text>
+    <rect
+       style="opacity:0.38000039;fill:#9ea6cb;fill-opacity:1;stroke:none;stroke-width:0.62104619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5426-7"
+       width="62.36607"
+       height="58.586311"
+       x="148.16667"
+       y="220.08183" />
+    <rect
+       style="opacity:0.38000039;fill:#9ea6cb;fill-opacity:1;stroke:none;stroke-width:0.58319455;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5426-7-3"
+       width="54.995537"
+       height="58.586311"
+       x="57.830357"
+       y="220.08183" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="156.67114"
+       y="283.58182"
+       id="text5472"><tspan
+         sodipodi:role="line"
+         id="tspan5470"
+         x="156.67114"
+         y="283.58182"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#0000ff;stroke:none;stroke-width:0.26458332;">thermodynamics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="60.668999"
+       y="283.43811"
+       id="text5472-5"><tspan
+         sodipodi:role="line"
+         id="tspan5470-6"
+         x="60.668999"
+         y="283.43811"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#0000ff;stroke:none;stroke-width:0.26458332;">thermodynamics</tspan></text>
+  </g>
+</svg>

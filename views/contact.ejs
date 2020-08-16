@@ -1,0 +1,111 @@
+<%- include("partials/header") %>
+<title>LearningChem - Contact</title>
+<meta name="description" content="Feedback form for LearningChem">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+    <h1>General expectations</h1>
+    <p>
+      I am developing this website during my spare time and for free so I would like to list some expectations.
+    </p>
+    <ul>
+      <li>I do not intend on preparing these articles in other formats and prefer to use only one format, in my case as a website, which is easy to update. Please do not expect printer-friendly or PDF versions.</li>
+      <li>LearningChem is offered under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons License</a>. You may share and adapt the resources provided. Give credit and provide a link when adapting the resources for your own work. Commercial use is not permitted.</li>
+      <li>Catering for all readers is difficult and one can always find areas to improve. I certainly welcome comments and suggestions from students and teachers but please remember what my primary goals are for LearningChem.</li>
+      <li><b>To the students</b>: if you find something unclear, please ask your teacher/tutor to read the appropriate article and advise you before you contact me. I periodically review my articles to make sure they read well, however, it is still possible that I have missed something or could improve the presentation.</li>
+      <li>I am not sure how comprehensive LearningChem will become but if there are enough requests for a particular topic then I will certainly consider it. Please note that LearningChem is not intended to be developed like an ongoing journal showcasing the latest developments in chemistry for pre-university students. LearningChem is all about explaining the fundamentals.</li>
+    </ul>
+    <p>The form below can be used to submit comments, suggestions or questions. You can also contact me by email: <img src="images/contact.svg" width="200" height="36"></p>
+
+    <!--action matches name of POST-->
+    <form class="needs-validation" novalidate action="/reply" method="POST">
+      <div class="form-group">
+          <label for="formName">Name (required)</label>
+          <input name="name_input" type="text" class="form-control" id="formName" required>
+          <div class="invalid-feedback">Please let me know who you are</div>
+      </div>
+
+      <div class="form-group">
+        <label for="user_email">Email address (required)</label>
+        <input name="email_input" type="email" class="form-control" id="user_email" aria-describedby="emailHelp" required>
+        <div class="invalid-feedback">Please enter a valid email address</div>
+      </div>
+
+      <div class="form-group">
+        <div class="custom-control custom-radio custom-control-inline">
+  	     <input type="radio" value="S" name="userType" class="custom-control-input" checked="checked" id="radio1">
+         <label class="custom-control-label" for="radio1">Student</label>
+        </div>
+        <div class="custom-control custom-radio custom-control-inline">
+  	     <input type="radio" value="T" name="userType" class="custom-control-input" id="radio2">
+         <label class="custom-control-label" for="radio2">Teacher/tutor</label>
+        </div>
+        <div class="custom-control custom-radio custom-control-inline">
+  	     <input type="radio" value="O" name="userType" class="custom-control-input" id="radio3">
+         <label class="custom-control-label" for="radio3">Other</label>
+  	    </div>
+      </div>
+
+      <div class="form-group">
+        <label for="user_comments">Please enter your comments/suggestions/questions below. Thanks.</label>
+        <textarea class="form-control" name="form_input" id="user_comments" rows="5" maxlength="1800" required></textarea>
+        <span id="chars">1800</span> characters (with spaces) remaining
+        <div class="invalid-feedback">No comments or questions?</div>
+      </div>
+
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary">Submit form</button>
+      </div>
+
+      <div id="youthere">If you see this, leave it blank.
+        <input type="text" name="humans" value="">
+      </div>
+      
+    </form>
+
+  </div>
+    <footer class="footer mt-auto py-3">
+    <div class="container">
+      <span class="text-muted"><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</span>
+    </div>
+    <div class="container">
+      <span><a href="/feed/rss2"><img alt="RSS 2.0" src="/images/pic_rss.gif" width="36" height="14"/></a>  Subscribe to receive new article updates  <a href="/feed/atom1"><img alt="ATOM 1.0" src="/images/pic_atom.png" width="54" height="21"/></a></span>
+    </div>
+  </footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script>
+var maxLength = 1800;
+$('textarea').keyup(function() {
+  var length = $(this).val().length;
+  var length = maxLength-length;
+  $('#chars').text(length);
+});
+</script>
+
+<!--JavaScript for disabling form submissions if there are invalid fields -->
+<script>
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
+
+</body>
+</html>

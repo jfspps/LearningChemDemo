@@ -1,0 +1,107 @@
+<%- include("partials/header") %>
+<title>Oxidation state and formal charge</title>
+<meta name="description" content="The meaning and deduction of oxidation state and formal charge">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Oxidation state and formal charge</h1>
+	<p><i>4th Jan 2020</i></p>
+
+	<p>All you really need to follow this article is some familiarity of electronegativity and know that there is more than one way of drawing the same molecule (explained through the concept of <a href="4_Resonance">resonance</a>). Quite often, you will find electronegativity quoted to one decimal place. For most elements, this is fine however for some, such as carbon and sulfur with a value of 2.5, we need to know which is more electronegative. In cases such as these, we need to refer to electronegativities quoted to two decimal places. You can of course search the web for your own reference data, one which I refer to is <a href="https://ptable.com/#Property/Electronegativity">here</a>. From this data, we can see that sulfur is more electronegative than carbon.</p>
+
+	<p>A lot can be said about the origins of electronegativity and you can learn more accurate details from university-level texts. Briefly, at a simpler level, scientists discovered that the bond enthalpy of bonds between different elements was unusually strong.  A high bond enthalpy means that it is difficult for a bond to undergo homolysis (the "equal" splitting of a covalent bond). Apparently there is some other factor which contributes to the overall bond strength. The unequal distribution of electron density between the atoms (what we know as a dipole) gives rise to positive and negative poles which attract each other, in addition to the attraction between electrons and nuclei (Figure 3.1).</p>
+
+	<figure>
+    	<img img alt="How dipoles strengthen covalent bonds" src="images/Fig3_1_bonddipole.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.1. The dipole of a bond, pulling the atoms closer to each other</figurecaption>
+    </figure>
+
+	<p>The unequal distribution is a result of the atoms' ability to attract electrons to itself, bringing about the concept of electronegativity. There are many different types (scales) of electronegativity devised. They are all calculated values and are not determined directly by experiment. The most common is named after an American chemist Linus Pauling and is one which all pre-university students learn about (sometimes without realising it).</p>
+
+	<h3>Deducing the oxidation state of an atom</h3>
+	
+	<p>Some authors distinguish between between oxidation state and oxidation number. I generally use them interchangeably when discussing this topic with students to avoid unnecessary complication. The state or number refers to the number of electrons one must add or remove in order to obtain a neutral atom. This is why, for example, oxidation number is written as <b>+3</b> as opposed to 3+ because the notation <b>+</b> and then the <b>3</b> are sequenced in the same order as the definition given: we are <i>adding-three</i> electrons. The notation 3+ is usually reserved for overall charge, which can be read as three-multiples of a + charge, just as 3<i>x</i> represents three multiples of some unknown <i>x</i>.</p>
+
+	<p>The oxidation state of a neutral atom or monatomic (single) ion is well understood. However, for some molecules or polyatomic ions, a little more thought is required. For species with only one atom of a given element per molecule or ion, <i>e.g.</i> carbon in carbon dioxide CO<sub>2</sub> and carbon in carbonate CO<sub>3</sub><sup>2-</sup>, we can apply a simple procedure. Knowing that "each oxygen is in the -2 oxidation state" and then after looking at the overall charge, the oxidation state of carbon is +4 in both cases.</p>
+
+	<p>How about sulfur in thiosulfate S<sub>2</sub>O<sub>3</sub><sup>2-</sup>? In this case, most of us will assume that both sulfur atoms are identical. However, when one draws the possible structures of <i>thio</i>sulfate it actually looks like a regular sulfate ion SO<sub>4</sub><sup>2-</sup> ion with a sulfur atom in place of one of the oxygen atoms (typical representations of thiosulfate are given in Figure 3.2). The prefix <i>thio</i> is used to denote the substitution of one atom for a sulfur atom.</p>
+
+	<figure>
+    	<img img alt="Lewis structures of the thiosulfate anion" src="images/Fig3_2_thiosulfate.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.2. The thiosulfate anion</figurecaption>
+    </figure>
+	
+	<p>So what are the oxidation states of both sulfur atoms? As with writing half-equations, you will find there are a few methods of deducing the oxidation state of an atom. Here is how I approach it.  First of all, draw out the ion with all the bonds and charges around the atom of interest (I will use the left-hand structure from Figure 3.2 as an example). Then go around each bond and assign a + or a -, depending on whether the atom of interest is more electronegative (assigned -) or less electronegative (assigned +). If we focus on the central sulfur atom, there are 5 covalent bonds (from two double and one single) to oxygen. Sulfur is less electronegative so this means sulfur has five positive charges so far (Figure 3.3).</p>
+
+	<figure>
+    	<img img alt="Assigning + states to an atom of lower electronegativity" src="images/Fig3_3_thiosulfateoxygen.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.3. Sulfur assigned + charges because it is less electronegative than oxygen</figurecaption>
+    </figure>
+
+	<p>There is one bond to another sulfur atom, which has the same electronegativity, so this adds a zero (or naught) as far as charge is concerned (Figure 3.4).</p>
+
+	<figure>
+    	<img img alt="Deducing oxidation state of atoms bonded to the same element" src="images/Fig3_4_thiosulfatesulfur.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.4. Sulfur assigned one 0 charges because it is also bonded to an atom of equal electronegativity</figurecaption>
+    </figure>
+
+	<p>We then have to consider any charges assigned to the atom of interest. In our case, the central sulfur atom did not have any + or - symbols previously (see Figure 3.2) so we can ignore this step. Finally, the sum of the charges is +5 and we say that sulfur is in a +5 oxidation state. How about the outer sulfur atom? Following the same principles, you should be able to deduce that the oxidation state is -1 (Figure 3.5).</p>
+
+	<figure>
+    	<img img alt="Assigning oxidation state of atoms with negative formal charge" src="images/Fig3_5_thiosulfatesulfur.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.5. Deducing oxidation states of atoms with positive or negative charge</figurecaption>
+    </figure>
+	
+	<p>If you examine the right-hand example of thiosulfate (Figure 3.2) you will see that the oxidation state of the sulfur atoms is 0 and +4 (compared to -1 and +5 previously). Clearly, the specific oxidation state sometimes depends on how we draw the structure. However, the "average oxidation state" of +2 still holds. You should be able to deduce the oxidation number of the oxygen atoms in thiosulfate (-2). Try calculating the oxidation state of sulfur in tetrathionate S<sub>4</sub>O<sub>6</sub><sup>2-</sup> (Figure 3.6). Apparently, it is +2.5...looking at Figure 3.6 you should be able to deduce that the oxidation states are 0 and +5. If you are concerned about what an examiner will require (I suspect the average oxidation states are perfectly adequate at this level) then as always, ask your teacher.</p>
+
+	<figure>
+    	<img img alt="The oxidation state of each S atom in tetrathionate" src="images/Fig3_6_tetrathionate.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.6. Polyatomics ions with atoms of different oxidation state</figurecaption>
+    </figure>
+
+	<p>If this material is new to you then I suggest you pick a few simple examples of molecules and ions (<i>e.g.</i> sulfur dioxide SO<sub>2</sub>, phosphorus pentachloride PCl<sub>5</sub> and others) which you studied when learning about shapes of molecules and deduce the oxidation state of each atom. For very simple examples, <i>e.g.</i> HBr, you will probably not need to use the above method. </p>
+
+	<h3>Formal charge</h3>
+	<p>Formal charge compares the number of valence (bonding and non-bonding) electrons around an atom in a molecule or polyatomic ion to the number of valence electrons in a neutral, isolated atom of the same element, assuming that all atoms in the molecule or ion share electrons equally. The assumption means that formal charge (unlike oxidation states) ignores electronegativity.</p>
+
+    <p>A formal charge of -1 is equivalent to saying we need to <i>remove-one</i> electron from the atom (when bonded to other atoms) so that the number of valence electrons equals the number found around an isolated, neutral atom. This is then expressed symbolically by writing a - sign next to the atom (see oxygen in thiosulfate, Figure 3.2). An atom with a +1 formal charge is denoted by a + symbol <i>e.g.</i> nitrogen in the ammonium ion (Figure 3.10). Unlike oxidation states, it is very unusual to find formal charges of high magnitude. Formal charge is usually -1, +1 or 0 (see concluding remarks below).</p>
+
+	<p>We will first learn about how to deduce formal charge before considering its use. First we draw the structure around the atom of interest, just as we did when deducing the oxidation state. Let us consider carbon dioxide (Figure 3.7) and sulfate SO<sub>4</sub><sup>2-</sup> (Figure 3.8). If we ignore electronegativity then this is equivalent to saying that one electron (of a pair) "belongs" to each atom. We count (circling atoms helps show this initially) the number of electrons involved. If the number of bonding and non-bonding electrons around the atom equals the number of valence electrons normally found around a neutral atom, then the formal charge is zero.</p>
+
+	<figure>
+    	<img img alt="Deducing formal charge of C and O in CO2" src="images/Fig3_7_carbondioxide.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.7. Formal charges of carbon dioxide atoms</figurecaption>
+    </figure>
+
+	<p>We do not normally write a zero or naught (nought) next an atom to denote a zero formal charge. This helps simplify the presentation: O=C=O is all that is needed.</p>
+
+	<p>If there are more valence electrons around an atom then we assign a negative formal charge, for example, oxygen in sulfate (Figure 3.8). Similarly, if there are fewer valence electrons around an atom then we assign a positive formal charge. If you were given the formal charge of an atom in a molecule or ion, then you should also be able to deduce the number of outer electrons present. Looking again at Figure 3.8, we can see a - charge assigned to an oxygen atom. Oxygen normally has six outer electrons. Therefore, there are seven electrons around oxygen, in addition to any shared with bonding atoms (in sulfate, one more electron from the central sulfur atom).</p>
+
+    <figure>
+    	<img img alt="Deducing formal charge of S and O in sulfate" src="images/Fig3_8_sulfate.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.8. Formal charges of sulfate ion atoms</figurecaption>
+    </figure>
+
+	<p>Regarding free radicals, you can class the unpaired electron as a non-bonding electron. Chlorine Cl&#8729 and methyl CH<sub>3</sub>&#8729 free radicals are neutral and are made up of atoms of zero formal charge. The odd electron of CH<sub>3</sub>&#8729 is thought to reside on the carbon atom.</p>
+
+	<p>All of these methods may seem like a lot of work but with more experience you will eventually assign formal charge without much thought. Knowing the formal charge of each atom enables us to not only justify the overall charge of a molecule or ion (the overall charge is the sum of the formal charges) but perhaps more importantly, use the values to explain <i>where</i> reactions in a molecule take place. I will apply these ideas when discussing the chemistry of benzene in a different article.</p>
+
+	<h3>Predicting properties from formal charge</h3>
+	
+	<p>I should advise you to exercise caution when using formal charges to predict chemical reactions and properties. This is a fairly advanced idea. Formal charges ignore electronegativity making them more applicable when we can ignore electronegativity when describing chemical properties. If there are significant differences in electronegativity between atoms, then their use becomes more unreliable. To demonstrate, let us study two examples: carbon monoxide and the ammonium cation (Figure 3.8). First, satisfy for yourself that the formal charges assigned are correct and then second, take a minute to think about what they reveal.</p>
+
+   <figure>
+    	<img img alt="When formal charge appears misleading (ammonium ion and CO)" src="images/Fig3_9_misleadingformalcharge.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.9. When formal charges appear misleading</figurecaption>
+    </figure>
+
+	<p>Is carbon in carbon monoxide negatively charged when bonded to oxygen? Is nitrogen in the ammonium ion positively charged when bonded to hydrogen? These are examples of when applying a procedure which ignores electronegativity is unwise and the resulting notation appears misleading. The issue is not the deduction of formal charge but more to do with when to apply it. Formal charge is 'formal' in the sense that we are making a statement by following procedures strictly and not allowing for other considerations, like electronegativity. The overall charge + for the ammonium ion applies to the whole species. The tetrahedral ammonium ion can be viewed as a sphere (ball) with the nitrogen located at the centre where most of the negative charge is situated (Figure 3.10). The "surface" of the sphere is positively charged, as a result of the less electronegative hydrogen atoms. Similarly, the carbon atom of carbon monoxide has a &#948+ charge and the oxygen atom possesses a &#948- charge.</p>
+	
+	<figure>
+    	<img img alt="The electron distribution in ammonium ions" src="images/Fig3_10_ammonium.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 3.10. How charge is distributed across an ammonium cation</figurecaption>
+	</figure>
+	
+	<p>One final note. A lot of the choices about which notation you use and whether you draw structures with formal charges, or, with &#948+ and &#948- present, largely depend on what level of detail you need. Sometimes you will see authors explicitly use symbols when others do not. I will conclude the discussion and application of formal charge when we learn about the ideas behind <a href="4_Resonance">resonance</a>.</p>
+
+<%- include("partials/footer") %>

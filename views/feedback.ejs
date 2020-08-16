@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel='icon' href='images/favicon.ico' type='image/x-icon'/ >
+
+<title>LearningChem - Feedback</title>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <style>
+	  	#bodytext{
+		padding-top: 100px;
+		max-width: 100%;
+		}
+
+		body{
+		background-color: #e1f0e4;
+		}
+  </style>
+</head>
+
+<body>
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand font-weight-bolder" href="/" style="color: #99cc00">LearningChem</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      <!-- "nav-item active" sets list item as Bootstrap active -->
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Topics
+        </a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form> 
+  </div>
+</nav>
+
+<div class="container" id="bodytext">
+  <div class="vw-50">
+
+
+<h1>Feedback received so far:</h1>
+
+<!-- <%= feedbackEJS %> -->
+
+<table class="table table-hover">
+	<thead class="thead-dark">
+	    <tr>
+	      <th width="300px" scope="col">Date</th>
+	      <th width="500px" scope="col">Email</th>
+	      <th width="100px" scope="col">User Type</th>
+	      <th scope="col">Message</th>
+	    </tr>
+	<thead>
+	<tbody>
+<%feedbackEJS.forEach(function(record){  %>
+	<tr>
+			<td><%= record.date %></td>
+			<td><email> <a href=mailto:<%= record.email %>><%= record.email %></a></td>
+			<td><%= record.user %></td>
+			<td><%= record.form %></td>
+	</tr>
+<% }); %>
+	</tbody>
+</table>
+
+<p><b>END OF RECORD</b></p>

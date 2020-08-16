@@ -1,0 +1,125 @@
+<%- include("partials/header") %>
+<title>Lewis Structures and resonance</title>
+<meta name="description" content="Drawing Lewis structures and applying resonance to describe chemical systems">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Lewis structures and resonance</h1>
+	<p><i>9th Jan 2020</i></p>
+
+	<p>
+     In this article, I will assume you are familiar with the idea of equilibrium, know how to deduce the <a href="/3_OxidationStates">formal charge</a> of atoms in molecules and polyatomic ions, and lastly, know that double bonds are shorter than single bonds. Some familiarity with the structure of organic functional groups would be helpful but is not essential. This article is all about chemical notation and not about chemical properties. Before we begin looking at the idea of resonance, first we need to briefly cover the topic of Lewis structures.
+    </p>
+
+    <h3>Lewis structures</h3>
+    <p>
+      Lewis structures, named after an American chemist Gilbert Lewis who contributed to the theory behind covalent bonding, are diagrams in which we represent covalent bonds with lines and non-bonding (lone pairs and single electrons) valence electrons with dots. Depending on the needs of the author and/or reader, you can assign formal charge to individual atoms or (more commonly) enclose the whole species in brackets and write the overall charge (if it is non-zero) near the top-right. Lewis structures do not include information about shape (geometry).
+    </p>
+
+    <figure>
+        <img img alt="Example Lewis structures" src="images/Fig4_1_Lewis.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.1. Some examples of Lewis structures</figurecaption>
+    </figure>
+
+    <p>
+        The difficult part for students and teachers is deciding which Lewis structures are reasonable and understanding how they are related. In my opinion, if anyone had to predict reasonable structures without (a) having already memorised them or (b) having access to experimental data, then they would need a very firm understanding about the orbitals and geometry present at each atom (I will explain this in an article about orbitals). This level of understanding is usually gained when one is well into their degree studies and I will not not bombard you with more theory without care and consideration. Ultimately, we are all guided by experimental data. Bond lengths and angles, for heavy element (period 3 and below, roughly) containing crystals, can be deduced from a technique known as X-ray crystallography. For small molecules in the gaseous state, <i>e.g.</i> carbon dioxide CO<sub>2</sub>, can use microwave spectroscopy or electron diffraction to deduce the structure. These techniques are explained at university. Rest assured that not knowing about these techniques now will not impede the following discussion.
+    </p>
+
+    <p>
+        When teaching students about predicting Lewis structures, I generally give students some additional information, like what the central atom is <i>e.g.</i> bromine in bromine triiodide BrI<sub>3</sub>, or, if the compound is cyclic (ring-like). I would then leave them to assign bonding and non-bonding electrons. I think some information, in addition to the molecular formula, needs to be provided when predicting the Lewis structures because otherwise the process of prediction sometimes leads to very strange results which I would not expect students at this stage to reject. More experimental data (<i>e.g.</i> bond lengths for small molecules) can be found on sites such as the National Institute of Standards and Technology, <a href="https://webbook.nist.gov/chemistry/name-ser/">NIST</a>. Regarding predictions, a few guiding principles can help:
+    </p>
+
+    <p>
+        <ul>
+            <li>Follow the octet rule closely, especially for elements from period 2. Hydrogen prefers to have two outer electrons. Period 3 elements and below can have more than eight electrons in their valence shell because they have a surface area large enough to accommodate more electrons. I personally no longer follow the idea about access to d-orbitals, something which is really beyond the scope of these articles.</li>
+            <li>Try to avoid placing formal charges on too many atoms or use formal charges of high magnitude (usually anything above 1). Note that the higher the magnitude of charge between species, the more reactive they become. Reactivity is, amongst other factors, a consequence of the potential energy. The higher the magnitude of charge, the stronger the attractions and/or repulsions, and so the greater the capacity for atoms and molecules to do work. Remember, we are looking for low energy (stable) structures which are likely to exist.</li>
+            <li>Try as much as possible to assign negative formal charge to atoms of relatively high electronegativity, that is, atoms which are able to hold on to electrons easily. Sometimes this is unavoidable (see my <a href="/3_OxidationStates">article</a> for more about formal charge). Likewise, try to assign positive formal charge to atoms which are easily ionised.</li>
+            <li>When you have finished, double check the total number of bonding and non-bonding electrons you have drawn. The total should equal the number of valence electrons available. For example, hydroxonium H<sub>3</sub>O<sup>+</sup> (Figure 4.1) contains 3(H) + 1(O) - 1 = 3x(1) + 1x(6) - 1 = 8 valence electrons.</li>
+            <li>If you find the total number of valence electrons is odd, like chlorine monoxide ClO with 7 + 6 = 13 valence electrons available, then this means that at least one electron is unpaired. Therefore, chlorine monoxide is a free radical, that is, chlorine monoxide is a species with at least one unpaired electron. At this level, I would think you can place the unpaired electron on the oxygen atom or the chlorine atom. Check with your teacher to make sure there are no specific syllabus requirements.</li>
+        </ul>
+    </p>
+
+    <p>
+        The act of proposing Lewis structures demonstrates the main point of this article: there is usually more than one way of drawing the structure of a substance, as long as the proposals are within reasonable agreement with experimental data. The next question, then, is which structure is the best? This is really considered more adequately at university. For our needs, we will consider all possible structures at the same time. This is where resonance forms the next part of the discussion.
+    </p>
+
+    <h3>Resonance</h3>
+
+    <p>Let us set the scene. Whenever we draw Lewis structures we can sometimes find that what we have drawn is not always an accurate description of the bonding present. How so? If we were asked to draw tetrachloromethane CCl<sub>4</sub> (also known as carbon tetrachloride) we would probably draw a carbon atom bonded to four chlorine atoms (Figure 4.2).</p>
+
+    <figure>
+        <img img alt="Lewis structure of CCl4" src="images/Fig4_2_carbontet.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.2. Tetrachloromethane with four identical C-Cl bonds</figurecaption>
+    </figure>
+    
+    <p id="benzeneResonance">
+        Experimental data shows that the C-Cl bonds are of the same length (1.767&#8491 or 0.1767 nm). So far so good. However, for many other molecules it is not possible to draw an accurate description of the bonding using just one Lewis structure. If we focus on just one of the structural formulae of benzene C<sub>6</sub>H<sub>6</sub> (Figure 4.3) we run into a problem. It seems that there should only be three long C-C single bonds and three short C=C double bonds. Geometrically, this would look like the structure shown in Figure 4.4.
+    </p>
+
+    <figure>
+        <img img alt="Lewis structures of benzene" src="images/Fig4_3_benzene.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.3. Lewis structures of benzene</figurecaption>
+    </figure>
+
+    <figure>
+        <img img alt="Approximation to the geometry of one resonance form of benzene" src="images/Fig4_4_benzene2.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.4. Assuming there are C-C and C=C bonds in benzene</figurecaption>
+    </figure>
+
+    <p>
+        However, it is widely known that the carbon-carbon bonds in benzene are all the same in length (1.397&#8491 or 0.1397 nm). As a result, the carbon-carbon bonds should have equal electron density. We can depict a more accurate representation by combining the characteristics <i>i.e.</i> the placement of the electrons, of both Lewis structures. Focusing on the two C atoms, highlighted in red (Figure 4.3), we can combine the properties of a C=C double bond from the left-hand structure with the C-C single bond from the right-hand structure, resulting in a "one-and-a-half bond", so to speak. We can apply this idea to all of the C atoms in the ring, resulting in the same type of (albeit odd-looking) covalent bond. This makes all the bonds appear the same, which is what we need.
+    </p>
+
+    <p> 
+        Before continuing, let me refine our terminology a bit. The Lewis structures from Figure 4.3 contribute to the overall description of the structure of benzene. Each contribution is called a <b>resonance form (or resonance structure)</b>. The only difference between resonance forms is the placement of electrons: you will see single bonds, double bonds and lone pairs swap places, for instance. The nuclei do not change positions. If we combine the characteristics of all resonance forms, mixing bonds as we did, for example, then this results in a description (structure) known as the <b>resonance hybrid</b>. If you have already studied the hybridisation of orbitals then you should be able to relate to the meaning fairly clearly: hybrid, meaning something of mixed character.
+    </p>
+        
+    <p id="benzeneResonanceForm">
+        It is possible to draw the resonance hybrid for some molecules. Benzene happens to be one of them. Our mixing of both resonance forms introduces a new notation, shown in Figure 4.5. The circle symbol in line with the hexagonal ring is intended to show that the electrons are equally distributed between the carbon atoms, meaning that the C-C bonds are identical.
+    </p>
+
+    <figure>
+        <img img alt="Resonance hybrid of benzene" src="images/Fig4_5_benzenehybrid.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.5. The resonance form of benzene</figurecaption>
+    </figure>
+
+    <p>
+        You might be asking, why do we not use resonance hybrids all of the time since they are the true structure? The answer is sometimes it is better to use a specific resonance form (instead of the hybrid) because it helps us explain chemical properties and reaction pathways (mechanisms) when a hybrid would not. It is also easier to account for all of the electrons, when writing reaction mechanisms, by drawing resonance forms. The resonance hybrid of benzene tends to be used when we are focusing on a part of the organic molecule which has nothing to do with the benzene ring. This will all become much clearer once we have summarised the chemistry of benzene in a different article. 
+    </p>
+
+    <p>
+        Overall, the issue here is that our chemical notation sometimes prevents us from accurately depicting the chemical structure with only one Lewis structure. We can overcome the limitation by applying an approach, known as <b>resonance</b>, which involves representing an accurate description of a substance by the combination of two or more descriptions.
+    </p>
+    
+    <h3>Resonance forms do not convert from one form to another</h3>
+
+    <p>
+        Some resonance forms are quite extreme but nonetheless part of the resonance hybrid. This is really something to learn about at university but I will demonstrate this idea with an example that I hope makes some sense. We have learned that hydrogen chloride HCl is polar and its bonding is described as something intermediate to that of an ionic bond and a covalent bond. We can recognise both forms by writing an ionic resonance form and a covalent resonance form (Figure 4.6). The true hybrid is a mixture of the two forms.</p>
+
+    <figure>
+        <img img alt="Resonance forms of HCl" src="images/Fig4_6_HCL.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.6. Resonance forms of hydrogen chloride</figurecaption>
+    </figure>
+
+    <p>
+        You may notice from Figure 4.6 that I did not draw lone pairs around the chloride ion and only indicated the overall charge of each species (equivalent to their formal charge). Showing structures in this more concise way is considered common practice at this stage in your studies and is part of the attempts to simplify our notation when appropriate. By now it will be assumed that you can readily deduce the number of non-bonding electrons by inspecting the value of the charge given.
+    </p>
+
+    <p>
+        It is important to note that resonance forms do not convert from one form to another. Some readers may be quick to propose that there is an equilibrium between two or more resonance forms. This is not the intention of resonance. Imagine a jar full of blue and red balls, and we visual this: blue balls &#8652 red balls. You put your hand in the jar and pull out a red ball. You know that at some point when you place the red ball back into the jar, it will convert into a blue ball. The same idea does not carry across to resonance forms. A resonance form is not a photo snapshot either. It is simply part of the written language chemists use to communicate as accurately as possible.
+    </p>
+    
+    <p>
+        Resonance forms are often linked with a double-headed (single) arrow (Figure 4.7). 
+    </p>
+
+    <figure>
+        <img img alt="Relating resonance forms with the double-headed arrow" src="images/Fig4_7_relatedforms.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 4.7. Relating resonance forms with a double-headed arrow</figurecaption>
+    </figure>
+
+    <p>
+        Chemists, particularly organic chemists, use curly arrows to show how one form is related (not converted) to another. This is an aspect which we will apply when discussing the chemistry of benzene. If you study chemistry at university then resonance will be one of the first topics you study because it sets the foundation for more advanced work.
+    </p>
+
+<%- include("partials/footer") %>

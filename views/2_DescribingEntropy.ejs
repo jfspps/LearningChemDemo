@@ -1,0 +1,72 @@
+<%- include("partials/header") %>
+
+<meta name="description" content="Three approaches to describing entropy with examples">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Describing entropy</h1>
+	<p><i>21st Dec 2019</i></p>
+	<p>You should already know the differences between the system and the surroundings, that atoms and bonds oscillate about a fixed position and how &#963-bonds rotate. Access to molecular models will help considerably.</p>
+	<p>Entropy is always a challenging idea to follow at first. Nevertheless, it is an important concept because it helps us to predict what occurs. What follows is how I describe (as opposed to formally define) entropy in three ways with some examples.</p>
+  <ol>
+    <li id="example">Entropy is the extent to which heat and matter are spread out or dispersed</li>
+    <p><i>The greater the spread, the higher the entropy.</i> Picture this. When we heat a block of metal in the corner (Figure 2.1), normally the temperature of the remainder of the block increases over time because the heat energy is transferred from the hotter region (hot source) to the cooler region (cold sink) of the block (Figure 2.2).</p>
+
+    <figure>
+    	<img img alt="Heating an object" src="images/Fig2_1_heattransfer.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption> Figure 2.1. Heat energy concentrated over a small area (lower entropy)</figurecaption>
+    </figure>
+    
+    <figure>
+    	<img img alt="Heat energy spreading randomly across an object" src="images/Fig2_2_heatspread.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption>Figure 2.2. Heat energy dispersed over larger area (higher entropy)</figurecaption>
+    </figure>
+    <p>Related to the extent to which heat energy is spread, the entropy of the block the moment we heated the block (Figure 2.1) is low compared to the situation when more of block warms up. The entropy of the system (the system would be the metal block) increases as more heat energy spreads out across the metal block.</p>
+
+    <p>Regarding matter, recall what happens to a pellet of dry ice when it is exposed to the atmosphere at room temperature. We find the pellet becomes smaller and observe water vapour formation as the cooler carbon dioxide gas escapes to the surroundings. In this example, the carbon dioxide molecules spread out (Figure 2.3) randomly. You can also observe the same result when you place a drop of liquid bromine in a colourless glass jar: the jar gets filled with an orange-brown vapour. In both given cases, the extent to which matter is spread out or dispersed increases and therefore the entropy is increases.</p>
+    <figure>
+    	<img img alt="Dispersion of molecules" src="images/Fig2_3_matterspread.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    	<figurecaption>Figure 2.3. Molecules becoming more dispersed</figurecaption>
+    </figure>
+    <p>We can extend the idea about dispersion a little further. What happens if we use a larger glass jar? The capacity or potential for further dispersion of matter (bromine vapour in this case) is higher, and so the final entropy of a larger glass jar of bromine is greater than the final entropy of a smaller jar. How does this relate to the expansion of the universe? I will leave this thought. In chemistry, you will quite often encounter situations when the expansion of a gas is accompanied by an increase in the entropy of the system.</p>
+    <li id="example">Entropy is a measure of how many ways one can configure a system</li>
+    <p><i>The more ways in which a system can be configured, the higher the entropy.</i> This definition is a more quantitative description of entropy and is quite useful when comparing different systems without considering temperature or heat. What do I mean by "configure"?</p>
+	
+	<ol type="a">
+		<li>Let us first assume that the atoms in each molecule are identical and frozen in position (bond angles are fixed) so the only other option we have is to decide where in the "container" do we place each molecule. Comparing pure (molecular) hydrogen with a mixture of hydrogen and helium (with the same number of combined molecules, see Figure 2.4), we can see that the entropy of the hydrogen-helium mixture is greater than the entropy of the pure hydrogen. This is because there are more ways of configuring the mixture:</li>
+		<figure>
+			<img img alt="Examples of configurations" src="images/Fig2_4_configs.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    		<figurecaption>Figure 2.4. Pure hydrogen on the left, hydrogen-helium mixture on the right</figurecaption>
+		</figure>
+		<p>Consequently, the more complex a mixture, the more configurations are possible and the higher the entropy. It also follows that the more molecules there are <i>e.g.</i> the greater the volume of gas present, the more possible configurations there are and consequently the higher the entropy.</p>
+		<li>If we compare individual molecules, then we need to compare how many ways we can position the atoms (without breaking bonds) by stretching bonds and/or bending molecules. Start simple. A monatomic species <i>e.g.</i> a noble gas can only be configured by positioning an atom in space. A diatomic molecule <i>e.g.</i> hydrogen chloride HCl can be configured such that the H and the Cl atoms can be placed a number of distances apart. How? By <i>stretching</i> the H-Cl bond (Figure 2.5).</li>
+		<figure>
+			<img img alt="Stretching of an H-Cl bond" src="images/Fig2_5_stretchHCl.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    		<figurecaption>Figure 2.5. Stretching the HCl bond</figurecaption>
+		</figure>
+		<p>This is a reasonable idea because we believe that atoms are not fixed in position. In fact, the bonds oscillate like mechanical springs (this action is the basis of infra-red spectroscopy). <i>Within</i> the HCl molecule, there are a number of ways of configuring the atoms' position.</p>
+		<p>As molecules become larger, they give rise to more configurations and usually higher entropy. For example, when we consider carbon dioxide CO<sub>2</sub>, not only can one stretch the C=O bonds but also <i>bend</i> the molecule (Figure 2.6). The bond angle is temporarily smaller. </li>
+		<figure>
+			<img img alt="Bending of a CO2 molecule" src="images/Fig2_6_bendCO2.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    		<figurecaption>Figure 2.6. Bending the CO<sub>2</sub> molecule</figurecaption>
+		</figure>
+		<p>We can also arrange atoms in a molecule by rotating along &#963-bonds. Using a ball and stick model, try rotating the C-C bonds of propane (Figure 2.7) and then try again with cyclopropane (without breaking bonds).</p> 
+		<figure>
+			<img img alt="Rotation of C-C bonds" src="images/Fig2_7_rotamers.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+    		<figurecaption>Figure 2.7. Rotating a C-C &#963-bond of propane</figurecaption>
+		</figure>
+		<p>Evidently, it is possible to generate more configurations of a propane molecule compared to a cyclopropane molecule. As a result, one would expect the entropy of propane to be greater than that of cyclopropane. We can generalise this idea to other molecules (which need not be carbon-containing): straight-chain (linear) structures of chain length <i>x</i> have higher entropy than cyclic (ring) structures of ring-size <i>x</i>.</p>
+		<p>If you have access to a table of absolute entropies (from a data booklet) you should now be able to appreciate why the entropy of substance is low for some and higher for others by applying the above ideas.</p>
+	</ol>
+
+    <li id="example">Entropy is the amount of disorder</li>
+    <p><i>The higher the amount of disorder, the higher the entropy.</i> This description tends to be the most often applied of the three descriptions and one to remember if you can only remember one description. The more random motion (disorder) a system has, the more entropy is present. There is more random motion present in a gas than in a solid, hence the entropy of a gas is greater than the entropy of a solid.</p>
+  </ol>
+  
+  <p>Perhaps you can see how each description can be applied to the same system. Gas molecules tend to be more dispersed than solid molecules (the first description). There are more ways to configure a finite amount of gas compared to the same number of molecules in the solid state (the second description). Resulting from the third description, there is more random motion in gases than there is in solids. All lead to the same conclusion: the entropy of a gas is greater than the entropy of the solid.</p>
+
+  <p>I hope this article has helped you appreciate the idea of entropy and where it can be applied. I suggest you take a minute or two to compare the entropy of other systems you can think of, using one or more of the above descriptions. For those of you who go on to university study, you will learn about more precise (rigorous) ways of defining entropy.</p>
+
+  <p>In future articles we will discuss <a href="13_EnthalpyEntropyChanges">changes in entropy</a>, the important role entropy has on deducing the likelihood that a process occurs and why we propose that all reactions are ultimately reversible.</p>
+
+<%- include("partials/footer") %>

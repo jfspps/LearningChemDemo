@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Fig14_4_EnthalpyEntropy.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.58333 26.458334"
+   height="100"
+   width="1000">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="89.291435"
+     inkscape:cx="488.05185"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(0.95791136,1.0439379)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.634899"
+       x="106.91319"
+       y="16.389109"
+       id="text846"><tspan
+         style="stroke-width:0.634899"
+         sodipodi:role="line"
+         x="106.91319"
+         y="16.389109"
+         id="tspan844"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan836">𝛥</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan838">𝑆</tspan><tspan
+           dx="-0.38570446"
+           dy="1.9299995"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.82518px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan840">𝑠𝑢𝑟𝑟</tspan><tspan
+           dx="4.4190736"
+           dy="-1.9299995"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan842">=</tspan></tspan></text>
+    <text
+       transform="scale(0.95791136,1.0439379)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.634899"
+       x="144.90373"
+       y="8.9738445"
+       id="text860"><tspan
+         style="stroke-width:0.634899"
+         sodipodi:role="line"
+         x="144.90373"
+         y="8.9738445"
+         id="tspan858"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan848">−</tspan><tspan
+           dx="1.8235571"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan850">𝛥</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan852">𝐻</tspan><tspan
+           dx="-0.51993269"
+           dy="1.9299995"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.82518px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan854">𝑠</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.82518px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan856">𝑦𝑠</tspan></tspan></text>
+    <text
+       transform="scale(0.95791136,1.0439379)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.634899"
+       x="157.19478"
+       y="22.687002"
+       id="text866"><tspan
+         style="stroke-width:0.634899"
+         sodipodi:role="line"
+         x="157.19478"
+         y="22.687002"
+         id="tspan864"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:'Cambria Math';fill:#000000;stroke-width:0.634899"
+           id="tspan862">𝑇</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.634899"
+       d="m 138.80492,14.033989 h 29.09378 v 0.636252 h -29.09378 z"
+       id="path868" />
+    <text
+       transform="scale(0.95791136,1.0439379)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.634899"
+       x="175.17424"
+       y="16.389109"
+       id="text874"><tspan
+         style="stroke-width:0.634899"
+         sodipodi:role="line"
+         x="175.17424"
+         y="16.389109"
+         id="tspan872"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.3648px;font-family:Calibri;fill:#000000;stroke-width:0.634899"
+           id="tspan870"> </tspan></tspan></text>
+  </g>
+</svg>

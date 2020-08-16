@@ -1,0 +1,343 @@
+<%- include("partials/header") %>
+<title>Structure and bonding Part 3: Atomic orbitals</title>
+<meta name="description" content="Describing the electronic structure of atoms with orbitals">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Structure and bonding Part 3: Atomic orbitals</h1>
+	<p><i>1st Feb 2020</i></p>
+
+    <p>
+        So far in this series we have looked at some of the <a href="5_HistoryOfElectrons">experimental evidence</a> which suggests that waves can behave like particles, and particles can behave as waves. We have also outlined how scientists developed the <a href="6_AtomicSpectroscopy">shell model</a> of the hydrogen atom from spectroscopic data. I will assume you are aware of these ideas.
+    </p>
+
+    <p>
+        At this stage we are quite confident that the electrons in a hydrogen atom are located in shells. Judging from the atomic spectra of other elements, it is not possible to immediately apply the shell description to other non-hydrogen atoms without more refinement of the description. I mentioned in <a href="5_HistoryOfElectrons">part 1</a> that physicists were also working on a mathematical description of the atom in an attempt to account for the wave-like properties of an atom. One such description is the Schr&#246dinger wave equation. We will not need to be concerned with the mathematics behind the Schr&#246dinger wave equation and instead focus on what it reveals.
+    </p>
+
+    <h3>
+        Some friendly advice before we proceed
+    </h3>
+
+    <p>
+        I think at this stage of our discussion I should try advise you about how best to view this topic and all subsequent topics because it is an area which can lead to much confusion if you do not have the right approach and expectation. In <a href="5_HistoryOfElectrons">part 1</a>, I described what is usually referred to as <i>wave-particle duality</i>, that is, waves and particles exhibit two (dual) characteristics at the same time: wave-like and matter-like properties. This idea is strange and I would say that if it does not appear strange to you then you will need to think about it more. Wave-particle duality is an example of many results, which, at the time (and probably still to this day) could not be fully explained. Why then do we still write about and follow these ideas? It is because the results can be extended and applied to all sorts of chemical systems with overwhelming success, as we will soon see. 
+    </p>
+
+    <p>
+        The ideas listed in <a href="5_HistoryOfElectrons">part 1</a> form a large part of a subfield of physics known as Quantum mechanics, which began receiving much attention from scientists at the beginning of the 20th century. Quantum mechanics is largely about the study of microscopic (atomic) systems and their interaction with electromagnetic radiation (spectroscopy). Chemistry is not the only subject to benefit from the application of quantum mechanics. Scientists do not understand quantum mechanics and neither do I when I think about it, however, this does not mean that we should dismiss it. Perhaps the underlying ideas are difficult to accept because they involve situations which we are not accustomed to. The ideas are not intuitive. It is quite clear that scientists can describe systems which are on a scale comparable to our own (regarding mass or distance, for example) however when we study extremely small and extremely large entities then our own viewpoint may have to change. Remember that we are not in control of how the universe is supposed to function or proceed, so if it happens to act strangely then so be it. We can only try to understand all phenomena from our point of view and this often involves reviewing and integrating apparently strange ideas, which, take time to accept and verify.
+    </p>
+
+    <p>
+        Mathematics plays a very significant role in quantum mechanics and allows one to verify and demonstrate all of the results, however, it does not always aid our understanding from our own reference point. For instance, we can picture three dimensions easily but what about in four or more dimensions? Mathematics can answer questions posed in multiple dimensions but sometimes that is all it might end up achieving. If you study the Schr&#246dinger wave equation, take comfort from the fact that it provides a very successful vehicle to predicting properties (analogous to getting results in five dimensions) while at the same time remaining a bit of mystery (<i>i.e.</i> how does one visualise five dimensions). You will not be expected to understand how or why we get verifiable results from the Schr&#246dinger wave equation at this stage. Perhaps in time, someone will be able to explain "the why". This to me is what makes devising and revising theories a very interesting endeavour because each time we obtain results we can revise our theory and better understand the world around us. I hope the above diversion helps set your mind in the right place when continuing with this topic.
+    </p>
+    
+    <h3>
+        Refining the shell model of atoms
+    </h3>
+
+    <p>
+        The Schr&#246dinger wave equation provides functions (or more specifically, solutions) which enable us to define a more precise position and energy of electrons in any atom. Note however that, as alluded to in <a href="6_AtomicSpectroscopy">part 2</a>, we can only get accurate results for hydrogen-like species. For all other species, we have to use approximations when processing the Schr&#246dinger wave equation. The net result from the Schr&#246dinger wave equation is that a shell is made up of <b>subshells</b> and <b>orbitals</b>. Using my analogy of a mailing address, the shell relates to the city, a subshell relates to the road name and an orbital relates to the specific house (given by a house number).
+    </p>
+
+    <p>
+        Let us view the relationships between shells, subshells and orbitals before giving them some sort of definition. Starting with Figure 7.1(a), each shell can be divided into a limited number of subshells. The n = 2 shell is made up of two subshells, the n = 3 shell has three (Figure 7.1(d)), the n = 4 shell (not shown) has four. Each subshell (except for the n = 1 subshell) can also be divided into a limited number of orbitals (Figures 7.1(b) and (c)). Both limits are verified by the Schr&#246dinger wave equation. Each orbital is represented by a short line (Figure 7.1(c)). The ideas about potential energy and proximity to the nucleus can be carried over from <a href="6_AtomicSpectroscopy">part 2</a>.
+    </p>
+
+    <figure>
+        <img img alt="Shells, subshells and orbitals" src="images/Fig7_1_subshellsorbitals.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.1 How shells relate to subshells and orbitals for period 2 atoms (this is not applicable to a hydrogen atom)</figurecaption>
+    </figure>
+    
+    <p>
+        You may recall from <a href="6_AtomicSpectroscopy">part 2</a> that I explain the building up of the energy level diagram by first considering only the shells of an atom. The energy level diagram of Figure 7.1(c) is the finalised version in this series, and is one which virtually all students know about at this level. We will label each line and add electrons to the energy level diagram shortly.
+    </p>
+
+    <h3>Atomic orbitals</h3>
+    <p>
+        An <b>orbital</b> is a region of space around the nucleus of an atom where we are highly likely (quite often taken as ~95% probability) to find an electron. More formally, an orbital is a mathematical function which describes a 3D region (a volume) of space where there is a high probability of finding an electron. Different orbitals are given by different functions and consequently have different 3D shapes (shown later). The function (solution) is deduced from the Schr&#246dinger wave equation.
+    </p>
+    <p>
+         In this article, we are focusing solely on <i>atomic orbitals</i> although I will sometimes refer to them more simply as <i>orbitals</i>. The term <i>atomic orbital</i> emphasises that the function was derived (built-up) from the properties of the individual atom and so only applies to an individual atom. In the next part we will learn about <i>molecular orbitals</i> which denote regions of space where electrons most likely reside around molecules. As you will see, molecular orbitals are derived from atomic orbitals.
+    </p>
+    <p>
+        One can use the mathematical solutions to the Schr&#246dinger wave equation to derive other functions which show how probability changes with distance. Roughly speaking, Figure 7.2 shows how the probability P changes with distance <i>x</i> from the nucleus for a particular orbital (not applicable to all orbitals). The electron is not located <i>at</i> the nucleus and therefore must have a zero probability when <i>x</i> = 0. As <i>x</i> increases, the chances of finding the electron increases to a maximum and then decreases thereafter. We say <i>highly likely</i> because, formally, at any defined, non-zero distance <i>x</i> from the nucleus, the probability is also non-zero. Hence, an electron can occupy all known space away from the nucleus. In practice, we choose a cut-off point (a threshold) where the probability is <i>essentially</i> zero beyond the threshold, to all intents and purposes. This cut-off point helps us form a boundary to the orbital (and surface of the 3D shape) at a given point in space. The area under the curve in the <i>x</i> interval [0, 'threshold'] corresponds to ~95% probability, the area under the curve [0, &#8734) would correspond to 100% probability.
+    </p>
+
+    <figure>
+        <img img alt="Distribution function" src="images/Fig7_2_RDF.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.2 Probability, P, of finding an electron in one type of orbital, at a distance x from the nucleus. Other types of orbitals are described by different functions. The threshold defines the boundary of the orbital, where the probability is considered zero beyond the boundary.</figurecaption>
+    </figure>
+
+    <p>
+        The mathematical functions which describe orbitals all involve <i>e<sup>ax</sup></i> (a is some constant) with some functions also having (wave-like) sine <i>x</i> and cosine <i>x</i> functions. The sine and cosine functions will be of use in the next part when we discuss bond formation. 
+    </p>
+    <p>
+        At this level, you should know about three main types of orbitals: s-, p- and d-orbitals (Figure 7.3). Note, the symbols x, y and "2" should appear as subscripts, and are used to denote more sub-types of the p- and d-orbitals, tabulated below:
+    </p>
+
+    <table class="table table-striped">
+        <tr>
+            <th>Principal quantum number</th>
+            <th>Orbitals present (in no particular order and appropriate for this series)</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1s</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>2s  2p<sub>x</sub>  2p<sub>y</sub>  2p<sub>z</sub></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>3s  3p<sub>x</sub>  3p<sub>y</sub>  3p<sub>z</sub>  3d<sub>xy</sub>  3d<sub>yz</sub>  3d<sub>xz</sub>  3d<sub>z<sup>2</sup></sub>  3d<sub>x<sup>2</sup>-y<sup>2</sup></sub></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>4s 4p<sub>x</sub>  4p<sub>y</sub>  4p<sub>z</sub></td>
+        </tr>
+    </table>
+
+    <figure>
+        <img img alt="Labelled orbitals" src="images/Fig7_3_labelledorbitals.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.3 The different types of atomic orbitals, with labels. The order of the orbitals in terms of energy is valid for He to Ar (discussed at the end of this article).</figurecaption>
+    </figure>
+
+    <p>
+        There is a bit of a historical background regarding the way in which atomic orbitals are labelled (what s, p and d mean) but knowing the details will not really further our insight at this stage. Reading the orbital symbol is quite straightforward. If we look at the notation for 2s (read as "two s"), "2" signifies the principal quantum number (shell number) and "s" signifies the s-orbital. The symbol 3d<sub>xz</sub> (read as "3 d x z") signifies an "xz" type of d-orbital, in the n = 3 shell. The symbol 3d<sub>z<sup>2</sup></sub> is read as "3 d z-squared" and the symbol 3d<sub>x<sup>2</sup>-y<sup>2</sup></sub> is read as "3 d x-squared minus y-squared".
+    </p>
+    <p>
+        A group of orbitals of the same class in the same shell is referred to as a <b>subshell</b> (there is a more formal definition of what a subshell is but this is beyond the scope of this series). The orbitals in a given subshell differ in shape and/or orientation in 3D space but all have the same letter designation <i>i.e.</i> all p or all d, in our case. In this series, we will label subshells as <i>p-subshells</i> and <i>d-subshells</i>, in reference to a group of p-orbitals and a group of d-orbitals, respectively. The n = 1 shell is made up of one orbital, the 1s orbital, so the n = 1 shell is usually referred to directly as a 1s orbital rather than the 1s-subshell. Similarly, it is unlikely that you will see authors use phrases such as the "2s-subshell" or "3s-subshell" <i>etc</i> since these subshells are made up of one orbital, so they tend to refer to the orbitals directly.
+    </p>
+
+    <p>
+        The present application of the Schr&#246dinger wave equation dictates that each orbital can only hold a maximum of two electrons. The total number of electrons per shell is as follows: n = 1 has 2 electrons, n = 2 has eight and n = 3 has 18.
+    </p>
+    <p>
+        The threshold or boundary that an orbital is assigned determines, along with other factors, the 3D shape and/or orientation in space of the orbital (Figure 7.4). The s-orbitals are spherical and the p-orbitals are dumbbell shaped. The p-orbitals lie along the axes, denoted by the subscripts x, y and z. For example, 3p<sub>y</sub> means this is the p-orbital which lies along the y-axis and is found in the n = 3 shell. Note from Figure 7.3, the p-orbitals and d-orbitals, each in their own subshell, are degenerate (have the same energy).
+    </p>
+
+    <figure id="Figure7_4">
+        <img img alt="Shapes of orbitals" src="images/Fig7_4_orbitalshapes.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.4 The different shapes of s, p and d atomic orbitals</figurecaption>
+    </figure>
+
+    <p>
+        The orbitals have wave-like properties (specifically, phase) which are represented by different shading. This is due in part to the properties of the sine and/or cosine functions involved. We will apply these results in part 4. I have drawn the orbitals in this article with shading included to prepare for part 4, however, when you are asked to draw orbitals in an exam you will not need to shade them.
+    </p> 
+
+    <p>
+        A few other highlights should be mentioned. First, the orbitals increase in volume as the principal quantum number n increases. For instance, the 3s orbital is larger than the 2s or 2p orbitals. This is a reflection of the fact that electrons in the higher shells are located further from the nucleus. Second, the p-orbital is made up of two <i>lobes</i> (Figures 7.5 and 7.8) which really look like flattened spheres (or ellipsoids). Each lobe is separated by a very short distance from each other near the nucleus. Does an electron occupy both lobes? It does. This sounds strange and yet again is another example of where thinking of electrons as particles does not help. We will explore this more in part 4. In your course, it should be quite acceptable to allow the p-orbital lobes to touch when drawing a single p-orbital, as shown in Figure 7.4.
+    </p>
+
+    <figure>
+        <img img alt="The lobes of the p- and d-orbitals" src="images/Fig7_5_orbitallobes.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.5 The lobes of the p- and d-orbitals (contrasting colours denote different orbital phase, discussed in part 4)</figurecaption>
+    </figure>
+
+    <p>
+        Lastly, some of the d-orbitals look like pairs of p-orbitals, each with four lobes (instead of two lobes, see Figure 7.5). The d<sub>z<sup>2</sup></sub>-orbital is the exception, with two lobes and a ring. The d<sub>xy</sub>-orbital looks like two overlapping p-orbitals, both of which lie in the xy-plane and each lie in between the x and y axes. Similar remarks can be made about the d<sub>xz</sub>- and d<sub>yz</sub>-orbitals. The d<sub>x<sup>2</sup>-y<sup>2</sup></sub>-orbital looks a lot like the d<sub>xy</sub>-orbital, except that the lobes lie along the x- and y-axes (as opposed to in between). You can think of it as a rotated about the z-axis. The d<sub>z<sup>2</sup></sub>-orbital looks like a p<sub>z</sub>-orbital with a ring in the xy-plane. Like the p-orbitals, the d-orbital lobes do not touch though I would think at this level it is quite alright to allow them to touch when asked to draw them.
+    </p>
+
+    <h3>Symbols for electrons</h3>
+    <p>
+        We can now add symbols for the electrons to the diagram. Before we do, I will briefly outline the background to the symbol used.
+    </p>
+    
+    <p>
+        I will summarise the main points first. We can model electrons as tiny bar magnets. As well as being negatively charged, electrons possess their own magnetic dipole moment, specifically a <i>spin</i> magnetic dipole moment. The spin magnetic dipole moment is purely based on quantum mechanics. We will take a simple view by visualising the magnetic moment much like the direction to which north (or south) of a bar magnet is pointing. The spin magnetic dipole moment is a vector and was confirmed for electrons in the 1920s by physicists Otto Stern and Walther Gerlach, from an experiment named after them, the Stern-Gerlach experiment (Figure 7.6(a)). The experiment showed how a beam of gaseous silver atoms was deflected and separated into two smaller beams of silver atoms after passing through an external magnetic field. For electrons, the direction of the moment can take one of two opposing (antiparallel) directions. The two moments explain why the silver beam was split into two beams. We symbolise the direction of the vector (where north or south is pointing, as it were) of an electron using one of two arrows (Figure 7.6(b)), each representing the direction of the spin magnetic dipole moment.
+    </p>
+
+    <p>
+        Let us expand on these points a little further. Silver atoms are neutral, have one unpaired electron (they have an electronic configuration, explained below, of [Kr] 4d<sup>10</sup> 5s<sup>1</sup>) and in many ways can be viewed as carriers of a single electron.
+    </p>
+
+    <figure>
+        <img img alt="Stern-Gerlach experiment and electron symbols" src="images/Fig7_6_angularmomentum.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.6 (a) The Stern-Gerlach experiment; (b) the symbols used to represent electrons; (c) deflection in a non-uniform external magnetic field (assume the magnetic field strength is higher near the external north pole)</figurecaption>
+    </figure>
+
+    <p>
+        Charged particles or ions in motion generate an electric field and a magnetic field. Consequently, if a beam of ions is exposed to an external electric and/or magnetic field then it can be deflected. If you have studied Mass spectrometry, then the principle behind the deflection of ions is the same. How can a beam of neutral silver atoms be deflected and separated into two equally intense beams? Scientists explained this observation by focusing on the significance of the unpaired electron of the silver atom.
+    </p>
+
+    <p>
+        When two electrons with opposing magnetic dipole moments occupy the same orbital, the magnetic dipole moments effectively cancel. This type of pairing makes the pair of electrons, and consequently the atom overall, less responsive to external magnetic fields. An atom with one or more unpaired electrons, like silver, will respond more to an external magnetic field than it would if all electrons were paired. If you are interested, find out why liquid oxygen is deflected in a magnetic field.
+    </p>
+
+    <p>
+        The Stern-Gerlach experiment (along with other studies that had been conducted at the time) demonstrated that the magnetic dipole moment of an electron is unique in that it can only take on one of two values. How so? Well, the two silver beams detected shows us that one beam was composed of silver atoms with an unpaired electron having one particular magnetic moment and the other beam composed of silver atoms with an unpaired electron with the opposing magnetic moment. The analogy here is that the unpaired electron was pointing north, as such, for half of all silver atoms and pointing south for the others (Figure 7.6(c)). In order to get deflection, the external magnetic field must be non-uniform, when the density of external magnetic field lines changes over a given space. This essentially means that the end of one dipole feels a stronger force then the other. If the field was uniform then the forces on both ends of the dipole would equal and there would be no deflection.
+    </p>
+    
+    <p>
+        As with all vectors, we represent the orientation of both magnetic dipole moments with an arrow, as shown in Figure 7.6(b). For historical reasons, we sometimes denote the spin-state (which way the vector is pointing) of one moment as "spin-up" &#8593 or &#8639, and the other as "spin-down" &#8595 or &#8642. The use of the term "spin" has a bit of history behind it and is somewhat unfortunate. I emphasise here: we are not implying that electrons actually spin. It is, in my opinion, worth going through some of the physics behind the electron because we will see in a future article that these ideas also apply to protons. We will revisit the notion of spin and how it applies to protons when we discuss the analytical technique, Nuclear Magnetic Resonance (NMR) spectroscopy, mentioned in <a href="6_AtomicSpectroscopy">part 2</a>.
+    </p>
+
+    <p>
+        We complete this section with an energy-level diagram of a helium atom. Note, it is not strictly necessary to include vacant orbitals.
+    </p>
+
+    <figure>
+        <img img alt="Energy level diagram of helium" src="images/Fig7_7_heliumconfig.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.7 Energy level diagram of helium</figurecaption>
+    </figure>
+
+    <h3>The electronic configuration of atoms</h3>
+
+    <p>
+        Chemists tend to outline the electronic configuration (electron arrangement) presented in Figure 7.7 in an even more condensed form where the lowest energy level is written first. For example, the electronic configuration of helium would be expressed as 1s<sup>2</sup> (read as "1 s 2" not "1 s-squared"), meaning there are two electrons in the 1s orbital. Lithium can be written as 1s<sup>2</sup> 2s<sup>1</sup> implying that the 1s orbital is lower in energy then the 2s orbital. At this stage, I would recommend that you learn about how to write the electronic configuration of all atoms and ions from hydrogen to krypton before continuing with this series. All textbooks I have encountered explain how to write electronic configurations adequately so there is no need for me to repeat it here. Many come with exercises for you to confirm your understanding of the procedures. Before continuing, you should also be able to identify, as an example, which neutral atom or ion(s) have an electronic configuration of 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>, as well as understand the meaning of the Aufbau Principle, the box-notation of electronic configuration, the s-block, p-block, d-block and f-block.
+    </p>
+
+    <p>Assuming you can write the electronic configuration of the elements hydrogen to krypton, let me pose a few questions:</p>
+    
+    <ul>
+        <li>Why are both arrows in Figure 7.7 pointing in opposite directions?</li>
+        <li>When you start to fill the degenerate p- or d-orbitals, the arrows point in the same direction. Why is this?</li>
+        <li>For those of you who have studied ionisation energy: in both sequences lithium to beryllium, and, nitrogen to oxygen, there is an increase in atomic number and a pairing of an electron in the same orbital. Why does the sequence of nitrogen to oxygen involve a decrease in ionisation energy when the sequence of lithium to beryllium involve an increase in ionisation energy?</li>
+    </ul>
+    <p>
+         You may have thought of other questions. Many authors, at a pre-university level, will give explanations without reference to quantum mechanics because, understandably, students are usually unaware of quantum mechanics. In truth, the reasons are based on quantum mechanics. You will see the notion regarding "the stability of half-filled subshells (or orbitals)" is often highlighted at this level. To me it convinces students that half-filled subshells are a good thing and so whenever one asks them to write configurations, they know what to do. Does it explain why though? These are examples of questions (valid questions) which, in my opinion, cannot be addressed correctly without referring to university-level textbooks. Alternatively, you can wait until you have started your university studies. Either way, you will find that the discussions, while not exceedingly difficult to follow, are not trivial. We all accept that analogies and learning tools are certainly helpful when trying to relate to the properties of electrons (just as I demonstrated when explaining the Stern-Gerlach experiment) but we should bear in mind that they are just that, analogies.
+    </p>
+    
+    <p>
+        The electronic configuration of atoms is supported by experimental (spectroscopic) data and should be explained when you begin studying quantum mechanics at university. When we say that an effect or property is "quantum-mechanical" we are stating that the effect is a consequence of quantum mechanics and not specifically a consequence of other, more mature areas of physics. Some examples of quantum-mechanical effects include the fundamental magnetic properties of electrons, outlined above, as well as the nature of electronic configurations. At this stage, I would focus on making sure you can write the accepted electronic configurations and worry less about the reasons why until you are ready.
+    </p>
+
+    <h3>Degenerate atomic orbitals can make up a shell</h3>
+
+    <p>
+        One aspect which often gets left out is the demonstration of orbitals in the same subshell with the same energy, when combined, forming a sphere. Below is a series of images (Figure 7.8) showing the three p-orbitals in isolation and then shown at the same time. I have used different display options to help you distinguish between each type of p-orbital. The p<sub>x</sub> and p<sub>y</sub> orbitals are shown on the same set of axes and followed up with the addition of the p<sub>z</sub> orbital. You can see that the combination of all three p-orbitals results in an orbital which resembles an s-orbital. In effect, this is a complete spherical shell which we label as the p-subshell. You can demonstrate the same idea with the d-orbitals too.
+    </p>
+
+    <figure>
+    <div id="p_orbitalcarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#p_orbitalcarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#p_orbitalcarousel" data-slide-to="1"></li>
+          <li data-target="#p_orbitalcarousel" data-slide-to="2"></li>
+          <li data-target="#p_orbitalcarousel" data-slide-to="3"></li>
+          <li data-target="#p_orbitalcarousel" data-slide-to="4"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item carousel-item active">
+                <img class="d-block w-100 " src="images/1_Pz.jpg" alt="Pz orbital">
+                <div class="carousel-caption d-none d-md-block">
+                    <p>Pz orbital</p>
+                </div>
+            </div>
+            <div class="carousel-item carousel-item">
+                <img class="d-block w-100" src="images/2_Py.jpg" alt="Py orbital">
+                <div class="carousel-caption d-none d-md-block">
+                    <p>Py orbital</p>
+                </div>
+            </div>
+            <div class="carousel-item carousel-item">
+                <img class="d-block w-100" src="images/3_Px.jpg" alt="Px orbital">
+                <div class="carousel-caption d-none d-md-block">
+                    <p>Px orbital</p>
+                </div>
+            </div>
+            <div class="carousel-item carousel-item">
+                <img class="d-block w-100" src="images/4_PxandPy.jpg" alt="Px and Py orbitals">
+                <div class="carousel-caption d-none d-md-block">
+                    <p>Px and Py orbitals</p>
+                </div>
+            </div>
+            <div class="carousel-item carousel-item">
+                <img class="d-block w-100" src="images/5_AllP.jpg" alt="Px, Py and Pz orbitals">
+                <div class="carousel-caption d-none d-md-block">
+                    <p>Px, Py and Pz orbitals</p>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#p_orbitalcarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#p_orbitalcarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <figurecaption> Figure 7.8 How degenerate atomic orbitals relate</figurecaption>
+    </figure>
+
+    <p>
+        The orbitals are coloured red and blue to signify the phase of the orbital. In part 4 we will discuss orbital phase and use it to explain how orbitals interact when bonds are formed. 
+    </p>
+    
+    <h3>The orbital energy sequence and limitations of the Aufbau Principle</h3>
+
+    <p>
+        The Aufbau Principle states that the order of filling the orbitals, from the lowest energy-level is {1s 2s 2p 3s 3p 4s 3d 4p...}. If you look up the energy level diagram of a hydrogen atom, you will find that the orbitals in the same shell are degenerate (Figure 7.9). The 2s and 2p orbitals cannot be distinguished energetically. The same is true for all other orbitals in the same shell in hydrogen. When an electron is promoted from the n = 1 shell (or 1s orbital) to the n = 3 shell, the electron will in principle occupy a 3s, 3p or 3d orbital. What is the relevance of the sequence {1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p...}? Why is the n = 4, 4s orbital listed before the n = 3, 3d orbital?
+    </p>
+    
+    <p id="effectOfTheNucleus">
+        The precise sequence of the orbitals in terms of energy is largely dependent on the atomic number. (It also depends on the repulsion between neighbouring electrons, though we will need to discuss this in this series.) Think about what happens to the energy levels as the atomic number increases: the pull of the nucleus increases and hence the energy required to remove electrons increases. This means that the potential energy between the electrons and the nucleus becomes more negative. Hence, the energy levels are lowered in the energy-level diagram as the atomic number increases. 
+    </p>
+
+    <figure>
+        <img img alt="How energy levels change with atomic number" src="images/Fig7_9_energylevelchanges.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.9 How energy levels change with atomic number</figurecaption>
+    </figure>
+    
+    <p>
+        Without mathematical justification or detail here, the 2s energy level is lowered more quickly than the 2p energy levels as the atomic number increases. As such, the 2s and 2p orbitals are now distinguishable as far as energy is concerned. At the same time, the 3s orbital lies below the 3p orbitals, which lie below the 3d orbitals. The order of the orbitals between hydrogen and argon is then {1s, 2s, 2p, 3s, 3p, 3d, 4s...} (see also Figure 7.3). So far, all the n = 3 orbitals lie below the n = 4 orbitals, as one would reasonably expect. We usually need not concern ourselves with the 3d or 4s orbitals for the elements up to argon, so even though the sequence {1s, 2s, 2p, 3s, 3p, 3d, 4s...} does not support the Aufbau Principle sequence {1s, 2s, 2p, 3s, 3p, 4s, 3d...}, it makes no difference to the electronic configurations that we write for the elements up to argon. So far there are no problems when following the Aufbau Principle.
+    </p>
+    <p>
+        The change with the {3d, 4s} sequence comes when we inspect the energy level diagram of potassium (Z = 19). The difference between the 3d and 4s energy-levels decreases quite quickly <i>i.e.</i> both orbitals become more difficult to distinguish. Experimental data shows that this order changes for potassium and calcium (Figure 7.10). The 4s orbital ends up being lower in energy than the 3d, and is therefore filled before the 3d subshell, in agreement with the Aufbau Principle. So that is hydrogen to calcium covered.
+    </p>
+
+    <figure>
+        <img img alt="The 3d and 4s orbital energies" src="images/Fig7_10_3d4sorbitals.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 7.10 The 3d and 4s orbital energies</figurecaption>
+    </figure>
+    
+    <p>
+        On entering the d-block, this is where things get more unpredictable. From scandium (Z = 21) up to and beyond krypton, the 4s-orbital is higher in energy than the 3d orbital. On first inspection, one would expect to have to fill the 3d subshell first before the 4s orbital. For scandium, it seems we should add electrons to the lower 3d subshell, resulting in a configuration of [Ar] 3d<sup>3</sup>. However, this is not supported by experimental data. I will list the configurations of scandium and its cations. We can safely conclude from the list below that if we were to ionise scandium then we remove from the higher energy 4s orbital first before removing the single 3d electron.
+    </p>
+
+    <ul>
+        <li>Sc: [Ar] 3d<sup>1</sup> 4s<sup>2</sup></li>
+        <li>Sc<sup>+</sup>: [Ar] 3d<sup>1</sup> 4s<sup>1</sup></li>
+        <li>Sc<sup>2+</sup>: [Ar] 3d<sup>1</sup> 4s<sup>0</sup></li>
+        <li>Sc<sup>3+</sup>: [Ar] 3d<sup>0</sup> 4s<sup>0</sup></li>
+    </ul>
+
+    <p>
+        The energy levels presented in Figure 7.10 are correct, so <b>(a) why does scandium(0) only have one 3d electron?</b> We can try to answer this by first starting with scandium(III). Adding the first electron to scandium(III) places it in a 3d orbital. So really, the order of filling the orbitals is back to {1s, 2s, 2p, 3s, 3p, 3d...} and not {1s, 2s, 2p, 3s, 3p, 4s...}! Adding the second electron places it in a 4s orbital and not the 3d orbital, even though there are plenty of vacant 3d-orbitals to choose from.
+    </p>
+    <p>
+        To proceed, we ask <b>(b) why does the second electron in scandium(I) occupy the 4s orbital instead of a 3d orbital?</b> The reasons and subsequent arguments are quite advanced for this level. This is the last part of the article and not critical to furthering our understanding in this series, so if the following this is too much for you then you can skip ahead to the my <a href="#intentions">concluding remarks**</a>.</p>
+        
+        <ol>
+            <li>
+                <p>
+                    Some authors argue that it relates to how much more spread out (more diffuse) 4s orbitals are around the nucleus compared to the more compact 3d orbitals. Remember there are five n = 3, 3d-orbitals trying to fit around the nucleus compared to one larger n = 4, 4s orbital. There are more repulsions between 3d electrons than in between a pair of 4s electrons. If we tried to place the second electron into the 3d subshell it would, in a manner of speaking, pop out (and up) and occupy the higher energy 4s orbital instead, relieving the repulsion (Figure 7.11).
+                </p>
+                <figure>
+                    <img img alt="Configuration of Sc(II)" src="images/Fig7_11_scandiumconfig.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+                    <figurecaption> Figure 7.11 The electronic configuration of scandium(I). The precise energy of the orbitals changes with the number of electrons remaining; this is discussed in more advanced texts.</figurecaption>
+                </figure>
+                <p>
+                    Quite rightly, you might ask: this would raise the energy of the scandium(I) ion since the second electron added is occupying a higher energy orbital? Well it seems not, because, if the second electron <i>prefers</i> to occupy the 4s orbital then it means that there is something about the occupation of the 4s orbital which makes the ion more stable. The energy-level diagram only shows us the relative potential energy of individual electron(s) but not the total potential energy of atom or ion. The configuration of [Ar] 3d<sup>1</sup> 4s<sup>1</sup> has a lower total potential energy than [Ar] 3d<sup>2</sup> 4s<sup>0</sup>. This preference is demonstrated again when we add the third and final electron, placing the electron in the 4s-orbital again, giving scandium(0) as [Ar] 3d<sup>1</sup> 4s<sup>2</sup>. <b>To answer questions (a) and (b)</b> having only one 3d electron is energetically more favourable because the neighbouring electrons experience less repulsion when the second (and third) added electron occupies a more diffuse 4s orbital than it would if they were to occupy the more compact 3d orbitals.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Other authors explain the configuration by examining analogues of the function given in Figure 7.2 for the 3d- and 4s-orbitals. (Incidentally, the function in Figure 7.2 applies specifically to the 1s orbital.) In short, the shape of the 3d- and 4s-functions shows that the 4s electrons have a higher probability of being closer to the nucleus than 3d electrons. More formally, the 4s electrons <i>penetrate</i> to the nucleus more than the 3d electrons. The nature of the mathematical equations is not indicated by an energy-level diagram. The third and final electron is then added to the 4s orbital again, presumably because the 4s orbital offers the third electron a higher probability of being located closer to the nucleus. <b>To answer questions (a) and (b)</b> again, occupying the 4s orbital, which (due to the mathematical description) offers a higher probability of being closer to the nucleus than the 3d-orbitals, ensures that the electrons are held more tightly than they would if they occupy a 3d orbital.
+                </p>
+            </li>
+        </ol>
+    <p>
+        I personally follow both arguments. What I hope this discussion shows is the background to the sequence of filling the orbitals, particularly why an n = 3 subshell appears <i>after</i> an n = 4 orbital.
+    </p>
+        
+    <p id="intentions">
+        **If your intention is to predict the order of filling the orbitals, <i>one electron at a time</i> to form neutral atoms, then the Aufbau Principle only works for the elements hydrogen to calcium. After that, the configurations become more difficult to predict. If your intention (which I suspect applies to most) is to <i>write the electronic configuration of neutral atoms</i> (not ionised) <b>and</b> you have remembered the "anomalies" chromium and copper, then the Aufbau Principle will do just fine for the elements up to krypton. All d-block elements which fill the 3d subshell have a full 4s orbital anyway, with the exception of chromium and copper. So, with the exception of chromium and copper, if you filled the 4s orbital of the d-block elements first (even though technically you should not) and then added the remaining electrons to the 3d subshell, you would still get the correct configuration for all elements from hydrogen to krypton.
+    </p>
+
+    <p>
+        We have now finished describing how electrons are located around single atoms. In <a href="/8_MixingOrbitals">part 4</a>, we will apply the notion of atomic orbitals and find out what happens to the orbitals when atoms form bonds. To assist, we will need to consider some of the wave-like properties of electrons in order to proceed.
+    </p>
+<%- include("partials/footer") %>

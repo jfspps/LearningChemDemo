@@ -1,0 +1,21 @@
+#bodytext{
+	padding-top: 100px;
+	max-width: 600px;
+}
+
+body{
+	background-color: #e1f0e4;
+	font-size: 1.1em;
+}
+
+.img-fluid{
+	width: 40%;
+}
+
+#example{
+  		color: blue;
+  	}
+
+figurecaption{
+	font-size: 0.8em;
+}

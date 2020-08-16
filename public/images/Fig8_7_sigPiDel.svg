@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="600"
+   viewBox="0 0 264.58333 158.75"
+   version="1.1"
+   id="svg1254"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Fig8_7_sigPiDel.svg">
+  <defs
+     id="defs1248" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="703.35792"
+     inkscape:cy="368.3522"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.363476"
+       y="149.19994"
+       id="text1258"><tspan
+         sodipodi:role="line"
+         x="13.363476"
+         y="149.19994"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1260">Look along the bond axis, then draw an orthogonal plane </tspan><tspan
+         sodipodi:role="line"
+         x="13.363476"
+         y="162.42911"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1323">which forms a cross-section and count the number of nodal planes</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#fc003f;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266"
+       cx="33.082996"
+       cy="236.46259"
+       rx="17.79562"
+       ry="17.127449" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.0871639"
+       y="279.26898"
+       id="text1270"><tspan
+         sodipodi:role="line"
+         id="tspan1268"
+         x="9.0871639"
+         y="279.26898"
+         style="font-size:7.05555534px;stroke-width:0.26458332">No nodal plane:</tspan><tspan
+         sodipodi:role="line"
+         x="9.0871639"
+         y="292.49814"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1272">sigma bond</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.317;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1274"
+       cx="34.018433"
+       cy="236.99173"
+       r="1.3363476" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.317;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1274-5"
+       cx="40.432911"
+       cy="198.24306"
+       r="1.3363476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.243763"
+       y="201.18301"
+       id="text1293"><tspan
+         sodipodi:role="line"
+         id="tspan1291"
+         x="45.243763"
+         y="201.18301"
+         style="font-style:italic;font-size:7.05555534px;stroke-width:0.26458332">nuclei</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#fc003f;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-2"
+       cx="123.55379"
+       cy="203.32115"
+       rx="17.79562"
+       ry="17.127449" />
+    <ellipse
+       style="opacity:1;fill:#0007ff;fill-opacity:1;stroke:none;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-27"
+       cx="124.0937"
+       cy="242.60977"
+       rx="17.79562"
+       ry="17.127449" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.317;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1274-1"
+       cx="124.22736"
+       cy="222.83182"
+       r="1.3363476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.65843"
+       y="278.88235"
+       id="text1270-5"><tspan
+         sodipodi:role="line"
+         x="103.65843"
+         y="278.88235"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1364">One nodal plane:</tspan><tspan
+         sodipodi:role="line"
+         x="103.65843"
+         y="292.11151"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1272-9">pi bond</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#fc003f;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-2-2"
+       cx="193.0771"
+       cy="201.9301"
+       rx="17.79562"
+       ry="17.127449" />
+    <ellipse
+       style="opacity:1;fill:#0007ff;fill-opacity:1;stroke:none;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-27-8"
+       cx="193.617"
+       cy="238.57292"
+       rx="17.79562"
+       ry="17.127449" />
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#fc003f;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-2-2-7"
+       cx="232.05988"
+       cy="239.16757"
+       rx="17.79562"
+       ry="17.127449" />
+    <ellipse
+       style="opacity:1;fill:#0007ff;fill-opacity:1;stroke:none;stroke-width:0.27260524;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1266-27-8-8"
+       cx="232.32715"
+       cy="201.72293"
+       rx="17.79562"
+       ry="17.127449" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.317;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1274-1-9"
+       cx="212.80034"
+       cy="220.19681"
+       r="1.3363476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="186.05424"
+       y="279.77029"
+       id="text1270-5-3"><tspan
+         sodipodi:role="line"
+         x="186.05424"
+         y="279.77029"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1364-5">Two nodal planes:</tspan><tspan
+         sodipodi:role="line"
+         x="186.05424"
+         y="292.99945"
+         style="font-size:7.05555534px;stroke-width:0.26458332"
+         id="tspan1272-9-2">delta bond</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.86, 1.86;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 105.64663,222.56482 h 36.08139"
+       id="path1439"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.67917597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.71670384, 2.71670384;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 173.13219,220.1594 h 76.97363"
+       id="path1439-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.67917597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.71670387, 2.71670387;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 212.82171,180.33624 v 76.97363"
+       id="path1439-6-2"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

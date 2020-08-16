@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1800"
+   viewBox="0 0 264.58333 476.25001"
+   version="1.1"
+   id="svg1372"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Fig9_2_sAndp.svg">
+  <defs
+     id="defs1366">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2942-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2940-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2942-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2940-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1466"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1464"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1466-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1464-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1466-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1464-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1466-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1464-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1466-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1464-1-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       id="clipPath">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath-5">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407-2"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath-5-7">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407-2-9"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath-2">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407-4"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath-5-8">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407-2-4"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath-5-7-7">
+      <rect
+         ry="0"
+         y="154.54532"
+         x="14.699824"
+         height="35.546848"
+         width="47.841244"
+         id="rect5407-2-9-6"
+         style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9657"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9655" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9775"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9773" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2942"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2940"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9545"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9543" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1199"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1197"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1199-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1197-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="788.57143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1369">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,179.25002)">
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-0"
+       cx="154.03175"
+       cy="22.690533"
+       rx="1.3229166"
+       ry="1.5875" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.35588"
+       y="24.323452"
+       id="text3558"><tspan
+         sodipodi:role="line"
+         id="tspan3556"
+         x="158.35588"
+         y="24.323452"
+         style="stroke-width:0.26458332">nucleus (of the same atom)</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-63"
+       cx="50.339249"
+       cy="-104.36698"
+       rx="15.610416"
+       ry="16.404167" />
+    <ellipse
+       style="opacity:1;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-8"
+       cx="85.793419"
+       cy="-103.83782"
+       rx="15.610416"
+       ry="16.404167" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.136353"
+       y="-124.96821"
+       id="text3595"><tspan
+         sodipodi:role="line"
+         id="tspan3593"
+         x="66.136353"
+         y="-124.96821"
+         style="stroke-width:0.26458332">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.38299"
+       y="-103.04408"
+       id="text3599"><tspan
+         sodipodi:role="line"
+         id="tspan3597"
+         x="19.38299"
+         y="-103.04408"
+         style="stroke-width:0.26458332">p</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-0-1"
+       cx="68.066315"
+       cy="-102.5149"
+       rx="1.3229166"
+       ry="1.5875" />
+    <ellipse
+       style="opacity:0.61100003;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.44131348;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3520-1"
+       cx="68.066322"
+       cy="-104.54343"
+       rx="15.313465"
+       ry="15.048882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.675927"
+       y="24.558071"
+       id="text3558-7"><tspan
+         sodipodi:role="line"
+         id="tspan3556-8"
+         x="11.675927"
+         y="24.558071"
+         style="font-style:italic;stroke-width:0.26458332">not to scale</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.46914986;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-7"
+       cx="59.12973"
+       cy="-33.274357"
+       rx="19.913456"
+       ry="19.958853" />
+    <ellipse
+       style="opacity:1;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.13422129;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-0"
+       cx="86.079651"
+       cy="-32.370975"
+       rx="5.3205395"
+       ry="6.1142898" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-1"
+       cx="69.907974"
+       cy="-31.919331"
+       rx="1.3229166"
+       ry="1.5875" />
+    <ellipse
+       style="opacity:1;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.12539312;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-2"
+       cx="176.43437"
+       cy="-33.087238"
+       rx="4.9463625"
+       ry="5.7401128" />
+    <ellipse
+       style="opacity:1;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.49427378;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-9"
+       cx="206.00348"
+       cy="-33.212894"
+       rx="21.597254"
+       ry="20.426573" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-2"
+       cx="190.39311"
+       cy="-32.512684"
+       rx="1.3229166"
+       ry="1.5875" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.997353"
+       y="0.4791078"
+       id="text4744"><tspan
+         sodipodi:role="line"
+         id="tspan4742"
+         x="92.997353"
+         y="0.4791078"
+         style="stroke-width:0.26458332">two sp-hybrid orbitals</tspan><tspan
+         sodipodi:role="line"
+         x="92.997353"
+         y="9.2985525"
+         style="stroke-width:0.26458332"
+         id="tspan4746">(drawn separately)</tspan></text>
+    <ellipse
+       style="opacity:0.52399998;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.12973854;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-2-2"
+       cx="43.927803"
+       cy="59.47485"
+       rx="4.9710822"
+       ry="6.1142902" />
+    <ellipse
+       style="opacity:0.52399998;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.49427378;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-9-9"
+       cx="72.077316"
+       cy="58.226696"
+       rx="21.597254"
+       ry="20.426573" />
+    <ellipse
+       style="opacity:0.456;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.46914986;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-7-4"
+       cx="47.67968"
+       cy="58.226696"
+       rx="19.913456"
+       ry="19.958853" />
+    <ellipse
+       style="opacity:0.52399998;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.12839912;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-0-4"
+       cx="73.739159"
+       cy="59.516109"
+       rx="4.9710822"
+       ry="5.9886913" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.2819071"
+       y="-144.25554"
+       id="text4744-1"><tspan
+         sodipodi:role="line"
+         x="9.2819071"
+         y="-144.25554"
+         style="stroke-width:0.26458332"
+         id="tspan4746-3">Two atomic orbitals actually come from the same atom but are drawn </tspan><tspan
+         sodipodi:role="line"
+         x="9.2819071"
+         y="-135.4361"
+         style="stroke-width:0.26458332"
+         id="tspan7603">separately for demonstration purposes only</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36199999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2942-9)"
+       d="m 66.452813,-75.790755 v 15.677553"
+       id="path4160-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36199999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2942-2)"
+       d="m 194.00316,-76.720792 v 15.67755"
+       id="path4160-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.8855753"
+       y="-168.13934"
+       id="text5803-5"><tspan
+         sodipodi:role="line"
+         x="9.8855753"
+         y="-168.13934"
+         style="stroke-width:0.26458332"
+         id="tspan5807-9">(a) Hybridisation, showing each combination separately (the s-orbital </tspan><tspan
+         sodipodi:role="line"
+         x="9.8855753"
+         y="-159.3199"
+         style="stroke-width:0.26458332"
+         id="tspan6050">can take one of two phases, so both are considered)</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-63-7"
+       cx="176.6109"
+       cy="-103.23862"
+       rx="15.610416"
+       ry="16.404167" />
+    <ellipse
+       style="opacity:1;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-8-3"
+       cx="212.06506"
+       cy="-102.70948"
+       rx="15.610416"
+       ry="16.404167" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="193.53053"
+       y="-121.96896"
+       id="text3595-7"><tspan
+         sodipodi:role="line"
+         id="tspan3593-9"
+         x="193.53053"
+         y="-121.96896"
+         style="stroke-width:0.26458332">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.65463"
+       y="-101.91571"
+       id="text3599-3"><tspan
+         sodipodi:role="line"
+         id="tspan3597-0"
+         x="145.65463"
+         y="-101.91571"
+         style="stroke-width:0.26458332">p</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-0-1-9"
+       cx="194.33795"
+       cy="-101.38654"
+       rx="1.3229166"
+       ry="1.5875" />
+    <ellipse
+       style="opacity:0.61100003;fill:#2b20c9;fill-opacity:1;stroke:none;stroke-width:0.44131348;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3520-1-7"
+       cx="195.08633"
+       cy="-102.66673"
+       rx="15.313465"
+       ry="15.048882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.73277"
+       y="56.355679"
+       id="text7593"><tspan
+         sodipodi:role="line"
+         id="tspan7591"
+         x="111.73277"
+         y="56.355679"
+         style="stroke-width:0.26458332">This is what the hybrid orbitals would </tspan><tspan
+         sodipodi:role="line"
+         x="111.73277"
+         y="65.175125"
+         style="stroke-width:0.26458332"
+         id="tspan7595">look like when they occupy their </tspan><tspan
+         sodipodi:role="line"
+         x="111.73277"
+         y="73.994568"
+         style="stroke-width:0.26458332"
+         id="tspan7601">respective region over the nucleus </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24543977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1466)"
+       d="M 27.168725,-102.07841 H 112.54893"
+       id="path7615"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24543978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1466-5)"
+       d="m 154.86524,-100.95587 h 85.3802"
+       id="path7615-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24543978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1466-1)"
+       d="M 22.406465,-31.828432 H 107.78667"
+       id="path7615-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24543978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1466-8)"
+       d="m 156.73613,-31.828432 h 85.3802"
+       id="path7615-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.08855"
+       y="-98.6576"
+       id="text3595-6"><tspan
+         sodipodi:role="line"
+         id="tspan3593-8"
+         x="115.08855"
+         y="-98.6576"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="242.47803"
+       y="-97.909256"
+       id="text3595-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan3593-8-2"
+         x="242.47803"
+         y="-97.909256"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.2709"
+       y="-28.407642"
+       id="text3595-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan3593-8-6"
+         x="109.2709"
+         y="-28.407642"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="243.97473"
+       y="-28.407642"
+       id="text3595-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan3593-8-7"
+         x="243.97473"
+         y="-28.407642"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2454398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1466-1-4)"
+       d="M 12.808854,59.944448 H 98.189057"
+       id="path7615-9-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.673294"
+       y="63.894619"
+       id="text3595-6-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan3593-8-6-3"
+         x="99.673294"
+         y="63.894619"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <ellipse
+       style="opacity:0.52399998;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-2-2"
+       cx="58.802784"
+       cy="60.268581"
+       rx="1.3229166"
+       ry="1.5875" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.6043406"
+       y="97.817291"
+       id="text5803-5-9"><tspan
+         sodipodi:role="line"
+         x="8.6043406"
+         y="97.817291"
+         style="stroke-width:0.26458332"
+         id="tspan6050-4">(b) Simplified representation of hybrid orbitals (inaccurate)</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#c92027;fill-opacity:1;stroke:none;stroke-width:0.46914986;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-7-3"
+       cx="114.26479"
+       cy="125.32629"
+       rx="19.913456"
+       ry="19.958853" />
+    <ellipse
+       style="opacity:1;fill:#202bc9;fill-opacity:1;stroke:none;stroke-width:0.13422129;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3522-6-0-7"
+       cx="141.21471"
+       cy="126.22968"
+       rx="5.3205395"
+       ry="6.1142898" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.37657794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3539-1-5"
+       cx="134.77164"
+       cy="126.30716"
+       rx="1.3229166"
+       ry="1.5875" />
+    <rect
+       ry="0"
+       y="182.20691"
+       x="89.344772"
+       height="26.658009"
+       width="30.262424"
+       id="rect5634"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34437683;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5636"
+       clip-path="url(#clipPath)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#f50000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.63255922,0,0,0.74994016,80.046422,66.307168)" />
+    <rect
+       ry="0"
+       y="242.34631"
+       x="89.02359"
+       height="26.658009"
+       width="30.262424"
+       id="rect5634-8"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34437683;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       transform="matrix(0.63255922,0,0,0.74994016,79.725197,126.44655)"
+       id="path5636-0"
+       clip-path="url(#clipPath-5)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#f50000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="195.1456"
+       x="24.802958"
+       height="57.198421"
+       width="38.873032"
+       id="rect5634-8-4"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34598029;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       transform="matrix(0.81254214,0,0,1.6090998,12.858914,-53.533342)"
+       id="path5636-0-2"
+       clip-path="url(#clipPath-5-7)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#f50000;stroke-width:0.3025777;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.4598551"
+       y="222.43521"
+       id="text9428"><tspan
+         sodipodi:role="line"
+         id="tspan9426"
+         x="8.4598551"
+         y="222.43521"
+         style="stroke-width:0.26458332">(c)</tspan></text>
+    <rect
+       ry="0"
+       y="181.90149"
+       x="156.21471"
+       height="26.658009"
+       width="30.262426"
+       id="rect5634-87"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34437683;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path5636-00"
+       clip-path="url(#clipPath-2)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#0032f5;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.63255922,0,0,0.74994016,146.91641,66.001728)" />
+    <rect
+       ry="0"
+       y="242.04086"
+       x="155.89352"
+       height="26.658009"
+       width="30.262426"
+       id="rect5634-8-5"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34437683;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       transform="matrix(0.63255922,0,0,0.74994016,146.59519,126.14109)"
+       id="path5636-0-1"
+       clip-path="url(#clipPath-5-8)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#0032f5;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="192.56854"
+       x="214.43056"
+       height="57.198421"
+       width="38.873032"
+       id="rect5634-8-4-4"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34598029;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       transform="matrix(0.81254214,0,0,1.6090998,202.48657,-56.110432)"
+       id="path5636-0-2-9"
+       clip-path="url(#clipPath-5-7-7)"
+       title="sin(x)"
+       d="m 14.699824,190.09217 v -35.54685 m 0,17.77342 c 0.05334,0 0.106669,0.33803 0.160004,0.34042 0.05334,0.002 0.10667,0.33549 0.160004,0.34027 0.05334,0.005 0.10667,0.3328 0.160004,0.33997 0.05334,0.007 0.10667,0.32995 0.160005,0.33951 0.05333,0.01 0.106669,0.32696 0.160004,0.33892 0.05333,0.0119 0.106669,0.3238 0.160004,0.33815 0.05334,0.0144 0.106669,0.32051 0.160004,0.33725 0.05334,0.0167 0.10667,0.31707 0.160004,0.3362 0.05333,0.0191 0.10667,0.31347 0.160004,0.33499 0.05334,0.0215 0.10667,0.30973 0.160005,0.33365 0.05333,0.0239 0.106669,0.30584 0.160004,0.33214 0.05333,0.0263 0.106669,0.3018 0.160004,0.33049 0.05334,0.0287 0.106669,0.29762 0.160004,0.3287 0.05334,0.0311 0.10667,0.29329 0.160004,0.32676 0.05334,0.0335 0.10667,0.28881 0.160004,0.32467 0.05333,0.0359 0.10667,0.28419 0.160005,0.32245 0.05333,0.0383 0.106669,0.27942 0.160004,0.32007 0.05333,0.0406 0.106669,0.27452 0.160004,0.31756 0.05334,0.043 0.106669,0.26947 0.160004,0.3149 0.05333,0.0454 0.106669,0.26428 0.160004,0.31211 0.05334,0.0478 0.10667,0.25895 0.160004,0.30917 0.05334,0.0502 0.10667,0.25349 0.160005,0.3061 0.05333,0.0526 0.106669,0.2479 0.160004,0.30289 0.05333,0.055 0.106669,0.24217 0.160004,0.29955 0.05334,0.0574 0.106669,0.2363 0.160004,0.29608 0.05334,0.0598 0.106669,0.2303 0.160004,0.29247 0.05334,0.0622 0.10667,0.22418 0.160004,0.28874 0.05333,0.0645 0.10667,0.21792 0.160004,0.28487 0.05334,0.0669 0.10667,0.21153 0.160005,0.28088 0.05333,0.0693 0.106669,0.20503 0.160004,0.27676 0.05334,0.0717 0.106669,0.1984 0.160004,0.27253 0.05333,0.0741 0.106669,0.19165 0.160004,0.26817 0.05334,0.0765 0.10667,0.18478 0.160004,0.26369 0.05334,0.0789 0.10667,0.17779 0.160004,0.25909 0.05334,0.0813 0.10667,0.1707 0.160005,0.25438 0.05333,0.0837 0.106669,0.16349 0.160004,0.24956 0.05333,0.0861 0.106669,0.15616 0.160004,0.24463 0.05334,0.0885 0.106669,0.14872 0.160004,0.23959 0.05334,0.0909 0.10667,0.14118 0.160004,0.23443 0.05334,0.0933 0.10667,0.13354 0.160004,0.22918 0.05334,0.0956 0.10667,0.1258 0.160005,0.22383 0.05333,0.098 0.106669,0.11795 0.160004,0.21837 0.05333,0.10043 0.106669,0.11001 0.160004,0.21283 0.05333,0.10281 0.106669,0.10197 0.160004,0.20717 0.05334,0.10521 0.10667,0.0938 0.160004,0.20144 0.05334,0.1076 0.10667,0.0856 0.160004,0.19562 0.05334,0.10999 0.10667,0.0773 0.160005,0.18969 0.05333,0.11239 0.106669,0.0689 0.160004,0.1837 0.05333,0.11478 0.106669,0.0605 0.160004,0.17763 0.05334,0.11716 0.106669,0.0519 0.160004,0.17146 0.05334,0.11955 0.106669,0.0433 0.160004,0.16523 0.05334,0.12194 0.10667,0.0346 0.160004,0.15892 0.05333,0.12433 0.10667,0.0258 0.160005,0.15254 0.05333,0.12673 0.106669,0.017 0.160004,0.14609 0.05333,0.12912 0.106669,0.008 0.160004,0.13959 0.05334,0.13151 0.106669,-8.9e-4 0.160004,0.13301 0.05334,0.1339 0.106669,-0.01 0.160004,0.12638 0.05334,0.13629 0.10667,-0.019 0.160004,0.11969 0.05334,0.13868 0.10667,-0.0281 0.160004,0.11295 0.05334,0.14108 0.10667,-0.0373 0.160005,0.10616 0.05333,0.14347 0.106669,-0.0465 0.160004,0.0993 0.05334,0.14586 0.106669,-0.0558 0.160004,0.0924 0.05334,0.14825 0.106669,-0.0651 0.160004,0.0855 0.05334,0.15064 0.10667,-0.0745 0.160004,0.0786 0.05333,0.15303 0.10667,-0.0839 0.160004,0.0716 0.05334,0.15542 0.10667,-0.0933 0.160005,0.0645 0.05333,0.15781 0.106669,-0.10273 0.160004,0.0575 0.05333,0.1602 0.106669,-0.11221 0.160004,0.0504 0.05333,0.16259 0.106669,-0.1217 0.160004,0.0433 0.05334,0.16499 0.10667,-0.13122 0.160004,0.0362 0.05334,0.16738 0.10667,-0.14075 0.160004,0.029 0.05334,0.16977 0.10667,-0.15029 0.160005,0.0219 0.05333,0.17215 0.106669,-0.15985 0.160004,0.0147 0.05333,0.17455 0.106669,-0.16941 0.160004,0.008 0.05334,0.17695 0.106669,-0.17896 0.160004,3.7e-4 0.05334,0.17933 0.106669,-0.18854 0.160004,-0.007 0.05333,0.18172 0.10667,-0.1981 0.160004,-0.014 0.05334,0.18411 0.10667,-0.20765 0.160005,-0.0212 0.05333,0.18651 0.106669,-0.21719 0.160004,-0.0283 0.05333,0.18889 0.106669,-0.22673 0.160004,-0.0354 0.05333,0.19128 0.106669,-0.23625 0.160004,-0.0426 0.05334,0.19368 0.106669,-0.24574 0.160004,-0.0497 0.05334,0.19607 0.10667,-0.25522 0.160004,-0.0568 0.05334,0.19846 0.10667,-0.26467 0.160004,-0.0638 0.05334,0.20085 0.10667,-0.27409 0.160005,-0.0708 0.05333,0.20324 0.106669,-0.28348 0.160004,-0.0779 0.05334,0.20563 0.106669,-0.29284 0.160004,-0.0848 0.05334,0.20802 0.106669,-0.30216 0.160004,-0.0917 0.05334,0.21041 0.10667,-0.31144 0.160004,-0.0986 0.05333,0.21281 0.10667,-0.32067 0.160004,-0.10547 0.05334,0.2152 0.10667,-0.32986 0.160005,-0.11227 0.05333,0.21759 0.106669,-0.33899 0.160004,-0.11901 0.05333,0.21998 0.106669,-0.34808 0.160004,-0.12571 0.05334,0.22238 0.106669,-0.3571 0.160004,-0.13234 0.05334,0.22476 0.10667,-0.36608 0.160004,-0.13892 0.05334,0.22715 0.10667,-0.37499 0.160004,-0.14545 0.05334,0.22955 0.10667,-0.38382 0.160005,-0.15189 0.05333,0.23194 0.106669,-0.39261 0.160004,-0.15828 0.05333,0.23433 0.106669,-0.40131 0.160004,-0.16459 0.05334,0.23671 0.106669,-0.40995 0.160004,-0.17084 0.05334,0.23911 0.106669,-0.4185 0.160004,-0.177 0.05333,0.2415 0.10667,-0.42698 0.160004,-0.18309 0.05334,0.24389 0.10667,-0.43538 0.160005,-0.1891 0.05333,0.24628 0.106669,-0.44369 0.160004,-0.19502 0.05333,0.24868 0.106669,-0.45192 0.160004,-0.20085 0.05334,0.25106 0.106669,-0.46006 0.160004,-0.2066 0.05334,0.25345 0.106669,-0.46811 0.160004,-0.21226 0.05334,0.25585 0.10667,-0.47606 0.160004,-0.21782 0.05334,0.25824 0.10667,-0.48391 0.160004,-0.22328 0.05334,0.26063 0.10667,-0.49167 0.160005,-0.22865 0.05333,0.26302 0.106669,-0.49932 0.160004,-0.23391 0.05333,0.26542 0.106669,-0.50687 0.160004,-0.23906 0.05334,0.2678 0.106669,-0.51432 0.160004,-0.24413 0.05334,0.2702 0.10667,-0.52165 0.160004,-0.24906 0.05334,0.27258 0.10667,-0.52888 0.160004,-0.25391 0.05334,0.27498 0.10667,-0.53599 0.160005,-0.25862 0.05333,0.27737 0.106669,-0.54299 0.160004,-0.26323 0.05334,0.27976 0.106669,-0.54987 0.160004,-0.26772 0.05334,0.28215 0.106669,-0.55663 0.160004,-0.27209 0.05333,0.28454 0.10667,-0.56328 0.160004,-0.27635 0.05333,0.28693 0.10667,-0.56979 0.160004,-0.28047 0.05333,0.28932 0.10667,-0.57618 0.160005,-0.28447 0.05333,0.29171 0.106669,-0.58246 0.160004,-0.28835 0.05333,0.2941 0.106669,-0.5886 0.160004,-0.2921 0.05333,0.29649 0.106669,-0.59461 0.160004,-0.29572 0.05333,0.29889 0.10667,-0.60048 0.160004,-0.29921 0.05333,0.30128 0.10667,-0.60623 0.160004,-0.30256 0.05333,0.30367 0.10667,-0.61184 0.160005,-0.30578 0.05333,0.30606 0.106669,-0.61732 0.160004,-0.30887 0.05333,0.30845 0.106669,-0.62266 0.160004,-0.31181 0.05333,0.31084 0.106669,-0.62786 0.160004,-0.31463 0.05333,0.31323 0.106669,-0.63292 0.160004,-0.3173 0.05334,0.31563 0.10667,-0.63783 0.160004,-0.31982 0.05334,0.31802 0.10667,-0.64262 0.160005,-0.32221 0.05333,0.3204 0.106669,-0.64725 0.160004,-0.32446 0.05333,0.3228 0.106669,-0.65174 0.160004,-0.32655 0.05334,0.32519 0.106669,-0.65609 0.160004,-0.32851 0.05334,0.32758 0.106669,-0.66029 0.160004,-0.33032 0.05334,0.32997 0.10667,-0.66435 0.160004,-0.33198 0.05334,0.33236 0.10667,-0.66825 0.160004,-0.3335 0.05333,0.33475 0.10667,-0.67201 0.160005,-0.33487 0.05333,0.33715 0.106669,-0.67561 0.160004,-0.33608 0.05334,0.33954 0.106669,-0.67908 0.160004,-0.33715 0.05334,0.34193 0.106669,-0.68239 0.160004,-0.33807 0.05333,0.34432 0.10667,-0.68555 0.160004,-0.33884 0.05333,0.34671 0.10667,-0.68856 0.160004,-0.33946 0.05333,0.3491 0.10667,-0.69142 0.160005,-0.33993 0.05333,0.35149 0.106669,-0.69413 0.160004,-0.34025 0.05333,0.35389 0.106669,-0.69668 0.160004,-0.34041 0.05333,0.35627 0.106669,-0.69909 0.160004,-0.34043 0.05333,0.35867 0.10667,-0.70134 0.160004,-0.34029 0.05333,0.36106 0.10667,-0.70345 0.160004,-0.34 0.05333,0.36344 0.10667,-0.7054 0.160005,-0.33957 0.05333,0.36584 0.106669,-0.7072 0.160004,-0.33898 0.05333,0.36823 0.106669,-0.70885 0.160004,-0.33823 0.05333,0.37061 0.106669,-0.71036 0.160004,-0.33735 0.05333,0.37301 0.106669,-0.71172 0.160004,-0.33631 0.05334,0.3754 0.10667,-0.71292 0.160004,-0.33513 0.05334,0.3778 0.10667,-0.71397 0.160005,-0.33378 0.05333,0.38018 0.106669,-0.71488 0.160004,-0.3323 0.05333,0.38257 0.106669,-0.71563 0.160004,-0.33067 0.05334,0.38497 0.106669,-0.71624 0.160004,-0.32889 0.05334,0.38736 0.106669,-0.71671 0.160004,-0.32696 0.05334,0.38975 0.10667,-0.71703 0.160004,-0.32489 0.05334,0.39214 0.10667,-0.71721 0.160004,-0.32268 0.05333,0.39453 0.10667,-0.71723 0.160005,-0.32031 0.05333,0.39692 0.106669,-0.71713 0.160004,-0.31782 0.05334,0.39931 0.106669,-0.71688 0.160004,-0.31518 0.05333,0.40171 0.106669,-0.71649 0.160004,-0.31239 0.05333,0.40409 0.10667,-0.71596 0.160004,-0.30948 0.05333,0.40649 0.10667,-0.71529 0.160004,-0.30641 0.05333,0.40887 0.10667,-0.71449 0.160005,-0.30323 0.05333,0.41127 0.106669,-0.71355 0.160004,-0.29989 0.05333,0.41366 0.106669,-0.71248 0.160004,-0.29644 0.05333,0.41605 0.106669,-0.71128 0.160004,-0.29284 0.05333,0.41844 0.10667,-0.70995 0.160004,-0.28911 0.05333,0.42083 0.10667,-0.70849 0.160004,-0.28527 0.05333,0.42322 0.10667,-0.7069 0.160005,-0.28129 0.05333,0.42561 0.106669,-0.70519 0.160004,-0.27719 0.05333,0.42801 0.106669,-0.70335 0.160004,-0.27296 0.05333,0.4304 0.106669,-0.7014 0.160004,-0.26861 0.05333,0.43279 0.106669,-0.69933 0.160004,-0.26415 0.05334,0.43518 0.10667,-0.69713 0.160004,-0.25956 0.05334,0.43757 0.10667,-0.69483 0.160005,-0.25487 0.05333,0.43997 0.106669,-0.6924 0.160004,-0.25005 0.05333,0.44235 0.106669,-0.68987 0.160004,-0.24513 0.05334,0.44474 0.106669,-0.68723 0.160004,-0.2401 0.05334,0.44714 0.106669,-0.68448 0.160004,-0.23496 0.05334,0.44953 0.10667,-0.68163 0.160004,-0.22971 0.05333,0.45191 0.10667,-0.67868 0.160005,-0.22438 0.05333,0.45431 0.106669,-0.67562 0.160004,-0.21893 0.05333,0.4567 0.106669,-0.67247 0.160004,-0.21338 0.05334,0.45909 0.106669,-0.66923 0.160004,-0.20775 0.05333,0.46148 0.106669,-0.6659 0.160004,-0.20203 0.05333,0.46387 0.10667,-0.66246 0.160004,-0.1962 0.05333,0.46626 0.10667,-0.65895 0.160004,-0.1903 0.05333,0.46865 0.10667,-0.65536 0.160005,-0.18431 0.05333,0.47104 0.106669,-0.65168 0.160004,-0.17824 0.05333,0.47344 0.106669,-0.64791 0.160004,-0.17209 0.05333,0.47583 0.106669,-0.64408 0.160004,-0.16586 0.05333,0.47822 0.10667,-0.64017 0.160004,-0.15956 0.05333,0.48061 0.10667,-0.63619 0.160004,-0.15319 0.05334,0.483 0.10667,-0.63214 0.160005,-0.14675 0.05333,0.48539 0.106669,-0.62802 0.160004,-0.14024 0.05333,0.48778 0.106669,-0.62385 0.160004,-0.13368 0.05333,0.49017 0.106669,-0.61962 0.160004,-0.12705 0.05334,0.49256 0.10667,-0.61533 0.160004,-0.12037 0.05334,0.49495 0.10667,-0.61098 0.160004,-0.11364 0.05334,0.49735 0.10667,-0.60658 0.160005,-0.10684 0.05333,0.49974 0.106669,-0.60214 0.160004,-0.10001 0.05333,0.50212 0.106669,-0.59766 0.160004,-0.0931 0.05334,0.50452 0.106669,-0.59313 0.160004,-0.0862 0.05334,0.50691 0.106669,-0.58856 0.160004,-0.0793 0.05334,0.5093 0.10667,-0.58396 0.160004,-0.0723 0.05333,0.5117 0.10667,-0.57932 0.160005,-0.0652 0.05333,0.51408 0.106669,-0.57466 0.160004,-0.0582 0.05333,0.51648 0.106669,-0.56997 0.160004,-0.0511 0.05334,0.51886 0.106669,-0.56526 0.160004,-0.044 0.05333,0.52126 0.106669,-0.56052 0.160004,-0.0369 0.05333,0.52364 0.10667,-0.55579 0.160004,-0.0298 0.05333,0.52604 0.10667,-0.55102 0.160004,-0.0226 0.05333,0.52844 0.10667,-0.54624 0.160005,-0.0154 0.05333,0.53082 0.106669,-0.54147 0.160004,-0.008 0.05333,0.53321 0.106669,-0.53669 0.160004,-0.001 0.05333,0.53561 0.106669,-0.53191 0.160004,0.006 0.05333,0.53799 0.10667,-0.52713 0.160004,0.0132 0.05333,0.54039 0.10667,-0.52235 0.160004,0.0204 0.05334,0.54277 0.10667,-0.5176 0.160005,0.0276 0.05333,0.54517 0.106669,-0.51284 0.160004,0.0347 0.05333,0.54756 0.106669,-0.5081 0.160004,0.0419 0.05333,0.54995 0.106669,-0.50339 0.160004,0.0489 0.05334,0.55234 0.10667,-0.49869 0.160004,0.056 0.05334,0.55474 0.10667,-0.49402 0.160004,0.0631 0.05334,0.55712 0.10667,-0.48938 0.160005,0.0701 0.05333,0.55951 0.106669,-0.48477 0.160004,0.0771 0.05333,0.56191 0.106669,-0.48019 0.160004,0.0841 0.05334,0.5643 0.106669,-0.47565 0.160004,0.091 0.05334,0.56669 0.106669,-0.47114 0.160004,0.0979 0.05333,0.56908 0.10667,-0.46669 0.160004,0.10478 0.05333,0.57147 0.10667,-0.46228 0.160005,0.11158 0.05333,0.57386 0.106669,-0.45792 0.160004,0.11833 0.05333,0.57626 0.106669,-0.45361 0.160004,0.12504 0.05333,0.57864 0.106669,-0.44936 0.160004,0.13167 0.05333,0.58104 0.106669,-0.44516 0.160004,0.13827 0.05333,0.58342 0.10667,-0.44103 0.160004,0.14478 0.05333,0.58582 0.10667,-0.43696 0.160004,0.15125 0.05333,0.58821 0.10667,-0.43296 0.160005,0.15764 0.05333,0.59059 0.106669,-0.42903 0.160004,0.16396 0.05333,0.59299 0.106669,-0.42518 0.160004,0.17021 0.05333,0.59538 0.106669,-0.42139 0.160004,0.17638 0.05333,0.59777 0.10667,-0.41769 0.160004,0.18248 0.05333,0.60016 0.10667,-0.41406 0.160004,0.18849 0.05334,0.60256 0.10667,-0.41052 0.160005,0.19443 0.05333,0.60494 0.106669,-0.40707 0.160004,0.20027 0.05333,0.60733 0.106669,-0.40371 0.160004,0.20602 0.05334,0.60973 0.106669,-0.40043 0.160004,0.21169 0.05334,0.61212 0.10667,-0.39725 0.160004,0.21726 0.05334,0.61451 0.10667,-0.39417 0.160004,0.22274 0.05334,0.6169 0.10667,-0.39119 0.160005,0.2281 0.05333,0.6193 0.106669,-0.3883 0.160004,0.23339 0.05333,0.62168 0.106669,-0.38552 0.160004,0.23855 0.05334,0.62407 0.106669,-0.38285 0.160004,0.24362 0.05334,0.62646 0.10667,-0.38029 0.160004,0.24857 0.05333,0.62886 0.10667,-0.37783 0.160004,0.25342 0.05333,0.63125 0.10667,-0.37549 0.160005,0.25815 0.05333,0.63364 0.106669,-0.37326 0.160004,0.26277 0.05333,0.63603 0.106669,-0.37115 0.160004,0.26728 0.05333,0.63842 0.106669,-0.36916 0.160004,0.27165 0.05333,0.64081 0.106669,-0.36728 0.160004,0.27592 0.05333,0.6432 0.10667,-0.36553 0.160004,0.28006 0.05333,0.64559 0.10667,-0.36391 0.160005,0.28407 0.05333,0.64799 0.106669,-0.36241 0.160004,0.28797 0.05333,0.65038 0.106669,-0.36104 0.160004,0.29173 0.05333,0.65276 0.106669,-0.3598 0.160004,0.29536 0.05333,0.65515 0.106669,-0.35869 0.160004,0.29886 0.05333,0.65755 0.10667,-0.35772 0.160004,0.30223 0.05334,0.65994 0.10667,-0.35687 0.160004,0.30546 0.05334,0.66233 0.10667,-0.35616 0.160005,0.30856 0.05333,0.66472 0.106669,-0.35559 0.160004,0.31153 0.05333,0.66711 0.106669,-0.35516 0.160004,0.31434 0.05334,0.66951 0.106669,-0.35486 0.160004,0.31704 0.05334,0.67189 0.10667,-0.35472 0.160004,0.31957 0.05334,0.67429 0.10667,-0.3547 0.160004,0.32198 0.05334,0.67668 0.10667,-0.35484 0.160005,0.32423 0.05333,0.67907 0.106669,-0.35511 0.160004,0.32635 0.05333,0.68146 0.106669,-0.35553 0.160004,0.32832 0.05334,0.68385 0.106669,-0.3561 0.160004,0.33015 0.05334,0.68624 0.10667,-0.35682 0.160004,0.33182 0.05333,0.68863 0.10667,-0.35768 0.160004,0.33335 0.05333,0.69102 0.10667,-0.35869 0.160005,0.33473 0.05333,0.69342 0.106669,-0.35984 0.160004,0.33597 0.05333,0.6958 0.106669,-0.36115 0.160004,0.33705 0.05333,0.6982 0.106669,-0.36261 0.160004,0.33798 0.05333,0.70059 0.106669,-0.36421 0.160004,0.33877 0.05333,0.70298 0.10667,-0.36596 0.160004,0.33941 0.05333,0.70537 0.10667,-0.36788 0.160005,0.33989 0.05333,0.70776 0.106669,-0.36994 0.160004,0.34022 0.05333,0.71015 0.106669,-0.37215 0.160004,0.3404 0.05333,0.71254 0.106669,-0.37451 0.160004,0.34043"
+       style="opacity:0.73600003;fill:none;fill-opacity:1;stroke:#0032f5;stroke-width:0.3025777;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="32.407204"
+       y="264.61536"
+       id="text9501"><tspan
+         sodipodi:role="line"
+         id="tspan9499"
+         x="32.407204"
+         y="264.61536"
+         style="stroke-width:0.26458332">s-orbital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="218.77774"
+       y="260.10635"
+       id="text9501-5"><tspan
+         sodipodi:role="line"
+         id="tspan9499-5"
+         x="218.77774"
+         y="260.10635"
+         style="stroke-width:0.26458332">p-orbital</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9657)"
+       d="M 68.093457,215.57155 81.189666,200.23032"
+       id="path9521"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9775)"
+       d="m 207.60202,239.1274 -13.09621,14.96711"
+       id="path9525"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2942)"
+       d="M 207.7304,213.78585 196.1309,198.44459"
+       id="path9527"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9545)"
+       d="m 66.645038,238.15315 14.967096,15.71546"
+       id="path9529"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.60736,195.73984 h 35.92103"
+       id="path1187"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1199)"
+       d="M 136.71775,195.73984 V 169.77667"
+       id="path1189"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.8937,255.36986 H 119.97267"
+       id="path1187-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50199997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1199-0)"
+       d="m 138.78331,255.36986 v 25.96316"
+       id="path1189-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.60179"
+       y="166.03488"
+       id="text1689"><tspan
+         sodipodi:role="line"
+         id="tspan1687"
+         x="132.60179"
+         y="166.03488"
+         style="font-size:7.05555534px;stroke-width:0.26458332">sp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="133.88411"
+       y="289.83054"
+       id="text1689-7"><tspan
+         sodipodi:role="line"
+         id="tspan1687-1"
+         x="133.88411"
+         y="289.83054"
+         style="font-size:7.05555534px;stroke-width:0.26458332">sp</tspan></text>
+  </g>
+</svg>

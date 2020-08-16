@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="400"
+   viewBox="0 0 264.58333 105.83334"
+   version="1.1"
+   id="svg3813"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Fig3_1_bonddipole.svg">
+  <defs
+     id="defs3807">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="454.77979"
+     inkscape:cy="218.59632"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3810">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16665)">
+    <text
+       id="text3822"
+       y="247.17084"
+       x="48.104809"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3820"
+         y="247.17084"
+         x="48.104809"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3818"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;font-family:Arial;fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">H</tspan></tspan></text>
+    <text
+       id="text3828"
+       y="247.17084"
+       x="93.109177"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3826"
+         y="247.17084"
+         x="93.109177"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3824"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;font-family:Arial;fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Cl</tspan></tspan></text>
+    <path
+       id="path3830"
+       d="m 53.686152,247.21304 h 36.97854"
+       style="fill:none;stroke:#000000;stroke-width:0.68604219px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3832"
+       d="m 83.824341,243.52986 c 0,0.90343 -0.711125,1.6331 -1.557706,1.6331 -0.88044,0 -1.591566,-0.72967 -1.591566,-1.6331 0,-0.86867 0.711126,-1.59834 1.591566,-1.59834 0.846581,0 1.557706,0.72967 1.557706,1.59834 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46693698"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3834"
+       d="m 83.824341,250.79194 c 0,0.90341 -0.711125,1.63311 -1.591567,1.63311 -0.846579,0 -1.557705,-0.7297 -1.557705,-1.63311 0,-0.86866 0.711126,-1.59836 1.557705,-1.59836 0.880442,0 1.591567,0.7297 1.591567,1.59836 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46693698"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3842"
+       y="229.05933"
+       x="48.104809"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3840"
+         y="229.05933"
+         x="48.104809"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3836"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">δ</tspan><tspan
+           id="tspan3838"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">+</tspan></tspan></text>
+    <text
+       id="text3850"
+       y="229.05933"
+       x="91.462669"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3848"
+         y="229.05933"
+         x="91.462669"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3844"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">δ</tspan><tspan
+           id="tspan3846"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">-</tspan></tspan></text>
+    <text
+       id="text3866"
+       y="270.77072"
+       x="40.969975"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;line-height:112.46271133%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3856"
+         y="270.77072"
+         x="40.969975"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3852"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Attraction </tspan><tspan
+           id="tspan3854"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">between </tspan></tspan><tspan
+         id="tspan3864"
+         y="280.64972"
+         x="40.969975"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3858"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">nuclei </tspan><tspan
+           id="tspan3860"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">and </tspan><tspan
+           id="tspan3862"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">electrons</tspan></tspan></text>
+    <text
+       id="text3888"
+       y="203.26414"
+       x="40.421143"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;line-height:118.71063709%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3872"
+         y="203.26414"
+         x="40.421143"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3868"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Additional </tspan><tspan
+           id="tspan3870"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">attraction </tspan></tspan><tspan
+         id="tspan3886"
+         y="213.69199"
+         x="40.421143"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3874"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">between </tspan><tspan
+           id="tspan3876"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">δ</tspan><tspan
+           id="tspan3878"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">+ </tspan><tspan
+           id="tspan3880"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">and </tspan><tspan
+           id="tspan3882"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">δ</tspan><tspan
+           id="tspan3884"
+           style="font-style:normal;font-variant:normal;font-weight:700;font-size:8.78425121px;font-family:'Times New Roman';fill:#ff0000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">-</tspan></tspan></text>
+    <text
+       id="text3894"
+       y="246.62198"
+       x="153.48091"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3892"
+         y="246.62198"
+         x="153.48091"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3890"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;font-family:Arial;fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Cl</tspan></tspan></text>
+    <text
+       id="text3900"
+       y="246.62198"
+       x="201.77826"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3898"
+         y="246.62198"
+         x="201.77826"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3896"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:7.12078857px;font-family:Arial;fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Cl</tspan></tspan></text>
+    <path
+       id="path3902"
+       d="M 159.20368,246.65708 H 197.9431"
+       style="fill:none;stroke:#000000;stroke-width:0.68604219px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3904"
+       d="m 181.35017,242.69594 c 0,0.90343 -0.71113,1.63311 -1.5577,1.63311 -0.88045,0 -1.59157,-0.72968 -1.59157,-1.63311 0,-0.86866 0.71112,-1.59834 1.59157,-1.59834 0.84657,0 1.5577,0.72968 1.5577,1.59834 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46693698"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3906"
+       d="m 181.35017,249.95802 c 0,0.90342 -0.71113,1.63311 -1.59157,1.63311 -0.84658,0 -1.5577,-0.72969 -1.5577,-1.63311 0,-0.86868 0.71112,-1.59835 1.5577,-1.59835 0.88044,0 1.59157,0.72967 1.59157,1.59835 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46693698"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3924"
+       y="270.22186"
+       x="149.63908"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;line-height:112.46271133%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46693698"
+       xml:space="preserve"
+       transform="scale(0.98720266,1.0129632)"><tspan
+         id="tspan3912"
+         y="270.22186"
+         x="149.63908"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3908"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">Attraction </tspan><tspan
+           id="tspan3910"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">between </tspan></tspan><tspan
+         id="tspan3922"
+         y="280.10086"
+         x="149.63908"
+         sodipodi:role="line"
+         style="stroke-width:0.46693698"><tspan
+           id="tspan3914"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">nuclei </tspan><tspan
+           id="tspan3916"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">and </tspan><tspan
+           id="tspan3918"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">electrons </tspan><tspan
+           id="tspan3920"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:8.78425121px;font-family:'Times New Roman';fill:#000000;stroke-width:0.46693698"
+           dy="0"
+           dx="0">only</tspan></tspan></text>
+  </g>
+</svg>

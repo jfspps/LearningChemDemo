@@ -1,0 +1,237 @@
+<%- include("partials/header") %>
+<title>Thermodynamics 2: Gibbs Free Energy and Spontaneity</title>
+<meta name="description" content="Setting the scene and leading to Gibbs Free Energy">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Thermodynamics 2: Gibbs Free Energy and Spontaneity</h1>
+	<p><i>10th Aug 2020</i></p>
+
+	<p>
+		In this article, we continue looking at the meaning of <a href="13_EnthalpyEntropyChanges">entropy change</a>, how it relates to enthalpy change and overall, how these quantities provide a reliable method of predicting whether a reaction or process is favourable or not. 
+	</p>
+
+	<p>
+		Throughout this part of the short series on chemical thermodynamics, I will emphasise a little more on the changes taking place with respect to the system, the surroundings and the universe. Make sure that you are comfortable with the differences between these terms. For chemical reactions, the system is made up of the reactants and products which are of interest. The surroundings is made up of everything-else: the solvent (if present), the thermometer, you, your neighbours, the Earth and the surrounding solar systems and galaxies. The universe is the combination of the system and the surroundings.
+	</p>
+
+	<p>
+		Showing even a reasonably complete derivation of the following equations is well beyond the scope of this series. What I will try to show, however, are some of the features and relationships of some of the mathematical equations used in the derivation which you can then advance further at university. My approach, and I believe that of all other authors at this level, will require stating most of the equations without justification. Throughout this article, I will use the terms 'increase' and 'decrease' to refer to something becoming more positive and something becoming more negative, respectively.
+	</p>
+	
+	<h3>Predicting the outcome with &Delta;S<sub>total</sub> = &Delta;S<sub>sys</sub> + &Delta;S<sub>surr</sub></h3>
+
+	<p>
+		As given by the subheading, our goal is to come up with a method that enables us to predict whether a reaction or process is favourable or not. Later, we will also consider intermediate cases where we attempt to compare which process is more favourable or more likely to occur. The subscript 'sys' refers to the system and 'surr' refers to the surroundings.
+	</p>
+
+	<p>
+		You will probably have come to realise that processes where the total entropy increases are ones which are favourable. Such processes are likely to occur. We will formalise the idea below. The change in total entropy &Delta;S<sub>total</sub> is sometimes written as &Delta;S<sub>universe</sub> in some texts. The challenge is to devise a method which enables us to calculate this value.
+	</p>
+
+	<p>
+		The universe is made up of the system and surroundings, so you can see why the total entropy change is also made up of &Delta;S<sub>sys</sub> and &Delta;S<sub>surr</sub>. You already know how to calculate &Delta;S<sub>sys</sub>. In fact, this is the same &Delta;S in the equation from my <a href="13_EnthalpyEntropyChanges">previous article</a>, reproduced here in Figure 14.1. The reactants B and products A are part of the system of interest. The value &Delta;S<sub>sys</sub> measures the change of entropy for the forward reaction. The entropy change for the backward reaction is the negative of the forward.
+	</p>
+
+	<figure>
+		<img img alt="Hess' law approach to calculating entropy change" src="images/Fig13_5_CalcEntropyChange.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.1 Calculating entropy change of the system</figurecaption>
+	</figure>
+
+	<p>
+		You can appreciate that it would be impossible to calculate the entropy change of the surroundings in a similar way because this would require you to have knowledge of the entire universe. What we need to do first is express &Delta;S<sub>total</sub> in terms of variables which relate to the system only <i>i.e.</i> variables which we have a chance of measuring! To begin, we look at how enthalpy change of the system is related to entropy change of the surroundings.
+	</p>
+
+	<h3>Enthalpy change of the system and entropy change of the surroundings</h3>
+
+	<p>
+		When the enthalpy change is negative, energy is transferred as heat <i>from</i> the system <i>to</i> the surroundings. From the point of view of heat only (that is, assuming all other properties do not affect what we are monitoring), the entropy of the system decreases and the entropy of the surroundings increases (Figure 14.2). Conversely, for endothermic reactions, the entropy of the system increases and the entropy of the surroundings decreases.
+	</p>
+
+	<figure>
+		<img img alt="Enthalpy change leading to entropy change" src="images/Fig14_2_EnthalpyEntropy.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.2 Enthalpy change leading to entropy change</figurecaption>
+	</figure>
+
+	<p>
+		Assuming, of course, that all other properties do not lead to differences is quite optimistic! However, such approximations will end up being adequate for our needs.
+	</p>
+
+	<p>
+		When two bodies, say two metal blocks, have the same temperature, then the potential for energy to transfer from one body to the other is statistically zero. Such an expectation would see one block to get colder and the other to get hotter without influencing it. The favourable process is one in which energy is transferred when there is a temperature difference. One metal block is more likely to absorb heat if its neighbouring block is at a higher temperature. (Figure 14.3).
+	</p>
+
+	<figure>
+		<img img alt="The capacity or potential for energy transfer" src="images/Fig14_3_EnergyTransfer.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.3 Visualising the capacity or potential for energy to transfer as heat. The left-hand figure shows a greater transfer of energy.</figurecaption>
+	</figure>
+
+	<p>
+		The more energy transferred between the two blocks (or more generally between the system and surroundings) the greater the magnitude of the entropy change.
+	</p>
+
+	<p>
+		The enthalpy changes you have been asked to calculate have all been related specifically to the enthalpy change of the system, which I symbolise here as &Delta;H<sub>sys</sub>. The following equation states the relationship between enthalpy change of the system, the absolute temperature of the surroundings and the entropy change of the surroundings.
+	</p>
+
+	<figure>
+		<img img alt="Entropy change of the surroundings" src="images/Fig14_4_EnthalpyEntropy.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.4 How entropy change of the surroundings is related to enthalpy change of the system &Delta;H<sub>sys</sub>, at constant pressure</figurecaption>
+	</figure>
+
+	<p>
+		The more exothermic a reaction, that is, the more energy that can be transferred (Figure 14.3) the more the entropy of the surroundings increases (leading to a more positive &Delta;S<sub>surr</sub>). Put a different way, the more endothermic the reaction, the less the entropy of the surroundings increases <i>i.e.</i> &Delta;S<sub>surr</sub> becomes more negative. Again, <b>take care not to conclude that exothermic reactions are always more favourable than endothermic reactions</b>. We have not finished our derivation yet.
+	</p>
+
+	<p>
+		From this point forward, we assume that the temperature of the system is equal to the temperature of the surroundings, that is, the system and surroundings are in <i>thermal equilibrium</i>. The assumption is explained if you read from a more advanced, rigorous treatment of the subject. We will drop the 'surr' subscript for T<sub>surr</sub> and note that T<sub>sys</sub> = T<sub>surr</sub>.
+	</p>
+
+	<p>
+		If we substitute &Delta;S<sub>surr</sub> into our equation, then we can present the next part of the derivation (Figure 14.5).
+	</p>
+
+	<figure>
+		<img img alt="Entropy change of the surroundings" src="images/Fig14_5_SystemVariables.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.5 How &Delta;S<sub>total</sub> relates to &Delta;S<sub>sys</sub> and &Delta;H<sub>sys</sub></figurecaption>
+	</figure>
+
+	<p>
+		You will notice here that all of the variables which relate to &Delta;S<sub>total</sub> are all in terms of the system. You are now ready to state whether a reaction or process is favourable or not. I should also mention here that the equation applies when the reaction takes place at constant pressure and temperature, and is another part of the derivation which is explained at a more advanced level.
+	</p>
+
+	<h3>Spontaneity and Gibbs Free Energy</h3>
+
+	<p>
+		With the equation from Figure 14.5 now stated, we can readily explore the spontaneity of a reaction (finding out if a reaction is spontaneous). We have already covered the ideas regarding favourable and unfavourable processes but the term spontaneous processes is more mathematically refined as a definition. <b>A spontaneous process or reaction is one in which the total entropy of the universe increases</b> or more succinctly, <b>&Delta;S<sub>total</sub> > 0, at the given temperature T and constant pressure</b>. As we shall soon see, spontaneous reactions are ones which tend to favour the formation of products. <b>A reaction or process is non-spontaneous when &Delta;S<sub>total</sub> < 0 at the given conditions of temperature and constant pressure</b>. Non-spontaneous processes tend not to favour the formation of products.
+	</p>
+
+	<p>
+		If you study this topic as part of your course then you might be asked to compare entropy changes and decide which reaction is more or less spontaneous, particularly if two or more reactions have the same sign for &Delta;S<sub>total</sub>.
+	</p>
+
+	<p>
+		The next part of the derivation is of particular interest and use to chemists. We tend to compare the spontaneity of a process in terms of energy, for which the units are J mol<sup>-1</sup> or kJ mol<sup>-1</sup>, instead of comparing &Delta;S<sub>total</sub>. We rearrange the equation and build a new definition. Multiplying the equation from Figure 14.5 by -T and defining &Delta;G = -T&Delta;S<sub>total</sub>, leading to a more convenient form shown in Figure 14.6.
+	</p>
+
+	<figure>
+		<img img alt="Gibbs Free Energy change" src="images/Fig14_6_GibbsFreeEnergy.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.6 A convenient method for deducing the spontaneity of a reaction. This is worth memorising.</figurecaption>
+	</figure>
+
+	<p>
+		The term &Delta;G (more formally, &Delta;G<sub>sys</sub>) is referred to as the <b>change in Gibbs Free Energy</b> (quite often referred to more concisely as  <b>Gibbs Free Energy</b>), named after the 19th century American mathematical physicist, Josiah Willard Gibbs. Many pre-university textbooks omit the 'sys' subscripts in &Delta;H<sub>sys</sub> and &Delta;S<sub>sys</sub> though they are almost certainly referring to the equation given in Figure 14.6.
+	</p>
+		
+	<p>
+		The equation given in Figure 14.6, like Figure 14.5, applies when the pressure and temperature are constant. Since we have defined &Delta;G = -T&Delta;S<sub>total</sub>, it follows that <b>a spontaneous process is one in which &Delta;G > 0, at the temperature T and under constant pressure</b>. Non-spontaneous processes and reactions are ones in which &Delta;G < 0. We will outline why it is called 'Free' energy shortly.
+	</p>
+
+	<p>
+		There are a number of features which you should be comfortable with when interpreting the results of the equation from Figure 14.6.
+	</p>
+
+	<ul>
+		<li>
+			From the equation given in Figure 14.5, you can see that exothermic reactions are always spontaneous at a given temperature T (units of Kelvin) when &Delta;S<sub>sys</sub> is positive. Both &Delta;S and &Delta;H can be positive or negative, so there are in total four possibilities to consider. All textbooks and online resources summarise the spontaneity of exothermic and endothermic reactions in this way, so I will not reproduce the results here.
+		</li>
+		<li>
+			It is necessary to work through a few calculations for yourself, checking the units. Frequently, &Delta;S<sub>sys</sub>, sometimes quoted without the subscript and given as &Delta;S, is given in J mol<sup>-1</sup> K<sup>-1</sup> while all other energy changes are given in kJ mol<sup>-1</sup>. These differences cause quite a few students to miscalculate &Delta;G, &Delta;H or &Delta;S.
+		</li>
+		<li>
+			The point at which a reaction or process turns from being spontaneous to non-spontaneous (and <i>vice versa</i>) occurs when &Delta;G = 0 (from Figure 14.6). Many problems will ask you to determine the temperature T when this occurs, a straightforward rearrangement of the equation. Note that &Delta;G, &Delta;H and &Delta;S are strictly temperature dependent too, however for problems posed at this level, you can assume that both &Delta;H and &Delta;S are temperature independent.
+		</li>
+		<li>
+			It is worth going through a few examples which demonstrate temperature dependence of &Delta;G. Apply sensible logic. When ice melts, &Delta;H is positive and &Delta;S is positive. At higher temperature T, T&Delta;S is more positive, -T&Delta;S is more negative and so &Delta;G is more likely to be negative. Hence, the melting of ice is spontaneous at higher temperatures. As temperature decreases T&Delta;S &#8594 0, and &Delta;G becomes more positive, and the process becomes less spontaneous. You can think of other examples along similar lines.
+		</li>
+		<li>
+			Finally, some courses require you to calculate the free energy change of formation &Delta;G<sub>f</sub> in a Hess' law type energy cycle. Sometimes this also involves using or deducing &Delta;H<sub>f</sub> or &Delta;S<sub>f</sub>. I will also leave this out since it is usually well outlined in other literature.
+		</li>
+	</ul>
+
+	<h3>Spontaneity and chemical composition</h3>
+
+	<p>
+		We need to clarify what happens to the chemical composition when we say something is likely to occur or is spontaneous. Shortly, we will see that all processes and reactions occur to some extent. Overall, reactions which are more spontaneous are ones which produce more products. Less spontaneous processes result in a mixture made up of more reactants than products. Let us go through these ideas a more detail.
+	</p>
+
+	<p>
+		Let us start with an important assumption made thus far. Whenever we calculate &Delta;S<sub>sys</sub>, we are comparing the entropy change of the system assuming that all reactants are converted into products. It is the same when we calculate &Delta;H<sub>sys</sub>. We are comparing the enthalpies of pure products to pure reactants. What happens if we only convert <i>some</i> of the reactants? What other factors affect absolute entropy and absolute enthalpy?
+	</p>
+	<p>
+		With enthalpy, you learned that there is an energy barrier to each reaction direction and, at least temporarily, absolute enthalpy increases at first whether you start from reactants or from products. With entropy, there are multiple factors which determine entropy: how much random motion is present, how many configurations are present and how are energy and matter dispersed. The number of configurations and the entropy solely dependent on the number of configurations always increases whenever we start a reaction from pure reactants or pure products (Figure 14.7) for any reaction. The other two factors are what we are really interested in because either can either add to the increase in entropy or oppose the increase. These two factors ultimately determine what happens to the absolute entropy <i>as the reaction proceeds</i>. With more experience of the subject, you will learn that the absolute entropy of the system always increases at first, from either direction. (It follows then that all reactions, as written, are apparently reversible.) Take care to note, however, that this does not mean &Delta;S<sub>sys</sub> is always positive.
+	</p>
+
+	<p>
+		For any reaction starting from either reactant or from product, if we assume that the entropy change of the surroundings is constant (which is also equivalent to saying that the enthalpy change and temperature are constant, Figure 14.4) then a process or reaction which moves away from pure reactants or pure products always leads to an increase in the system's entropy and therefore the total entropy. We can view all these results graphically, plotting the total entropy against chemical composition (Figure 14.7).
+	</p>
+
+	<figure>
+		<img img alt="Total entropy against chemical composition" src="images/Fig14_7_TotalEntropyCompost.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.7 Showing how total entropy changes with composition</figurecaption>
+	</figure>
+
+	<p>
+		With more data points, the two curves which lead away from reactants and products eventually join, resulting in one curve with a maximum. The chemical composition at the maximum total entropy largely depends on the sign of &Delta;S<sub>total</sub>. If &Delta;S<sub>total</sub> > 0 then the reaction mixture at the maximum total entropy is composed mostly of products (this can be demonstrated through experimentation). If &Delta;S<sub>total</sub> < 0 then the chemical composition at the maximum is characteristic of more reactants. The results are shown in Figure 14.8. In both cases, the entropy increases, which means that all reactions, forward or backward, are likely to proceed to some extent. For Figure 14.8, going uphill is favourable!
+	</p>
+
+	<figure>
+		<img img alt="Total entropy against chemical composition" src="images/Fig14_8_PosNegEntropyChange.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.8 Positive and negative &Delta;S<sub>total</sub> (&Delta;S shown is &Delta;S<sub>total</sub>)</figurecaption>
+	</figure>
+
+	<p>
+		Take note of what &Delta;S<sub>total</sub> actually means in chemistry. It represents the total entropy change assuming that <b>all</b> reactants are converted to products. It does not measure the difference between the maximum entropy and a starting point (reactants or products). In practice, reactants are not converted completely to products (and <i>vice versa</i>) based on entropy change. When the system reaches the maximum total entropy, any further chemical change (in the forward or backward directions) would require a decrease in total entropy. This further change would be unfavourable. We will come back to this point soon.
+	</p>
+
+	<p>
+		Moving on to Gibbs Free energy, which is essentially the negative of &Delta;S<sub>total</sub>, you can see that the results are inverted (Figure 14.9). As one moves away from pure reactants or pure products, the free energy of the system always decreases initially and reaches a minimum. Spontaneous processes with a negative &Delta;G lead to a minimum where the mixture is made up mostly of products, whereas non-spontaneous processes with a positive &Delta;G lead to mixtures made up mostly of reactants. As explained for total entropy change, forward and backward reactions are both likely to occur to some extent but unlikely to go to completion. For Figure 14.9, going downhill is favourable.
+	</p>
+
+	<figure>
+		<img img alt="Free energy against chemical composition" src="images/Fig14_9_PosNegFreeEnergy.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+		<figurecaption>Figure 14.9 Positive and negative &Delta;G. The equilibrium positions for the negative &Delta;G and the corresponding &Delta;S<sub>total</sub> are the same.</figurecaption>
+	</figure>
+
+	<p>
+		The maximum from Figure 14.8 and the minimum from Figure 14.9 represent the equilibrium composition. At either stationary point, one would need to provide an 'external influence' to decrease total entropy or increase free energy. Without external influence, the composition of the mixture remains constant, which we know is indicative of a system that has reached dynamic equilibrium. To an experimentalist or observer, it would eventually appear that any additional forward reactions are countered by 'backward reactions' (and <i>vice versa</i>) preventing the reaction from going all the way forward or backward.
+	</p>
+
+	<p>
+		As I hope you can see, the calculations with regards to spontaneity are not really about whether a reaction will proceed or not but more to do with what the composition will be once the total entropy is maximised or the Gibbs Free energy is minimised. How far does the reaction go, as it were. Spontaneous reactions produce more product than non-spontaneous reactions. By changing the conditions, chemists can design procedures which effectively shift the position of the stationary point. For some reactions, the stationary point is very close to one of the starting points. As such, these reactions are viewed as 'irreversible reactions', although a detailed analysis would indicate otherwise.
+	</p>
+
+	<h3>Free energy</h3>
+
+	<p>
+		Let us look at why we use the phrase 'free energy'. What is free? Recall from the previous article that a system can exchange energy with the surroundings, some of which may be (though not always) used to do work through expansion or contraction. The remainder of the energy is exchanged or transferred as heat, leading to an increase in the entropy of the system (for an endothermic process) or the surroundings (for an exothermic process). The important point here is that the enthalpy change, as described, is not related to expansion or contraction.
+	</p>
+
+	<p>
+		If we rearrange the equation from Figure 14.6, we can state:
+	</p>
+
+	<p id="example"> &Delta;H = &Delta;G + T&Delta;S </p>
+
+	<p>
+		This helps show that enthalpy change is split into two parts. The T&Delta;S part is related to changes random motion of the system or surroundings. The &Delta;G part is related to work. Remember, work due to expansion or contraction was already accounted for and is not related to enthalpy change so we refer to &Delta;G more appropriately as <i>non-expansion</i> work. The energy represented by &Delta;G is said to be 'free' to do other forms of work, other than expansion or contraction.
+	</p>
+	<p>
+		Perhaps the most common example and use of the energy provided by &Delta;G is the work done to drive electrons around a circuit. When you study electrochemistry, any spontaneous reaction produces heat, most of which is dissipated to the surroundings and a smaller portion is used to drive electrons around the circuit in a uniform manner.
+	</p>
+
+	<h3>Making predictions</h3>
+
+	<p>
+		We end this article with a few more cautionary remarks. The predictive tools explained above are indeed quite powerful though you will also encounter examples or observations which seem to diverge from the predictions. One significant area of chemistry which we have overlooked is chemical kinetics. There are lots of examples of reactions which, while supposedly spontaneous on paper, are actually very slow and might appear non-spontaneous (the mixture is made mostly of reactants).
+	</p>
+
+	<p>
+		At this level, the thermodynamic variables &Delta;S and &Delta;H are assumed to be independent of pressure and temperature, assumptions which are not supported by more rigorous studies. Bear this in mind if you find that the predictions fail when temperature or pressure change significantly as a process takes place. As you will see from a range of calculations, &Delta;G is strongly dependent on temperature. Whenever quoting &Delta;G values, always state the temperature.
+	</p>
+
+	<p>
+		In conclusion, these articles are intended to give you more of the background needed to pursue more advanced study of chemical thermodynamics. There will undoubtedly (indeed, hopefully) be more questions that you want to ask. We have seen how the energy of a reaction can be distributed as work and heat. After giving more meaning to enthalpy change and entropy change, we have developed predictive tools that enable scientists to foresee the nature and composition of the resultant mixture. We have also seen how the total entropy changes and free energy changes tie in with dynamic equilibrium.
+	</p>
+
+    <%- include("partials/footer") %>

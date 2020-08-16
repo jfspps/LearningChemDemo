@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Fig14_5_SystemVariables.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.58333 26.458334"
+   height="100"
+   width="1000">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="89.291435"
+     inkscape:cx="488.05185"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(0.97009208,1.03083)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.626535"
+       x="84.382751"
+       y="16.760574"
+       id="text928"><tspan
+         style="stroke-width:0.626535"
+         sodipodi:role="line"
+         x="84.382751"
+         y="16.760574"
+         id="tspan926"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan906">𝛥</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan908">𝑆</tspan><tspan
+           dx="-0.38062236"
+           dy="1.9045696"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.73526px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan910">𝑡𝑜𝑡𝑎𝑙</tspan><tspan
+           dx="4.66395"
+           dy="-1.9045696"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan912">=</tspan><tspan
+           dx="-0.96753156"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan914">   </tspan><tspan
+           dx="1.1726024"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan916">∆</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan918">𝑆</tspan><tspan
+           dx="-0.38062236"
+           dy="1.9045696"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.73526px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan920">𝑠𝑦𝑠</tspan><tspan
+           dx="3.2406747"
+           dy="-1.9045696"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan922">−</tspan><tspan
+           dx="0.66660082"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan924">  </tspan></tspan></text>
+    <text
+       transform="scale(0.97009208,1.03083)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.626535"
+       x="159.66339"
+       y="9.443017"
+       id="text938"><tspan
+         style="stroke-width:0.626535"
+         sodipodi:role="line"
+         x="159.66339"
+         y="9.443017"
+         id="tspan936"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan930">∆</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan932">𝐻</tspan><tspan
+           dx="-0.51308203"
+           dy="1.9045696"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.73526px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan934">𝑠𝑦𝑠</tspan></tspan></text>
+    <text
+       transform="scale(0.97009208,1.03083)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.626535"
+       x="168.18381"
+       y="22.975487"
+       id="text944"><tspan
+         style="stroke-width:0.626535"
+         sodipodi:role="line"
+         x="168.18381"
+         y="22.975487"
+         id="tspan942"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:'Cambria Math';fill:#000000;stroke-width:0.626535"
+           id="tspan940">𝑇</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.626535"
+       d="m 154.88816,14.280705 h 22.1713 v 0.619986 h -22.1713 z"
+       id="path946" />
+    <text
+       transform="scale(0.97009208,1.03083)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.626535"
+       x="182.5182"
+       y="16.760574"
+       id="text952"><tspan
+         style="stroke-width:0.626535"
+         sodipodi:role="line"
+         x="182.5182"
+         y="16.760574"
+         id="tspan950"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:9.24139px;font-family:Calibri;fill:#000000;stroke-width:0.626535"
+           id="tspan948"> </tspan></tspan></text>
+  </g>
+</svg>

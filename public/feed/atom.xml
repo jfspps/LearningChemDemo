@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>LearningChem.co.uk</title>
+  <link href="https://www.LearningChem.co.uk/"/>
+  <updated>2019-12-21T00:00:00Z</updated>
+  <author>
+    <name>James Apps</name>
+  </author>
+  <id>https://www.learningchem.co.uk/</id>
+
+  <entry>
+    <title>Writing half-equations</title>
+    <link href="https://www.learningchem.co.uk/1_halfequations"/>
+    <id>https://www.learningchem.co.uk/1_halfequations</id>
+    <updated>2019-12-21T00:00:00Z</updated>
+    <summary>How to write half-equations in acidic and alkaline media</summary>
+  </entry>
+
+  <entry>
+    <title>Describing entropy</title>
+    <link href="https://www.learningchem.co.uk/2_DescribingEntropy"/>
+    <id>https://www.learningchem.co.uk/2_DescribingEntropy</id>
+    <updated>2019-12-21T00:00:01Z</updated>
+    <summary>Three approaches to describing entropy with examples</summary>
+  </entry>
+
+  <entry>
+    <title>Oxidation state and formal charge</title>
+    <link href="https://www.learningchem.co.uk/3_OxidationStates"/>
+    <id>https://www.learningchem.co.uk/3_OxidationStates</id>
+    <updated>2020-01-04T00:00:00Z</updated>
+    <summary>The meaning and deduction of oxidation state and formal charge</summary>
+  </entry>
+
+  <entry>
+    <title>Lewis structures and resonance</title>
+    <link href="https://www.learningchem.co.uk/4_Resonance"/>
+    <id>https://www.learningchem.co.uk/4_Resonance</id>
+    <updated>2020-01-09T00:00:00Z</updated>
+    <summary>Drawing Lewis structures and understanding resonance</summary>
+  </entry>
+
+  <entry>
+    <title>Structure and bonding Part 1: Historical background</title>
+    <link href="https://www.learningchem.co.uk/5_HistoryofElectrons"/>
+    <id>https://www.learningchem.co.uk/5_HistoryofElectrons</id>
+    <updated>2020-01-19T00:00:00Z</updated>
+    <summary>Historical background to the properties of electrons</summary>
+  </entry>
+
+  <entry>
+      <title>Structure and bonding Part 2: Atomic spectroscopy</title>
+      <link href="https://www.learningchem.co.uk/6_AtomicSpectroscopy"/>
+      <id>https://www.learningchem.co.uk/6_AtomicSpectroscopy</id>
+      <updated>2020-01-19T23:15:00Z</updated>
+      <summary>Using experimental data to understand the nature of electrons and shells</summary>
+    </entry>
+
+  <entry>
+      <title>Structure and bonding Part 3: Atomic orbitals</title>
+      <link href="https://www.learningchem.co.uk/7_AtomicOrbitals"/>
+      <id>https://www.learningchem.co.uk/7_AtomicOrbitals</id>
+      <updated>2020-02-01T18:30:00Z</updated>
+      <summary>Describing the electronic structure of atoms with orbitals</summary>
+    </entry>
+  
+    <entry>
+      <title>Structure and bonding Part 4: Interaction between orbitals from different atoms</title>
+      <link href="https://www.learningchem.co.uk/8_MixingOrbitals"/>
+      <id>https://www.learningchem.co.uk/8_MixingOrbitals</id>
+      <updated>2020-02-19T23:30:00Z</updated>
+      <summary>Describing how orbitals from different atoms interact when bonds form</summary>
+    </entry>
+
+    <entry>
+      <title>Structure and bonding Part 5: Interaction between orbitals of the same atom</title>
+      <link href="https://www.learningchem.co.uk/9_Hybridisation"/>
+      <id>https://www.learningchem.co.uk/9_Hybridisation</id>
+      <updated>2020-03-13T12:15:00Z</updated>
+      <summary>Describing how orbitals of the same atom interact when bonds form</summary>
+    </entry>
+
+    <entry>
+      <title>Resonance and curly arrows</title>
+      <link href="https://www.learningchem.co.uk/10_CurlyArrows"/>
+      <id>https://www.learningchem.co.uk/10_CurlyArrows</id>
+      <updated>2020-04-10T02:00:00Z</updated>
+      <summary>Understanding the role of curly arrows when drawing resonance forms</summary>
+    </entry>
+
+    <entry>
+      <title>Elementary reactions and reaction mechanisms</title>
+      <link href="https://www.learningchem.co.uk/11_ElementaryReactions"/>
+      <id>https://www.learningchem.co.uk/11_ElementaryReactions</id>
+      <updated>2020-06-20T14:30:00Z</updated>
+      <summary>Introduction to elementary reactions and reaction mechanisms</summary>
+    </entry>
+
+    <entry>
+      <title>Non-ideal systems and concentration</title>
+      <link href="https://www.learningchem.co.uk/12_IdealAndNonIdeal"/>
+      <id>https://www.learningchem.co.uk/12_IdealAndNonIdeal</id>
+      <updated>2020-07-13T19:05:00Z</updated>
+      <summary>The assumptions and consequences of ideality</summary>
+    </entry>
+
+        <entry>
+      <title>Thermodynamics 1: Enthalpy changes and entropy changes</title>
+      <link href="https://www.learningchem.co.uk/13_EnthalpyEntropyChanges"/>
+      <id>https://www.learningchem.co.uk/13_EnthalpyEntropyChanges</id>
+      <updated>2020-07-28T23:00:00Z</updated>
+      <summary>Understanding more about what enthalpy change and entropy change mean</summary>
+    </entry>
+
+            <entry>
+      <title>Thermodynamics 2: Gibbs Free Energy and Spontaneity</title>
+      <link href="https://www.learningchem.co.uk/14_GibbsFreeEnergy"/>
+      <id>https://www.learningchem.co.uk/14_GibbsFreeEnergy</id>
+      <updated>2020-08-10T02:00:00Z</updated>
+      <summary>Setting the scene and leading to Gibbs Free Energy</summary>
+    </entry>
+    
+</feed>

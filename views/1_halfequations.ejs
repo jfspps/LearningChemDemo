@@ -1,0 +1,43 @@
+<%- include("partials/header") %>
+<title>Writing half-equations</title>
+<meta name="description" content="How to write half-equations in acidic and alkaline media">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Writing half-equations</h1>
+	<p><i>21st Dec 2019</i></p>
+	<p>To follow this article, you should already know about redox reactions and how to deduce the oxidation state of an atom. I will outline my ideas about when or why it is "3+" or "+3", as well as formal charge in another <a href="/3_OxidationStates">article</a>.</p>
+
+	<p>The method I outline here is particularly useful because it accommodates all types of half-equations, involving (a) electrons only, (b) electrons and protons (<i>i.e.</i> in acidic media), and (c) electrons, protons and water. It forces you to first identify the oxidation state changes involved and then balance accordingly. We will demonstrate this by writing equations for the oxidation of chromium(III) and oxidation of hydrogen peroxide.</p>
+	<ol>
+		<li>For all half-equations, the first step is to identify which atom is undergoing oxidation or reduction and then balance the number of atoms involved. I generally write whole number stoichiometric coefficients throughout.</li>
+		<p id="example">Cr<sup>3+</sup> &#8651 Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> becomes 2Cr<sup>3+</sup> &#8651 Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> because two Cr atoms are involved.</p>
+		<li>After looking at the changes to the oxidation state and the number of atoms involved, we then add electrons to one side of the equation.</li>
+		<p id="example">Since two chromium atoms are oxidised from +3 to +6, we need a total of six electrons. We now have:
+			<p id="example">2Cr<sup>3+</sup> &#8651 Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> + 6e<sup>-</sup></p>
+		</p>
+		<li>We then balance the total charge on the left with the charge on the right by adding protons.</li>
+		<p id="example">There is a total of 6+ on the left hand-side of the equation and 8- on the right, so we add 14+ <i>i.e.</i> 14 protons on the right: 
+			<p id="example">2Cr<sup>3+</sup> &#8651 Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> + 6e<sup>-</sup> + 14H<sup>+</sup></p>
+		</p>
+		<li>Finally, we balance the equation with the required moles of water.</li>
+		<p id="example">There are seven oxygen atoms and 14 hydrogen ions on the right. We therefore need seven moles of water on the left:</p>
+			<p id="example">2Cr<sup>3+</sup> + 7H<sub>2</sub>O &#8651 Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> + 6e<sup>-</sup> + 14H<sup>+</sup></p>
+	</ol>
+	<p>The above procedure applies to any half-equation in acidic media. Steps 1 and 2 are always needed. If we only need to write half-equations of type (a), then steps 3 and 4 can be ignored. Likewise, if more water is not required, then we can ignore step 4.</p> 
+	<p>The oxidation of hydrogen peroxide to oxygen (listed in line with the above procedure) is one example when we can ignore step 4.</p> 
+	<ol>
+		<li>H<sub>2</sub>O<sub>2</sub> &#8651 O<sub>2</li>
+		<li>H<sub>2</sub>O<sub>2</sub> &#8651 O<sub>2</sub> + 2e<sup>-</sup></li>
+		<li>H<sub>2</sub>O<sub>2</sub> &#8651 O<sub>2</sub> + 2e<sup>-</sup> + 2H<sup>+</sup></li>	
+	</ol>
+	<p>When writing half-equations in alkaline media, I follow the above procedure for acidic media and then add equal moles of hydroxide to both sides until all of the protons are consumed (cancelling any excess water from both sides of the equation if needed). In the case of oxidation of hydrogen peroxide:</p>
+	<ul>
+		<li><span id="example">H<sub>2</sub>O<sub>2</sub> &#8651 O<sub>2</sub> + 2e<sup>-</sup> +2H<sup>+</sup></span> ...add two moles of hydroxide to both sides...</li>
+		<li><span id="example">H<sub>2</sub>O<sub>2</sub> + 2OH<sup>-</sup> &#8651 O<sub>2</sub> + 2e<sup>-</sup> + 2H<sup>+</sup> + 2OH<sup>-</sup></span> ...giving another two moles of water on the right...</li>
+		<li><span id="example">H<sub>2</sub>O<sub>2</sub> + 2OH<sup>-</sup> &#8651 O<sub>2</sub> + 2e<sup>-</sup> + 2H<sub>2</sub>O</span></li>
+	</ul>
+	<p>Most half-equations are written with the assumption that the reaction takes place in water. Consequently, one has to be mindful that some hydroxides are essentially water insoluble. You are advised to write half-equations which reflect this. For example, iron(II) hydroxide in water is usually written as Fe(OH)<sub>2</sub> and not as free (separate) ions "Fe<sup>2+</sup> + 2OH<sup>-</sup>". The half-equation is then:</p>
+	<p>Fe(OH)<sub>3</sub> + e<sup>-</sup> &#8651 Fe(OH)<sub>2</sub> + OH<sup>-</sup></p>
+	
+<%- include("partials/footer") %>

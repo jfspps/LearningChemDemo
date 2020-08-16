@@ -1,0 +1,211 @@
+<%- include("partials/header") %>
+<title>Elementary reactions and reaction mechanisms</title>
+<meta name="description" content="Introduction to elementary reactions and reaction mechanisms">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Elementary Reactions and Reaction Mechanisms</h1>
+	<p><i>20th Jun 2020</i></p>
+
+<p>
+	What follows in this article is a closer look at chemical equations. This may sound a little strange given that you have been writing equations for a while now. Specifically, I will highlight that there is more to what is going on at the atomic level, many features of which are not always described by balanced (stoichiometric) equations.
+</p>
+<p>
+ 	I will assume that you are familiar with reaction rate, and know that it measures the rate of change of concentration of a reactant and product with time. You do not need to have prior knowledge of the examples that I use. Some idea about enthalpy level diagrams, activation energy and homogeneous catalysis will also help.
+</p>
+
+<p>
+	The study of thermodynamics in chemistry focuses on the energy differences between two defined states, quite often the reactant and product. This is where you will have studied enthalpy changes &#916H (Figure 11.1) of a reaction. Chemical kinetics is about describing the reaction pathway in which one state is converted into another. For example, each point on the curve which links both initial and final states represents the specific arrangement of atoms of a species with the corresponding absolute enthalpy. Points higher up the curve have higher enthalpy and are expected to be more unstable or more reactive. As outlined below, chemists propose the arrangement of the atoms at the point of maximum enthalpy to help them visualise how the reactant converted into the product, similar to how one can freeze frame a video.
+</p>
+
+<figure>
+	<img img alt="The relationship between thermodynamics and kinetics" src="images/Fig11_1_thermodynamicsKinetics.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+	<figurecaption>Figure 11.1 The relationship between thermodynamics and kinetics</figurecaption>
+</figure>
+
+<p>
+	Kinetics is one part chemistry which is very interesting to me at least because it tries to explain <i>how</i> an overall reaction occurs. I usually think of the overall process as a complex sequence of steps where atoms are in motion with bond angles changing, with bonds breaking and forming, along the way. This sequence of steps is the main theme of this article.
+</p>
+
+<h3>Fast and slow steps</h3>
+
+<p>
+	The experimental deduction of the effect of concentration on overall rate can be found in nearly all pre-university level textbooks. In this section, I will focus on the other aspects which are not always explained.
+</p>
+<p>
+	My question is: why do some reaction rates not depend on <i>all</i> reactants? For example, the reaction rate between sodium hydroxide NaOH and 2-chloro-2-methylpropane (CH<sub>3</sub>)<sub>3</sub>CCl only depends on the concentration of 2-chloro-2-methylpropane, and not on the concentration of sodium hydroxide? The overall reaction is given in Figure 11.2.
+</p>
+
+        <figure>
+            <img img alt="A reaction between a halogenoalkane and sodium hydroxide" src="images/Fig11_2_baseHydrolysis.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+            <figurecaption>Figure 11.2 The overall reaction between 2-chloro-2-methylpropane and sodium hydroxide</figurecaption>
+        </figure>
+
+<p>
+	Clearly, sodium hydroxide must be involved at some point in the reaction. 
+</p>
+
+<p>
+	To begin to explain this perhaps unexpected situation, first we need to realise that <b>all</b> balanced chemical equations, like that shown in Figure 11.2, simply show the relative quantities of reactants and products present. They indicate how much is needed or how much is produced. They do not indicate <i>how</i> the reaction proceeds.
+</p>
+
+<p>
+	Let us briefly explore a more familiar example. The balanced equation for the Haber Process states that for every one molecule of nitrogen, three molecules of hydrogen react (in the presence of a catalyst) to produce two molecules of ammonia.
+</p>
+
+<p id="example">
+	N<sub>2</sub> + 3 H<sub>2</sub> &#8651 2 NH<sub>3</sub>
+</p>
+
+<p>
+	Just by looking at the equation, does this mean that one molecule of nitrogen collides with precisely three molecules of hydrogen? Probably not. If you have studied this reaction in some detail then you may have been shown that the nitrogen and hydrogen molecules stick to the surface of the iron catalyst and then a sequence of subsequent processes occurs before ammonia is produced. The sequence of steps is not outlined by one balanced equation.
+</p>
+
+<p>
+	At this point in our investigation, we then bring in ideas about the relative rate of each step. Let us assume that out of all the steps listed, one of them is the slowest. This then means that the rate of the overall reaction depends on the slowest step, the 'bottleneck' so to speak. We can visualise the slowest step by comparing the idea to many diffferent situations, one which looks at the flow of water over two funnels (Figure 11.3).
+</p>
+
+        <figure>
+            <img img alt="Flow rate of water over funnels" src="images/Fig11_3_funnels.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+            <figurecaption>Figure 11.3 Showing how the flow rate of water depends on only one funnel</figurecaption>
+        </figure>
+
+<p>
+	The volume of water passing both funnels per second depends on the dimensions of the funnel with the narrowest stem. If we change the diameter of the narrowest stem then we can influence the overall flow rate of water. If we tried to widen the wider stem then the overall flow rate would not increase.
+</p>
+
+<p>
+	In chemistry, this is like saying that the slowest step (in a sequence of reaction steps) is the step that affects the overall rate of reaction <i>i.e.</i> how quickly the reactant(s) is converted into product(s). This slowest step is therefore referred to as the <b>rate determining step</b> or <b>RDS</b> of a reaction. The funnel with the narrowest stem affects the overall flow rate of water. Analogously, the concentration of the chemical species involved in the RDS must affect the overall rate.
+</p>
+
+<h3>Reaction mechanims: showing how reactions proceed</h3>
+
+<p>
+	Returning to our organic reaction example, we will suppose that the reaction involves at least two steps. The RDS involves the organic compound, 2-chloro-2-methylpropane, since it affects the overall rate. Sodium hydroxide is involved in a different, faster step because the concentration of sodium hydroxide does not influence the overall rate.
+</p>
+
+<p>
+	The next part of the study which chemists turn to is to outline the sequence of steps which describe the chemical transformations, while supporting the evidence. The sequence of steps which describe how the reaction proceeds is called the <b>reaction mechanism</b> (or more concisely 'the mechanism'). One way of representing the reaction mechanism is given in Figure 11.4. I have deliberately omitted <a href="10_CurlyArrows">curly arrows</a> and dipoles because these concepts are not the main focus of this article and it is more appropriate to leave the explanation for future articles. To answer my question, the overall rate of reaction does not depend on the concentration of sodium hydroxide because sodium hydroxide is not involved in the RDS.
+</p>
+
+        <figure>
+            <img img alt="The steps of a reaction mechanism" src="images/Fig11_4_mechanism.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+            <figurecaption>Figure 11.4 The mechanism for the reaction between sodium hydroxide and 2-chloro-2-methylpropane.</figurecaption>
+        </figure>
+
+<p>
+	It is worth emphasising here that reaction mechanisms are proposals based on experimental data and are never proposed without first referring to the data. Mechanisms also outline the most likely sequence of events that occurs. Other reaction pathways may be occurring 'in the background' to a much lesser degree, however, chemists tend to focus on the more probable pathways.
+</p>
+
+<h3>Elementary steps or elementary reactions</h3>
+
+<p>
+	Now that we have covered the RDS, we can explore the features of the other steps and generalise a few points here.
+</p>
+
+<ul>
+	<li>The RDS need not be the first step of a mechanism. Refer back to our funnel analogy to visualise how.</li>
+	<li>The RDS can sometimes be the only step in a reaction. This therefore means that the reaction takes place in one step and all reactants affect the rate of reaction.</li>
+	<li>Catalysts, by definition, are always participants in a mechanism. Without overcomplicating matters too much, at this level you can usually expect the concentration of a homogeneous catalyst to influence the overall rate.</li>
+	<li>In more extreme cases, the elementary step which is designated the RDS also depends on the concentration of the reactants present. If you look back to the funnel analogy, imagine narrowing the funnel with the widest stem to a degree where it ends up being the narrowest of the two funnels. This causes the RDS to, in effect, swap places. Chemically, this change is also possible. We could lower the concentration of sodium hydroxide such that step 2 becomes so slow that is ends up being rate-determining. At this stage, I think you can assume that such cases are ignored.</li>
+</ul>
+
+<p>
+	Going back to our organic reaction, we can see that a cationic species (CH<sub>3</sub>)<sub>3</sub>C<sup>+</sup> is produced in one step and then consumed in a subsequent step. This species is an example of an <b>intermediate</b> of a reaction. Intermediates are generally unstable species but with advanced instruments some can be detected as they are produced. If a reaction mechanism only involves one step, then there are no intermediates present. The reactants are converted directly to products.
+</p>
+
+<p>
+	Summarised below are some general examples, where <b>R</b> and <b>R'</b> are two different reactants, <b>I</b> is an intermediate and finally, <b>P</b> and <b>P'</b> are products:
+</p>
+
+<ol>
+	<li id="example">R	+	R'	&#8651 	I</li>
+	<li id="example">I &#8651 	P	+	P'</li>
+</ol>
+
+<p>
+	We can also extend the example to a different mechanism which involves two different intermediates, <b>I'</b> and <b>I''</b>:
+</p>
+
+<ol>
+<li id="example">R	+	R	&#8651 I'</li>
+<li id="example">I'	+	I'	&#8651 I''</li>
+<li id="example">I'' +	I''	&#8651 P</li>
+</ol>
+
+<p>
+	It is certainly possible to draw up many other examples of generalised reaction mechanisms other than those given above.
+</p>
+
+<p>
+	Each step occurs, one after the other. This means that for all reaction mechanisms, <b>the sum of all steps, after cancellation of intermediates, results in a balanced (stoichiometric) equation</b>. You can see that our organic reaction example from Figure 11.4, when combined, gives the same equation from Figure 11.2. Similarly, the first generalised mechanism would give the following overall equation:
+</p>
+
+<ol>
+<li id="example">R	+	R'	&#8651 I</li>
+<li id="example">I &#8651 P		+	P'</li>
+</ol>
+
+<p>Combining both steps and cancelling:		<b> R	+	R'	&#8651 	  P		+	P'</b></p>
+
+<p>
+	The second example would result in:
+</p>
+
+<ol>
+<li id="example">R	+	R	&#8651 2 I'</li>
+<li id="example">I'	+	I'	&#8651 I''</li>
+<li id="example">I''		&#8651 2 P</li>
+</ol>
+
+<p>Combining all three steps and cancelling:		<b>R	&#8651 	 P</b></p>
+
+<p>
+	Chemists call each step an <b>elementary step</b> or an <b>elementary reaction</b>. The total number of elementary steps needed to describe a reaction varies. Some overall reactions can be described with one elementary step while others can be described with four or five steps.
+</p>
+
+<p>
+	Each elementary step literally shows how many species are involved. Referring to the second generalised example, step 1 is stating that two molecules (or ions) of R must collide. In step 2, two molecules (or ions) of I' collide. No more and no less. The reaction equations cannot be simplified any further. This also means that the mathematical expressions which define the rate of an elementary reaction can be derived directly from the chemical equation. This is in contrast to <i>the overall rate of reaction and its expression, which must be derived by experiment</i>. The derivation of the mathematical expressions which describe how the concentration of a reacting species affects the rate of an elementary step is explained in most textbooks, if applicable to your course.
+</p>
+
+<h3>Proposing reaction mechanisms</h3>
+
+<p>
+	There is quite a lot to be said about what constitutes a reasonable mechanism. There are entire books and journals devoted to the topic. Below are some guidelines when proposing mechanisms.
+</p>
+
+<ul>
+	<li>One of the elementary steps is the RDS. It might be the first step or it might be a step which occurs later in the mechanism.</li>
+	<li>Successful collisions occur when all reacting species are orientated the correct way. Reactions between fewer species are more probable than reactions between lots of species. Consequently, unless you are guided directly by experimental evidence, avoid writing elementary reactions with three or more starting species (reactants or intermediates). Do 'as little as possible' in each step.</li>
+	<li>The number of elementary steps after the RDS is potentially limitless. As long as the physical and chemical principles you have studied are sensibly followed, you can propose as many elementary steps as you need after the RDS, as long as the sum of the elementary steps results in the same overall chemical equation.</li>
+</ul>
+
+<p>
+	You may notice, with more practice, that the proposal of elementary steps is based, in part, on your own personal opinion about what is likely to occur. This freedom brings in the possibility for debate and is something which you will realise when studying kinetics at a more advanced level. Indeed, there are reaction mechanisms for reactions performed decades ago which researchers still debate to this day. We will revisit some of these ideas when we look at a few inorganic and organic reaction mechanisms in future articles.
+</p>
+
+<h3>Intermediates and transition states</h3>
+
+<p>
+	Depending on your course and what stage you are at, you may learn about <i>transition states</i>. I will discuss transition states with detailed examples in later articles and only give a few comments here for those who are already aware of them.
+</p>
+
+<p>
+	Both intermediates and transition states are chemical structures which have relatively brief existence. The main difference between the two is that transition states are thought to have a much shorter lifetime than intermediates, to the extent that they are essentially undetectable. Transition states are characterised as having the highest amount of energy (Figure 11.5) along a given reaction pathway and have only one choice: to lose energy and stabilise. Transition state formation always requires energy. The structure of a transition state is partly speculative and always considered with experimental evidence and fundamental principles in mind.
+</p>
+
+<p>
+	With regard to chemical equations, transition states are produced at a point of maximum energy (enthalpy) in between a reactant and an intermediate, an intermediate and a product, or in the case of single-step mechanisms (Figure 11.5(a)), a reactant and a product. This is why they are referred to as <i>transition</i> states. By comparison, reactants, intermediates (if applicable) and products are located at the local minima of a reaction profile.
+</p>
+
+<figure>
+	<img img alt="Transition states and intermediates" src="images/Fig11_5_transitionStates.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+	<figurecaption>Figure 11.5 Transition states and intermediates (a) An exothermic reaction with one elementary step (b) An endothermic reaction with two elementary steps</figurecaption>
+</figure>
+
+<p>
+	In this article, I set out to show you some of the ideas behind what we can consider as true chemical equations, in the sense of indicating what is taking place. We also looked briefly at reaction mechanisms. There are still a few other concepts which you will (if you have not already) learn about, including rate equations and the drawing of reaction mechanisms with curly arrows. With the above background, we will be able to explore a very interesting but equally challenging area of chemistry, namely, reaction mechanisms. The findings allows chemists to describe what influences the migration of atoms as reactions proceed and use the knowledge to predict the nature of other chemical systems with similar compositions.
+</p>
+
+
+<%- include("partials/footer") %>

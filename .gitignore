@@ -1,0 +1,6 @@
+#lists files and folders which are ignored by Git
+$ cat .gitignore
+
+#LearningChem related
+node_modules
+.vscode

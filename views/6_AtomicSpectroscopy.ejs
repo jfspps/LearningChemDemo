@@ -1,0 +1,194 @@
+<%- include("partials/header") %>
+<title>Structure and bonding Part 2: Atomic Spectroscopy</title>
+<meta name="description" content="Using experimental data to understand the nature of electrons and shells">
+<%- include("partials/navbar") %>
+<!-- from EJS 3.0.1, not include partials/header -->
+
+	<h1>Structure and bonding Part 2: Atomic spectroscopy</h1>
+	<p><i>20th Jan 2020</i></p>
+
+    <p>
+        In part 2, we continue with the discussion about the properties of electrons, in particular applying the evidence gathered from key experiments performed in the early 1900s. The only prerequisites for part 2 is a familiarity with the content from <a href="/5_HistoryOfElectrons">part 1</a>. We will first summarise the principles behind atomic spectroscopy before applying the results. From this point forward, I will frequently use the term <i>energy level</i> instead of shell. You will soon realise that the term energy level is a more general term when referring to the energy and, albeit indirectly, the location of specific electrons.
+    </p>
+
+    <h3>Spectroscopy</h3>
+
+    <p>
+        <b>Spectroscopy</b> is the study about how electromagnetic radiation interacts with matter. Just as there are many distinct regions of the electromagnetic spectrum, so too are there distinct spectroscopic techniques. The field of spectroscopy is very substantial and not the exclusive domain of chemists. For future reference, I list the region of the electromagnetic spectrum and related type of spectroscopy relevant to most chemists. The techniques marked * will be explored in this and later articles, so a familiarity with these methods is not required at this stage.
+    </p>
+    
+    <ol>
+        <li><b>Radio waves:</b> how the magnetic spin-state of certain types of nuclei <i>e.g.</i> <sup>1</sup>H and <sup>13</sup>C is flipped on irradiation. The technique is known as Nuclear Magnetic Resonance (NMR) spectroscopy* and is related to Magnetic Resonance Imaging (MRI).</li>
+        <li><b>Microwaves:</b> how polar molecules rotate on irradiation. Appropriately named microwave spectroscopy.</li>
+        <li><b>Infra-red:</b> how certain bonds vibrate on irradiation. Referred to as infra-red (IR) spectroscopy.*</li>
+        <li><b>Visible and ultraviolet:</b> about how electrons are promoted and undergo relaxation between energy levels, and in some cases ejected from atoms. This technqiue is generally referred to as UV-Vis spectroscopy, although there are quite a few "sub-techniques" with specific roles.*</li>
+    </ol>
+
+    <p>Why do we need to know about spectroscopy? Spectroscopy is generally used to analyse samples and determine (a) the nature of the sample (for example, its structure) and/or (b) the amount of substance present.</p>
+
+    <p>
+        Before we continue, we need to explain more terminology. The instrument used to conduct the spectroscopic technique is referred to as the <b>spectrometer</b>. The spectrometer outputs data, usually via a computer terminal, into a form which scientists can analyse and interpret. The results are referred to as the <b>spectrum</b> (plural: <b>spectra</b>) and generally shows how the intensity of radiation changes with frequency (or wavelength). Figure 5.3 shown in <a href="/5_HistoryOfElectrons#Figure5_3">part 1</a> and shown again in Figure 6.1 in this article is an example of a spectrum of hydrogen. I will explain why it is called Atomic absorption spectroscopy shortly.
+    </p>
+        
+    <p>
+        The black line pattern in Figure 6.1 is unique for hydrogen. If atomic spectroscopy is applied for other atoms, then it results in a different pattern of black lines. The spectrum can be thought of as a fingerprint profile of an element, which chemists use to identify which element is present in a given sample.
+    </p>
+
+    <figure>
+            <img img alt="Absorption spectrum of hydrogen" src="images/Fig5_3_absorptionspectrum.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+            <figurecaption> Figure 6.1 The atomic absorption spectrum of hydrogen</figurecaption>
+    </figure>
+
+    <h3>Atomic (absorption) spectroscopy</h3>
+
+    <p>
+        Atomic spectroscopy is one type or example of UV-Vis spectroscopy. For our purposes, this technique can be categorised further into atomic <i>absorption</i> spectroscopy and atomic <i>emission</i> spectroscopy. We will first look at the basic ideas about how the spectrometer yields the spectrum (Figure 6.1) and then explain how we use the results to describe the structure of a hydrogen atom.
+    </p>
+    <p>
+        There are a few practical considerations which I will outline here to help set the scene. All results outlined in this article are characteristic of individual atoms, not bonded atoms in molecules. This is why the technique is referred to as <i>atomic</i> spectroscopy. There are types of UV-Vis spectroscopy which study molecules instead of individual atoms but we will not discuss these techniques in this series. Samples are first broken down in the spectrometer before their interactions with radiation are studied. The details about how radiation causes molecules to break up into atoms and how the radiation, which caused decomposition, is related to the final results is best explained at university, after the basic concepts have been covered.
+    </p>
+        
+    <p>
+        All spectrometers related to the technique of UV-Vis spectroscopy operate under similar principles. The spectrometer generates a pulse of light, across the ultraviolet and visible range, which is directed at the sample (Figure 6.2). Some of the radiation is absorbed while much of it passes through. When hydrogen is irradiated, the visible light that passed through is indicated by the coloured portion of the spectrum. The black lines represent the colour (waves with the corresponding wavelength) which were absorbed. The technique is specifically called Atomic <i>absorption</i> spectroscopy because the sample is irradiated with light (energy), some of which is <i>absorbed</i>. It is also possible to produce a different spectrum with a black background and coloured lines (Figure 6.6), an inverse of an atomic absorption spectrum, using a technique known as Atomic <i>Emission</i> Spectroscopy, outlined below.
+    </p>
+
+    <figure>
+        <img img alt="Atomic absorption spectrometer" src="images/Fig6_2_AtomicSpectrometer.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.2 Outline of the atomic absorption spectrometer</figurecaption>
+    </figure>
+
+    <p>
+        What is meaning of the <i>multiple</i> black lines (Figure 6.1)? We know there is one proton and one electron present in hydrogen. Physicists, including Niels Bohr, eventually came up with a shell model of the hydrogen atom to provide an explanation. As you will soon see, the multiple black lines suggest that there are multiple locations where the single electron can temporarily reside, <i>other than</i> where it normally resides. Each black line relates to one shell in the hydrogen atom.
+    </p>
+    <p id="vacantShells">
+         To help understand what is going on, we suppose that some shells of an atom are partially occupied and others are unoccupied (or vacant, Figure 6.3). <b>In many of my diagrams, please note that the shell closest to the nucleus is not always shown and instead the second-lowest shell is drawn</b> (this will become clear when you read about atomic emission spectroscopy below). In reality, vacant (unoccupied) shells do not exist as such but you can think of them as "placeholders" or points in space reserved for electrons where they <i>would</i> reside if the conditions were appropriate.
+    </p>
+
+    <figure>
+        <img img alt="Energy diagram of hydrogen" src="images/Fig6_3_energyLevels.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.3 Occupation of shells with an electron in a hydrogen atom</figurecaption>
+    </figure>
+    </p>
+
+    <p>
+        Looking at the spectrum of hydrogen, only certain wavelengths of light are absorbed. Some black lines overlap a very small part of the blue-violet region (higher energy) while one other line lies in the red-orange region (lower energy). It may help to emphasise at this point that the spectrum is not the result of an experiment on one hydrogen atom but on many, many hydrogen atoms. Some atoms absorb violet light, some absorb blue light while others absorb red-orange light.
+    </p>
+
+    <p>
+        I will give a quick summary of what is coming first. Knowing about the energy of the wave which was absorbed enables us to determine the relative position and relative potential energy of a shell in the hydrogen atom. If we know the wavelength <i>&#955</i> of the colour overlapped by a black line in the spectrum then we can determine the energy <i>E</i> of the wave absorbed (Figure 6.4, Planck's constant <i>h</i> = 6.63 x 10<sup>-34</sup> Js and the speed of light in a vacuum <i>c</i> = 3.00 x 10<sup>8</sup> ms<sup>-1</sup>). The energy of the wave absorbed is the same as the potential energy <i>difference</i> between two particular shells. Since the energy of each wave recorded is different then so too is the potential energy difference between a particular pair of shells. Combining multiple pairs of results gives us an overall picture of the shell structure of the hydrogen atom, showing the relative position of all known shells. 
+    </p>
+
+    <figure>
+            <img img alt="Calculating the energy of the wave" src="images/Fig6_4_waveEnergy.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+            <figurecaption> Figure 6.4 Calculating the energy E of an electromagnetic wave</figurecaption>
+    </figure>
+
+    <p>
+        In more detail, think back to and then apply the photoelectric effect. It appears that a similar sort of interaction between the incoming wave and the electron is taking place. We can assume that the sole electron in hydrogen will normally be found as close as possible to the nucleus. When the incoming ultraviolet/visible wave supplies energy to the electron, it helps the electron break free from the hold of the nucleus and then undergo a <b>transition</b> (migration) to a shell further (higher up) from the nucleus. The transition of an electron to a higher shell is known as <b>promotion</b> (also referred to as <i>excitation</i>), as shown in Figure 6.5. The wave which supplied energy to the electron is not detected and so a black line takes its place in the spectrum. 
+    </p> 
+    <p>
+        The energy required to promote an electron is given by the difference of the potential energy between the lower and higher levels involved. Two examples are shown in Figure 6.5, labelled E<sub>1</sub> and E<sub>2</sub>.  We can deduce the wavelength of light required to promote the electron using the equation given in Figure 6.4. The energy E<sub>1</sub> corresponds to the higher energy (shorter wavelength) violet light, with E<sub>2</sub> corresponding to the lower energy, red-orange light. Since most of the waves pass through, we conclude that if the incoming waves have an energy which do not match any of the transitions present, then it passes through the sample. For the sake of brevity, I (and other authors) will sometimes label the y-axis simply as <i>energy</i> instead of potential energy.
+    </p>
+        
+    <figure>
+        <img img alt="Electron promotion" src="images/Fig6_5_promotion.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.5 Absorption spectrum of hydrogen (above) showing the promotion of electrons from a lower energy level to a higher energy level (only two transitions are shown)</figurecaption>
+    </figure>
+
+    <p>
+        By considering all of the lines and performing the necessary potential energy calculations, one can depict much of the shell structure and energy levels of a hydrogen atom. A similar pattern for other atoms with more than one electron is not observed. This realisation is one of the themes running throughout this series. Specifically, all of the electronic structure properties that I will cover in this series can be derived or calculated for any atom with one electron <i>e.g.</i> H, He<sup>+</sup>, Li<sup>2+</sup> (known as "hydrogen-like" atoms) but not for the atoms with more than one electron.
+    </p>
+
+    <h3>Atomic (emission) spectroscopy</h3>
+
+    <p>
+        If you have followed the ideas presented above, then understanding atomic emission spectroscopy is relatively straightforward. I will give a quick overview of the technique and introduce a few more technical terms.
+    </p>
+
+    <p>
+        Atomic Emission Spectroscopy is about detecting and analysing radiation <i>emitted</i> from a sample. Initially, the sample is exposed to a pulse or spark, causing it to break down into individual atoms. The supply of energy also promotes electrons from many of the separated atoms to the higher energy levels.  Following this, the electrons then return to lower energy levels (a transition known as <b>relaxation</b>, the opposite of promotion) and <i>release</i> energy in the form of light (Figure 6.6). The colour of light emitted is related to the potential energy difference between the energy levels involved. Since there are ranges of higher energy levels and lower energy levels, a group of atoms (not a single atom) can emit a range of electromagnetic waves with different energy. That is, a range of colours is observed in the spectrum. An example of the (visible) emission spectrum for hydrogen is shown in Figure 6.6. Compare this to the absorption spectrum.
+    </p>
+
+    <figure>
+        <img img alt="Electron relaxation" src="images/Fig6_6_emissionSpectrum.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.6 Emission spectrum of hydrogen (above) showing the relaxation of electrons from a higher energy level to a lower energy level (only two transitions are shown)</figurecaption>
+    </figure>   
+
+    <p>
+        When the core and valence electrons of an atom are occupying as many energy levels as close to the nucleus as possible, the atom is said to be in its <b>ground state</b>. For example, if the sole electron of hydrogen is occupying the lowest energy level (shell) then hydrogen is said to be in its ground state. When the hydrogen electron is promoted to any of the higher energy levels (or maybe more simply, when the hydrogen atom is not in its ground state) then we say that hydrogen is in an <b>excited state</b>. Any of configurations shown in Figure 6.6 are examples of hydrogen in an excited state. It is possible to describe more than one excited state for any atom.
+    </p>
+    <p>
+        You will see from the excited states given in Figure 6.6 that I have not considered any relaxations to the lowest energy level (the first shell). Such transitions are indeed possible however they would result in the emission of ultraviolet radiation, which is outside of the range of the visible light spectrum we have analysed thus far.
+    </p>
+
+    <p>
+        If you wish, you can look for emission spectra of other elements. I recommend you compare the emission spectra of metals and see how the combination of the coloured lines compares to the colour resulting from a flame test. The basic ideas we have covered in this article are applicable. Combustion releases energy and places the metal atoms in an exited state. The atoms eventually relax and emit light, characteristic of their electronic structure (that is, energy levels involved).
+    </p>
+
+    <h3>Principal quantum number n</h3>
+    <p>
+        Each shell is given a number, known as the <b>principal quantum number</b> and is given the symbol <i>n</i>. You can think of the principal quantum number as the city of an address. In future articles we will look for the "road name" and "house number". The shell closest to the nucleus is assigned n = 1 (Figure 6.7), and then other shells above are given in sequence n = 2, then n = 3 and so on.
+    </p>
+
+    <figure>
+        <img img alt="Ground state of hydrogen" src="images/Fig6_7_groundHydrogen.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.7 The ground state of hydrogen</figurecaption>
+    </figure>  
+
+    <p>
+        There are multiple ways of approaching the n = 1 shell from a higher shell. Many transitions have been deduced by experiment and classified according to the region of the electromagnetic spectrum involved. The group of transitions from any shell n &#8805 2 to n = 1 is known as the <i>Lyman series</i> and all transitions fall under the ultraviolet range. The difference between the n = 1 and n = 2 shells corresponds to the lowest energy ultraviolet emission or absorption possible for the hydrogen atom.
+    </p>
+    
+    <p>
+        There are other known series. The series which falls within the visible range from n &#8805 3 to n = 2 is known as the <i>Balmer series</i>. If the n = 2 to n = 1 transition corresponds to an ultraviolet wave and all of the transitions in the Balmer series lie in the visible range, then the potential energy difference between n = 2 and n = 1 is the largest of all (see Figure 6.7; you may assume the y-axis scales are linear). Finally, the series which falls within the infra-red range, from n &#8805 4 to n = 3, is known as the <i>Paschen series</i>. Following similar arguments, the n = 3 to n = 2 transition is greater than any transition from a shell n &#8805 4 to n = 3. You can easily find more information about these and other series concerning hydrogen, and their background, online.
+    </p>
+
+    <p>
+        Considering all of the above series' observations, it appears that the potential energy differences decreases as the principal quantum number increases. In other words, the energy levels bunch up as n increases. This is approximated in Figures 6.7 and 6.9.
+    </p>
+
+    <h3>Calculating the energy change of a transition</h3>
+    <p>
+        At some point, it is possible to expel an electron from an atom but when does this occur? Strictly speaking this happens when the electron no longer feels the attractive force of the nucleus. To achieve this, one would need to separate the electron from the nucleus by an infinite distance. This is the same as saying the electron is expelled if it occupies the n = &#8734 shell. If we wanted to expel the electron from the atom, when it occupies the n = 1 shell, then we would need to provide it energy which is at least as much as the potential energy difference between the n = 1 and n = &#8734 shells. The background to the ionisation energy of hydrogen (which you will learn about if you have not already) and the photoelectric effect is based on these and other ideas.
+    </p>
+
+    <p>
+        Take care with interpreting the energy level diagrams as n &#8594 &#8734, in terms of real distance. They do not correlate well with distance as we know it. For example, even if it seems that not a lot <i>more</i> energy is needed to expel an electron from n = 1000 to n = &#8734, you still need to take the electron to an infinite distance away, which is a long, long....way away!
+    </p>
+
+    <p>
+        Coulomb's law measures the force of attraction or repulsion between two point charges (charges with negligible, effectively zero volume). One can derive and calculate the potential energy (Figure 6.8) between point charges which in our case concern electrons and protons. Doing so shows us that the y-axis potential energy E is in fact negative. I will use the proportionality form of potential energy to explain.
+    </p>
+
+    <figure>
+        <img img alt="Energy dervived from Coulomb's Law" src="images/Fig6_8_CoulombsLaw.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.8 Potential energy between two stationary point charges (derived from Coulomb's law)</figurecaption>
+    </figure>  
+
+    <p>
+        The charge of each ion is given by q<sub>1</sub> and q<sub>2</sub> and clearly, we conclude that when both charges have the same sign, they repel and the potential energy is positive. However, if they have opposite signs, as is the case between protons and electrons, then the potential energy is negative. The distance between the charges is given by r as the denominator. As r &#8594 &#8734, we can see that the potential energy becomes less negative and E &#8594 0. The infinite distance is equivalent to an electron occupying the n = &#8734 shell, and thus we can see that the potential energy of the electron at infinity is zero. You may see some of these numerical details (Figure 6.9) in the literature when reading around this subject.
+    </p>
+
+    <figure>
+        <img img alt="More detailed energy level diagram" src="images/Fig6_9_EnergyLevelDetail.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.9 How energy levels are related to potential energy in more detail</figurecaption>
+    </figure>  
+
+    <p>
+        We end part 2 by highlighting the <i>Rydberg equation</i> (Figure 6.10) deduced from experimental data by a Swedish physicist Johannes Rydberg. This equation provides a way of calculating the potential energy differences between shells of a hydrogen atom using principal quantum numbers only. The Rydberg equation can be extended, with more terms, so that it applies to other hydrogen-like species but this beyond the scope of this article. The factor R<sub>H</sub> is known as the Rydberg constant, which in the form expressed in Figure 6.10 has a value of 3.29 x 10<sup>15</sup> Hz. The term n<sub>2</sub> is the principal quantum number for the higher energy level, n<sub>1</sub> is the principal quantum number for the lower energy level. Using the equation E = hv (where v is frequency deduced from the Rydberg equation and h is Planck's constant) one can calculate the energy changes for any transition in a hydrogen atom. 
+    </p>
+
+    <figure>
+        <img img alt="Rydberg equation" src="images/Fig6_10_Rydberg.svg" class="mx-auto img-fluid d-block" style="width: 100%">
+        <figurecaption> Figure 6.10 The Rydberg equation (v is frequency)</figurecaption>
+    </figure>  
+
+    <p>
+        A lot has been covered in this article. To summarise, we have used the atomic spectra of hydrogen to demonstrate by experiment that electrons can reside in different shells, each with a different potential energy and gained a deeper understanding about the meaning of energy level diagrams. We have also covered a very important concept related to electron transitions between energy levels and how the energy changes involved can be calculated for the hydrogen atom.
+    </p>
+    
+    <p>
+        In <a href="/7_AtomicOrbitals">part 3</a> we will use some of the results from the Schr&#246dinger wave equation and magnetic properties of electrons to extend the above ideas about shells so that we can more accurately and concisely state the location of electrons around an atom.
+    </p>
+
+<%- include("partials/footer") %>
