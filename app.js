@@ -61,6 +61,19 @@ app.get("/Reply", function(req, res){
 	res.render("reply");
 });
 
+app.get("/feedback", function(req, res){
+	Feedback.find({}, function(err, feedbacks){
+		if(err){
+			console.log("Feedback data could not be retrieved and displayed");
+			console.log(err);
+		} else {
+			console.log("Feedback data retrieved and displayed");
+			//send feedbacks to feedback.ejs and app.post("/feedback")
+			res.render("feedback", {feedbackEJS:feedbacks});
+		}
+	});
+});
+
 //POST routes (names independent of GET routes)
 app.post("/reply", function(req, res){
 	//get data: date, email_input, userType and form_input from the Contact page (need body-parser to use HTML tag names)

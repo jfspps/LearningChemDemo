@@ -6,7 +6,7 @@
 
 <title>LearningChem - Feedback</title>
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <style>
 	  	#bodytext{
 		padding-top: 100px;
@@ -22,7 +22,7 @@
 <body>
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand font-weight-bolder" href="/" style="color: #99cc00">LearningChem</a>
+  <a class="navbar-brand font-weight-bolder" href="" style="color: #99cc00">LearningChem</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -31,11 +31,6 @@
     <ul class="navbar-nav mr-auto">
 
       <!-- "nav-item active" sets list item as Bootstrap active -->
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Topics
-        </a>
-      </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -55,9 +50,10 @@
 <table class="table table-hover">
 	<thead class="thead-dark">
 	    <tr>
-	      <th width="300px" scope="col">Date</th>
-	      <th width="500px" scope="col">Email</th>
-	      <th width="100px" scope="col">User Type</th>
+	      <th width="280px" scope="col">Date</th>
+	      <th width="250px" scope="col">Name</th>
+	      <th width="250px" scope="col">Email</th>
+	      <th width="80px" scope="col">User Type</th>
 	      <th scope="col">Message</th>
 	    </tr>
 	<thead>
@@ -65,6 +61,7 @@
 <%feedbackEJS.forEach(function(record){  %>
 	<tr>
 			<td><%= record.date %></td>
+			<td><%= record.name %></td>
 			<td><email> <a href=mailto:<%= record.email %>><%= record.email %></a></td>
 			<td><%= record.user %></td>
 			<td><%= record.form %></td>
