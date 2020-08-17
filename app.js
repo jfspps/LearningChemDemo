@@ -61,7 +61,7 @@ app.get("/Reply", function(req, res){
 	res.render("reply");
 });
 
-app.get("/feedback", function(req, res){
+app.get("/readFeedback", function(req, res){
 	Feedback.find({}, function(err, feedbacks){
 		if(err){
 			console.log("Feedback data could not be retrieved and displayed");
