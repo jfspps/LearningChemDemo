@@ -24,3 +24,7 @@ db.createUser(
 This secures MongoDB. Change the user and pwd as required, remembering to change the corresponding parameters in `app.js`. The database for LearningChem (eventually labelled 'feedback') is saved automatically and need not be initialised.
 
 After entering `mongo` at the console, typing `help` will list common functions. The command `show dbs` shows the databases and their disk usage currently stored in /data/db. Creating new and accessing current databases is achieved using `use databaseName`.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
