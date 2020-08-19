@@ -1,6 +1,8 @@
 # LearningChemistry
 Web app files for LearningChem. Run `node app.js` from the primary directory and enter `localhost:8080` in a web browser.
 
+The live website is currently here: https://www.learningchem.co.uk
+
 ## Installing MongoDB on Linux Mint 20 (required to handle the Feedback form)
 
 Install MongoDB using the DEB package for Ubuntu 20.04, [set](https://fantinel.dev/mongodb-error-datadb-on-linux/) the /data/db directories with `sudo mkdir -p /data/db/` and set ownership to yourself with `sudo chown 'id -u' /data/db`.
