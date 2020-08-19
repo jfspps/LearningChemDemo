@@ -1,5 +1,5 @@
 # LearningChemistry
-Web app files for LearningChem
+Web app files for LearningChem. Run `node app.js` from the primary directory and enter `localhost:8080` in a web browser.
 
 ## Installing MongoDB on Linux Mint 20 (required to handle the Feedback form)
 
